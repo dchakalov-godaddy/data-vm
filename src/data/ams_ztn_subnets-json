@@ -1,0 +1,92 @@
+[
+  {
+    "subnet": "10.197.172.0/22",
+    "subnet_id": "35c9c874-02a0-431a-9b35-239223d3ca7e",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 307
+  },
+  {
+    "subnet": "160.153.244.0/22",
+    "subnet_id": "37ed2bb8-d17b-41ec-976b-6829f114c7a4",
+    "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
+    "count": 0
+  },
+  {
+    "subnet": "10.197.156.0/22",
+    "subnet_id": "39bf2161-f618-4a7a-bdb5-daec73cabae3",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 526
+  },
+  {
+    "subnet": "10.197.164.0/22",
+    "subnet_id": "565dc39b-76a1-4b35-9e7f-e40aa220c545",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 12
+  },
+  {
+    "subnet": "10.197.188.0/22",
+    "subnet_id": "57bfc440-d162-426d-8971-290c64a6a35c",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 320
+  },
+  {
+    "subnet": "160.153.234.0/23",
+    "subnet_id": "8fe7c927-9038-42db-9730-222d8b793cc2",
+    "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
+    "count": 0
+  },
+  {
+    "subnet": "10.197.180.0/22",
+    "subnet_id": "a62394ca-0e06-4745-8ec7-f3a253a75fe7",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 0
+  },
+  {
+    "subnet": "160.153.248.0/22",
+    "subnet_id": "a8b91205-d54f-4eb8-8020-d356f65754cd",
+    "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
+    "count": 0
+  },
+  {
+    "subnet": "160.153.252.0/22",
+    "subnet_id": "c0b31446-d165-46c4-b98d-2715c54157d5",
+    "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
+    "count": 0
+  },
+  {
+    "subnet": "10.197.160.0/22",
+    "subnet_id": "c997178d-8663-4778-b33b-62496ea05974",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 76
+  },
+  {
+    "subnet": "10.217.192.0/22",
+    "subnet_id": "caf5ddda-9cfd-45ca-9a4e-faed933e10f9",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 556
+  },
+  {
+    "subnet": "10.197.176.0/22",
+    "subnet_id": "cc4bb486-b548-413a-8959-e7f693bfd25a",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 0
+  },
+  {
+    "subnet": "10.197.184.0/22",
+    "subnet_id": "d519ca15-672d-4fa8-b2f3-3089f1e50d21",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 0
+  },
+  {
+    "subnet": "10.216.96.128/25",
+    "subnet_id": "e56716eb-8874-4224-96c1-079ca4048f91",
+    "network_id": "a0f52710-edb8-4cea-ac91-c18e61ccd423",
+    "count": 0
+  },
+  {
+    "subnet": "10.198.212.0/22",
+    "subnet_id": "f81cabf0-5c59-4b0c-9193-0a1b9e14e50b",
+    "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
+    "count": 0
+  }
+]
