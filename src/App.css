@@ -1,9 +1,24 @@
+@import url(//db.onlinewebfonts.com/c/0aee6008b82cde991ec28387169bb13e?family=GD+Sherpa);
+@import url(//db.onlinewebfonts.com/c/8a86b3e611f41da6ca263bf6c73dc65b?family=GDSage-Bold);
+
+:root {
+	--global-color-light-blue: rgb(216,239,239);
+  --global-color-dark-blue: rgb(0,131,140);
+  --global-color-black: rgb(17,17,17);
+}
+
 .header{
   display: flex;
   justify-content: center;
   padding: 1rem;
   font-size: 2rem;
-  background-color: rgba(128, 128, 128, 0.359);
-  color: white;
+  color: rgb(17,17,17);
   font-weight: 700;
+  border-bottom: 2px solid var(--global-color-dark-blue);
+  font-family: GD Sage; 
+  background-color: var(--global-color-light-blue);
+}
+
+.main-section h2 {
+  text-align: center;
 }
