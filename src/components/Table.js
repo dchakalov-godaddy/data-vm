@@ -5,7 +5,7 @@ export default function Table({ data }) {
 
 	let theadData = Object.keys(cloudData[0]);
 
-
+	console.log(data);
 	return (
 		<>
 			<h2 className="table-h2">{cloudName}</h2>

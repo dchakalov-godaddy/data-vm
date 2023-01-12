@@ -1,13 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/Headers.js";
-import MainSection from "./components/MainSection.js";
+import Subnets from "./components/Subnets.js";
 
 function App() {
 	return (
 		<>
 			<Header />
-			<MainSection />
+			<Subnets />
 		</>
 	);
 }

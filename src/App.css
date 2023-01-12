@@ -27,7 +27,6 @@
 }
 
 .data-table {
-	border: 1px solid black;
 	box-shadow: 5px 5px 15px lightgray;
 	padding: 10px;
 }
@@ -46,10 +45,12 @@
 	font-family: GD Sage;
 }
 
-.table-row {
-  border: 3px solid black;
+.table-body * tr {
+
 }
 
 .table-body * {
-	background-color: rgb(247, 247, 247)
+	background-color: rgb(247, 247, 247);
+	border: 1px solid lightgray;
+	padding: 2px 4px;
 }
