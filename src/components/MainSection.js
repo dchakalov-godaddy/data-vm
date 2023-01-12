@@ -1,15 +1,15 @@
+import data from '../data/data.json'
+import Table from './Table.js';
 
-export default async function MainSection() {
-
-	let file = await fetch("http://dc-data-vm.cloud.phx3.gdg/data/ams_private_subnets-json");
-
-	let jsonRes = await file.json()
-
-	console.log(jsonRes);
+export default function MainSection() {
 
 	return (
 		<body className="main-section">
-            <h2>This is the main section</h2>
+			{data.map((env, index) => {
+				
+				return <Table key={index} data={env} />;
+			})}
+			
 		</body>
 	);
 }

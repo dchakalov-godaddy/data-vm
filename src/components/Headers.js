@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header className="header">
-            Welcome to legacy Openstack data website
+            Legacy Openstack data representation
         </header>
     )
 }
