@@ -5,7 +5,6 @@ export default function Table({ data }) {
 
 	let theadData = Object.keys(cloudData[0]);
 
-	console.log(data);
 	return (
 		<>
 			<h2 className="table-h2">{cloudName}</h2>
@@ -18,15 +17,19 @@ export default function Table({ data }) {
 					</tr>
 				</thead>
 				<tbody className="table-body">
-					{cloudData.map((row, index) => {
-						return (
-							<tr className="table-row" key={index}>
-								{theadData.map((key, index) => {
-									return <td key={row[key]}>{row[key]}</td>;
-								})}
-							</tr>
-						);
-					})}
+					{typeof cloudData == "string" ? (
+						<h3>No risky hypervisors</h3>
+					) : (
+						cloudData.map((row, index) => {
+							return (
+								<tr className="table-row" key={index}>
+									{theadData.map((key, index) => {
+										return <td key={row[key]}>{row[key]}</td>;
+									})}
+								</tr>
+							);
+						})
+					)}
 				</tbody>
 			</table>
 		</>

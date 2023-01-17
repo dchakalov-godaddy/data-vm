@@ -1,24 +1,28 @@
-import data from "../data/all_subnets.json";
-import Table from "./Table.js";
 import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
+import data from "../data/all-risky.json";
 
-export default function MainSection() {
-	const [key, setKey] = useState();
+import Table from "./Table.js";
 
-	let initialKey = Object.keys(data[0])[0];
+export default function Risky() {
+    const [key, setKey] = useState();
+
+    let initialKey = Object.keys(data[0])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
 
-	let dates = []
+
+	let dates = [];
 	for (const item of data) {
 		dates.push(Object.keys(item)[0]);
 	}
-	
+
+	console.log(dates);
+
 	return (
 		<div className="main-section">
-			<h2>SUBNETS</h2>
+			<h2>RISKY HYPERVISORS</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
@@ -30,16 +34,12 @@ export default function MainSection() {
 			>
 				{data.map((date) => (
 					<Tab eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
-						{(Object.values(date)[0]).map((env, index) => (
-							 <Table key={index} data={env} />
+						{Object.values(date)[0].map((env, index) => (
+							<Table key={index} data={env} />
 						))}
 					</Tab>
 				))}
 			</Tabs>
-			{/* {data.map((env, index) => {
-				
-				return <Table key={index} data={env} />;
-			})} */}
 		</div>
 	);
 }
