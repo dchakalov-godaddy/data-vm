@@ -12,8 +12,8 @@ function App() {
 			<Navigation />
 			<main>
 				<Routes>
-					<Route path="/subnets" element={<Subnets />} />
-					<Route path="/risky" element={<Risky />} />
+					<Route path="/#/subnets" element={<Subnets />} />
+					<Route path="/#/risky" element={<Risky />} />
 				</Routes>
 			</main>
 		</>
