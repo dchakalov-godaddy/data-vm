@@ -12,7 +12,7 @@ export default function Navigation() {
 	};
 
 	return (
-		<Nav justify variant="tabs">
+		<Nav fill variant="tabs">
 			<Nav.Item>
 				<Nav.Link eventKey="subnets" href="/#/subnets">
 					Subnets
@@ -21,6 +21,11 @@ export default function Navigation() {
 			<Nav.Item>
 				<Nav.Link eventKey="risky" href="/#/risky">
 					Risky Hypervisors
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
+				<Nav.Link eventKey="hypervisors" href="/#/hypervisors">
+					Hypervisors
 				</Nav.Link>
 			</Nav.Item>
 		</Nav>

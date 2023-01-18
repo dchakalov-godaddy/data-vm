@@ -1,26 +1,24 @@
 import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
-import data from "../data/all-risky.json";
-
+import data from "../data/all_hypervisors.json";
 import Table from "./Table.js";
 
-export default function Risky() {
+export default function Hypervisors() {
     const [key, setKey] = useState();
 
-    let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[0])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
 
-
 	let dates = [];
 	for (const item of data) {
 		dates.push(Object.keys(item)[0]);
-	}
-
-	return (
+    }
+    
+    return (
 		<div className="main-section">
-			<h2>RISKY HYPERVISORS</h2>
+			<h2>HYPERVISORS</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
