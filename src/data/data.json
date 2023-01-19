@@ -1,160 +1,106 @@
 [
-  {
-    "ams_private": [
-      {
-        "subnet": "160.153.15.0/25",
-        "subnet_id": "5de74443-6487-436d-a80e-278283993b00",
-        "network_id": "9a78e561-dfee-4b6a-b31a-c6494ed0d0d9",
-        "count": 0
-      },
-      {
-        "subnet": "10.36.19.0/24",
-        "subnet_id": "85100291-c33d-4963-8c5d-fc901529f52a",
-        "network_id": "a5e95c7e-e520-4efa-b257-70dd4785b1a2",
-        "count": 0
-      },
-      {
-        "subnet": "10.36.224.0/24",
-        "subnet_id": "8d41f698-3508-4e13-8841-583b73cb760c",
-        "network_id": "a5e95c7e-e520-4efa-b257-70dd4785b1a2",
-        "count": 0
-      },
-      {
-        "subnet": "10.30.16.0/24",
-        "subnet_id": "13e8f132-96c7-413b-8aae-06bb1048dcbe",
-        "network_id": "3aef2556-5336-4edc-b684-772f09dbae06",
-        "count": 0
-      },
-      {
-        "subnet": "160.153.28.0/22",
-        "subnet_id": "f474df2a-b91a-45b3-ad43-8912e55339ce",
-        "network_id": "9a78e561-dfee-4b6a-b31a-c6494ed0d0d9",
-        "count": 0
-      },
-      {
-        "subnet": "10.30.17.0/24",
-        "subnet_id": "5bedd945-0895-4c4e-aa3b-52f0f4620ba5",
-        "network_id": "3aef2556-5336-4edc-b684-772f09dbae06",
-        "count": 0
-      },
-      {
-        "subnet": "10.36.20.0/22",
-        "subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0",
-        "network_id": "106f7059-e16b-4f83-b9f6-f5b45d961861",
-        "count": 249
-      },
-      {
-        "subnet": "10.30.5.0/24",
-        "subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
-        "network_id": "663733f2-b27c-430b-b81c-a3f1075c426d",
-        "count": 26
-      },
-      {
-        "subnet": "10.36.28.0/22",
-        "subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
-        "network_id": "fa2f9939-c322-40de-b505-3e7dc5fb0b64",
-        "count": 107
-      },
-      {
-        "subnet": "10.30.8.0/22",
-        "subnet_id": "17597ea9-b562-486f-882f-938440538afb",
-        "network_id": "fdd04727-18c1-4d05-9148-c8c3d72a1f8e",
-        "count": 48
-      }
-    ]
-  },
-  {
-    "ams_ztn": [
-      {
-        "subnet": "10.197.172.0/22",
-        "subnet_id": "35c9c874-02a0-431a-9b35-239223d3ca7e",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 307
-      },
-      {
-        "subnet": "160.153.244.0/22",
-        "subnet_id": "37ed2bb8-d17b-41ec-976b-6829f114c7a4",
-        "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
-        "count": 0
-      },
-      {
-        "subnet": "10.197.156.0/22",
-        "subnet_id": "39bf2161-f618-4a7a-bdb5-daec73cabae3",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 526
-      },
-      {
-        "subnet": "10.197.164.0/22",
-        "subnet_id": "565dc39b-76a1-4b35-9e7f-e40aa220c545",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 12
-      },
-      {
-        "subnet": "10.197.188.0/22",
-        "subnet_id": "57bfc440-d162-426d-8971-290c64a6a35c",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 319
-      },
-      {
-        "subnet": "160.153.234.0/23",
-        "subnet_id": "8fe7c927-9038-42db-9730-222d8b793cc2",
-        "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
-        "count": 0
-      },
-      {
-        "subnet": "10.197.180.0/22",
-        "subnet_id": "a62394ca-0e06-4745-8ec7-f3a253a75fe7",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 0
-      },
-      {
-        "subnet": "160.153.248.0/22",
-        "subnet_id": "a8b91205-d54f-4eb8-8020-d356f65754cd",
-        "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
-        "count": 0
-      },
-      {
-        "subnet": "160.153.252.0/22",
-        "subnet_id": "c0b31446-d165-46c4-b98d-2715c54157d5",
-        "network_id": "d3ae3568-9eb3-492e-9dd4-2a6c6a0706b6",
-        "count": 0
-      },
-      {
-        "subnet": "10.197.160.0/22",
-        "subnet_id": "c997178d-8663-4778-b33b-62496ea05974",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 76
-      },
-      {
-        "subnet": "10.217.192.0/22",
-        "subnet_id": "caf5ddda-9cfd-45ca-9a4e-faed933e10f9",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 556
-      },
-      {
-        "subnet": "10.197.176.0/22",
-        "subnet_id": "cc4bb486-b548-413a-8959-e7f693bfd25a",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 0
-      },
-      {
-        "subnet": "10.197.184.0/22",
-        "subnet_id": "d519ca15-672d-4fa8-b2f3-3089f1e50d21",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 0
-      },
-      {
-        "subnet": "10.216.96.128/25",
-        "subnet_id": "e56716eb-8874-4224-96c1-079ca4048f91",
-        "network_id": "a0f52710-edb8-4cea-ac91-c18e61ccd423",
-        "count": 0
-      },
-      {
-        "subnet": "10.198.212.0/22",
-        "subnet_id": "f81cabf0-5c59-4b0c-9193-0a1b9e14e50b",
-        "network_id": "0af05db8-3ac7-4e2d-8cdb-9e12ced56fe5",
-        "count": 0
-      }
-    ]
-  }
+	{
+		"2023-01-19": [
+			{
+				"ams_private": [
+					{
+						"n3plcldhv001-02.prod.ams3.gdg": [
+							{
+								"name": "rbreker-a8-5",
+								"state": "SHUTOFF",
+								"uuid": "015ae05c-38f7-4054-89da-5b59d26aa657",
+								"allocated_disk": "60G",
+								"disk_usage": "3.4G",
+								"use_percentage": 5.0
+							},
+							{
+								"name": "rbreker-ws22-1",
+								"state": "SHUTOFF",
+								"uuid": "6e687a34-9d7e-46ed-bd56-473b5a86616e",
+								"allocated_disk": "60G",
+								"disk_usage": "8.4G",
+								"use_percentage": 13.3
+							},
+							{
+								"name": "he-jumper",
+								"state": "ACTIVE",
+								"uuid": "2404599c-c981-4e61-b5b0-235efda300ce",
+								"allocated_disk": "40G",
+								"disk_usage": "19G",
+								"use_percentage": 47.5
+							},
+							{
+								"name": "n3pliciendp001",
+								"state": "ACTIVE",
+								"uuid": "156d14c4-e9a1-4111-8d16-fba3ac9dca17",
+								"allocated_disk": "120G",
+								"disk_usage": "34G",
+								"use_percentage": 28.3
+							},
+							{
+								"name": "n3plpncps01",
+								"state": "ACTIVE",
+								"uuid": "f71dd510-6a76-4e52-a8f8-ec141748c316",
+								"allocated_disk": "240G",
+								"disk_usage": "32G",
+								"use_percentage": 13.3
+							},
+							{
+								"name": "n3plipmimsg007",
+								"state": "ACTIVE",
+								"uuid": "3f3cd35d-6dfe-465f-90c3-aa520b0acd57",
+								"allocated_disk": "360G",
+								"disk_usage": "58G",
+								"use_percentage": 16.1
+							}
+						]
+					},
+					{
+						"n3plcldhv001-01.prod.ams3.gdg": [
+							{
+								"name": "rbreker-ws22-3",
+								"state": "ACTIVE",
+								"uuid": "8161c8a6-bbbf-4843-a4ef-c4fbfdb0728d",
+								"allocated_disk": "60G",
+								"disk_usage": "7.7G",
+								"use_percentage": 11.7
+							},
+							{
+								"name": "n3pliiq001",
+								"state": "ACTIVE",
+								"uuid": "4e221b4a-5ba3-4584-9c91-1e2ff9ea84b1",
+								"allocated_disk": "240G",
+								"disk_usage": "35G",
+								"use_percentage": 14.6
+							},
+							{
+								"name": "n3plproxy001",
+								"state": "ACTIVE",
+								"uuid": "df7723f3-6311-4199-9d3e-c5d1e10d246a",
+								"allocated_disk": "120G",
+								"disk_usage": "31G",
+								"use_percentage": 25.8
+							},
+							{
+								"name": "n3possyncutil1",
+								"state": "ACTIVE",
+								"uuid": "4c1d4c48-05b0-4052-a4dd-90536e8b8260",
+								"allocated_disk": "240G",
+								"disk_usage": "240G",
+								"use_percentage": 100.0
+							},
+							{
+								"name": "dbox-win1",
+								"state": "ACTIVE",
+								"uuid": "a8f95b60-825e-4a4f-a924-2d3e82bdf8f1",
+								"allocated_disk": "240G",
+								"disk_usage": "236G",
+								"use_percentage": 98.3
+							}
+						]
+					}
+				]
+			}
+		]
+	}
 ]

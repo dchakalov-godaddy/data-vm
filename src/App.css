@@ -32,6 +32,7 @@
 .data-table {
 	box-shadow: 5px 5px 15px lightgray;
 	padding: 10px;
+	margin-bottom: 20px;
 }
 
 .table-heading {
@@ -48,11 +49,19 @@
 	font-family: GD Sage;
 }
 
-.table-body * tr {
-}
-
 .table-body * {
 	background-color: rgb(247, 247, 247);
 	border: 1px solid lightgray;
 	padding: 2px 4px;
+}
+
+.table-section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.table-section table {
+	flex-basis: 100%;
 }

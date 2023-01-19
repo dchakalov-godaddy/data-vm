@@ -1,26 +1,27 @@
 import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
-import data from "../data/all-risky.json";
+import data from "../data/vm_per_hv.json";
+// import data from "../data/data.json";
 
 import Table from "./Table.js";
 
-export default function Risky() {
-    const [key, setKey] = useState();
+export default function VMsPerHV() {
+	const [key, setKey] = useState();
 
-    let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[0])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
-
 
 	let dates = [];
 	for (const item of data) {
 		dates.push(Object.keys(item)[0]);
 	}
 
+
 	return (
 		<div className="main-section">
-			<h2>RISKY HYPERVISORS</h2>
+			<h2>VMs PER HYPERVISOR DISK USAGE</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
@@ -30,8 +31,8 @@ export default function Risky() {
 					setKey(k);
 				}}
 			>
-				{data.map((date, idx) => (
-					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
+				{data.map((date, i) => (
+					<Tab key={i} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
 							<Table key={index} data={env} />
 						))}

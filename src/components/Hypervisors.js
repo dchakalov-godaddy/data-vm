@@ -28,8 +28,8 @@ export default function Hypervisors() {
 					setKey(k);
 				}}
 			>
-				{data.map((date) => (
-					<Tab eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
+				{data.map((date, idx) => (
+					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
 							<Table key={index} data={env} />
 						))}

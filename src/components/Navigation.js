@@ -28,6 +28,11 @@ export default function Navigation() {
 					Hypervisors
 				</Nav.Link>
 			</Nav.Item>
+			<Nav.Item>
+				<Nav.Link eventKey="vmperhv" href="/#/vmperhv">
+					VM per HV disk usage
+				</Nav.Link>
+			</Nav.Item>
 		</Nav>
 	);
 }
