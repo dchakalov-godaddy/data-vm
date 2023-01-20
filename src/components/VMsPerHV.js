@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
-// import data from "../data/vm_per_hv.json";
-import data from "../data/data.json";
+import data from "../data/vm_per_hv.json";
+// import data from "../data/data.json";
 
 import Table from "./Table.js";
 
