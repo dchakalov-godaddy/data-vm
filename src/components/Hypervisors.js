@@ -4,7 +4,7 @@ import data from "../data/all_hypervisors.json";
 import Table from "./Table.js";
 
 export default function Hypervisors() {
-    const [key, setKey] = useState();
+	const [key, setKey] = useState();
 
 	let initialKey = Object.keys(data[0])[0];
 	useEffect(() => {
@@ -14,9 +14,9 @@ export default function Hypervisors() {
 	let dates = [];
 	for (const item of data) {
 		dates.push(Object.keys(item)[0]);
-    }
-    
-    return (
+	}
+
+	return (
 		<div className="main-section">
 			<h2>HYPERVISORS</h2>
 			<Tabs
@@ -31,7 +31,7 @@ export default function Hypervisors() {
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
-							<Table key={index} data={env} />
+							<Table key={index} data={env} type="hypervisors" />
 						))}
 					</Tab>
 				))}

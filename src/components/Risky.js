@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
+
 import data from "../data/all-risky.json";
 
 import Table from "./Table.js";
@@ -33,7 +34,7 @@ export default function Risky() {
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
-							<Table key={index} data={env} />
+							<Table key={index} data={env} type='risky-hypervisors' />
 						))}
 					</Tab>
 				))}

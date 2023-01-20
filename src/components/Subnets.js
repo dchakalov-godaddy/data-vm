@@ -30,8 +30,8 @@ export default function MainSection() {
 			>
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
-						{(Object.values(date)[0]).map((env, index) => (
-							 <Table key={index} data={env} />
+						{Object.values(date)[0].map((env, index) => (
+							<Table key={index} data={env} type="subnets" />
 						))}
 					</Tab>
 				))}
