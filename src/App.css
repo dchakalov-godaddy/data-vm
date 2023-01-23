@@ -69,6 +69,10 @@
 	margin: 5px;
 }
 
+.export-btn:hover {
+	cursor: pointer;
+}
+
 .export-btn * {
 	color: black;
 }

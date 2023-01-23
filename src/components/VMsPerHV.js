@@ -18,7 +18,6 @@ export default function VMsPerHV() {
 		dates.push(Object.keys(item)[0]);
 	}
 
-
 	return (
 		<div className="main-section">
 			<h2>VMs PER HYPERVISOR DISK USAGE</h2>

@@ -15,42 +15,30 @@ export default function Table({ data, type }) {
 		}
 	} else {
 		for (const key in Object.values(cloudData)) {
-			let currentObject = Object.values(cloudData)[key];
-			let hvName = Object.keys(currentObject)[0];
-			hvNames.push(hvName);
-			theadData = Object.keys(currentObject[hvName][0]);
-			for (const header of theadData) {
-				headers.push({ label: header, key: header });
+			try {
+				let currentObject = Object.values(cloudData)[key];
+				let hvName = Object.keys(currentObject)[0];
+				hvNames.push(hvName);
+				theadData = Object.keys(currentObject[hvName][0]);
+				for (const header of theadData) {
+					headers.push({ label: header, key: header });
+				}
+			} catch (error) {
+				console.log(error);
 			}
 		}
 	}
 
-	function getHypervisorData(cloudData, hvName) {
-		function traverse_it(obj) {
-			for (var prop in obj) {
-				if (typeof obj[prop] == "object") {
-					// object
-					if (obj[prop].hasOwnProperty(hvName)) {
-						return Object.values(obj[prop]);
-					}
-					traverse_it(obj[prop]);
-				} else {
-					// let key = Object.keys(obj[prop])[0];
-					// if (key == hvName) {
-					// 	let test = Object.entries(obj[prop])
-					// 	console.log(Object.entries(test)[0][1][1]);
-					// }
-				}
-			}
-		}
-
-		traverse_it(cloudData);
+	if (cloudData !== "No high risk hypervisors") {
+		console.log(true);
+	} else {
+		console.log(false);
 	}
 
 	return (
 		<div className="table-section">
 			<h2 className="table-h2">{cloudName}</h2>
-			{typeof Object.values(cloudData[0])[0] == "string" ? (
+			{typeof Object.values(cloudData[0])[0] == "string" && cloudData !== "No high risk hypervisors" ? (
 				<button variant="contained" color="primary" className="export-btn">
 					<CSVLink
 						data={Object.values(cloudData)}
@@ -63,21 +51,10 @@ export default function Table({ data, type }) {
 			) : (
 				""
 			)}
-
 			{typeof Object.values(cloudData[0])[0] == "object" ? (
 				hvNames.map((hvName, idx) => (
 					<div key={idx}>
 						<h5>{hvName}</h5>
-						{/* <button variant="contained" color="primary" className="export-btn">
-							<CSVLink
-								data={getHypervisorData(cloudData, hvName)}
-								filename={`${cloudName}-${type}`}
-								style={{ textDecoration: "none", color: "#fff" }}
-							>
-								<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
-							</CSVLink>
-						</button> */}
-						{getHypervisorData(cloudData, hvName)}
 						<table className="data-table">
 							<thead>
 								<tr className="table-heading">
@@ -139,16 +116,3 @@ export default function Table({ data, type }) {
 		</div>
 	);
 }
-
-// let hv = Object.keys(row)[0];
-// let hv_data = row[hv];
-// hv_data.map((vm_data) => {
-// 	return (
-// 		<tr className="table-row" key={index}>
-// 			{theadData.map((key, ind) => {
-// 				console.log(vm_data[key]);
-// 				return <td key={ind}>{vm_data[key]}</td>;
-// 			})}
-// 		</tr>
-// 	);
-// });
