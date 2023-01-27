@@ -84,3 +84,13 @@
 .excel-button-logo * {
 	color: black;
 }
+
+.table-div{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.subnet-heading {
+	text-decoration: underline;
+}

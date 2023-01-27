@@ -29,12 +29,6 @@ export default function Table({ data, type }) {
 		}
 	}
 
-	if (cloudData !== "No high risk hypervisors") {
-		console.log(true);
-	} else {
-		console.log(false);
-	}
-
 	return (
 		<div className="table-section">
 			<h2 className="table-h2">{cloudName}</h2>
@@ -53,7 +47,7 @@ export default function Table({ data, type }) {
 			)}
 			{typeof Object.values(cloudData[0])[0] == "object" ? (
 				hvNames.map((hvName, idx) => (
-					<div key={idx}>
+					<div key={idx} className='table-div'>
 						<h5>{hvName}</h5>
 						<table className="data-table">
 							<thead>

@@ -16,6 +16,7 @@ export default function MainSection() {
 		dates.push(Object.keys(item)[0]);
 	}
 	
+
 	return (
 		<div className="main-section">
 			<h2>SUBNETS</h2>
@@ -28,13 +29,17 @@ export default function MainSection() {
 					setKey(k);
 				}}
 			>
-				{data.map((date, idx) => (
-					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
-						{Object.values(date)[0].map((env, index) => (
-							<Table key={index} data={env} type="subnets" />
-						))}
-					</Tab>
-				))}
+				{data.map(
+					(date, idx) => (
+						(
+							<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
+								{Object.values(date)[0].map((env, index) => (
+									<Table key={index} data={env} type="subnets" />
+								))}
+							</Tab>
+						)
+					)
+				)}
 			</Tabs>
 			{/* {data.map((env, index) => {
 				

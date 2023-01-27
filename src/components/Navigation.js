@@ -19,6 +19,11 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="vmpersub" href="/#/vmpersub">
+					VMs Per Subnet
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="risky" href="/#/risky">
 					Risky Hypervisors
 				</Nav.Link>
