@@ -17,13 +17,14 @@ export default function SubnetTable({ data, type }) {
 		}
 	}
 
-	console.log(cloudData.length);
+	// console.log(Array.from(Object.values(cloudData[0])));
 
 	return (
 		<div className="table-section">
 			<h2 className="table-h2">{cloudName}</h2>
-			{cloudData.map((subnet, idx) => (
-				<div className="table-div">
+			{cloudData.map((subnet, index) => (
+				subnet.vms_list !== undefined ? 
+					<div className="table-div" key={index}>
 					<button variant="contained" color="primary" className="export-btn">
 						<CSVLink
 							data={subnet.vms_list}
@@ -34,7 +35,7 @@ export default function SubnetTable({ data, type }) {
 						</CSVLink>
 					</button>
 					<h5 className="subnet-heading">{subnet.subnet}</h5>
-					<table className="data-table" key={idx}>
+					<table className="data-table" key={index}>
 						<thead>
 							<tr className="table-heading">
 								{theadData.map((heading) => {
@@ -43,7 +44,7 @@ export default function SubnetTable({ data, type }) {
 							</tr>
 						</thead>
 						<tbody className="table-body">
-							{Array.from(Object.values(subnet.vms_list)).map((vm, index) => {
+							{Array.from(Object.values(subnet.vms_list)).map((vm, idx) => {
 								return (
 									<tr className="table-row" key={idx}>
 										{theadData.map((key, index) => {
@@ -54,7 +55,7 @@ export default function SubnetTable({ data, type }) {
 							})}
 						</tbody>
 					</table>
-				</div>
+				</div> : ""
 			))}
 		</div>
 	);

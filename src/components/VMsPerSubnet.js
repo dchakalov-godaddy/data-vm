@@ -21,7 +21,7 @@ export default function VMsPerSubnet() {
     
     return (
 		<div className="main-section">
-			<h2>SUBNETS</h2>
+			<h2>VMs PER SUBNET</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
