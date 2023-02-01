@@ -97,12 +97,14 @@
 .show-table-button {
 	border: none;
 	background-color: var(--global-color-light-blue);
-	width: 50%;
+	width: 250px;
 	text-align: center;
 	align-self: center;
 	margin: 1rem;
+	padding: 5px;
 	font-family: GD Sage;
 	color: var(--global-color-dark-blue);
+	min-width: 250px;
 }
 
 .show-table-button:hover {

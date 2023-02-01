@@ -55,7 +55,7 @@ export default function SubnetTable({ data, type }) {
 
 						<h5 className="subnet-heading">{subnet.subnet}</h5>
 						<button className="show-table-button" onClick={() => clickHandler(subnet.subnet)}>
-							{isShown[subnet.subnet] ? "Hide subnet table" : "Show subnet table"}
+							{isShown[subnet.subnet] ? "Hide table" : "Show table"}
 						</button>
 						{isShown[subnet.subnet] && (
 							<table className="data-table" key={index}>

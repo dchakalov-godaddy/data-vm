@@ -1,7 +1,9 @@
+import { useState } from "react";
 import { CSVLink } from "react-csv";
 
 export default function Table({ data, type }) {
 	let cloudName = Object.keys(data)[0];
+	const [isShown, setIsShown] = useState(false);
 
 	let cloudData = data[cloudName];
 
@@ -29,6 +31,10 @@ export default function Table({ data, type }) {
 		}
 	}
 
+	const clickHandler = () => {
+		setIsShown(current => !current)
+	};
+
 	return (
 		<div className="table-section">
 			<h2 className="table-h2">{cloudName}</h2>
@@ -47,7 +53,7 @@ export default function Table({ data, type }) {
 			)}
 			{typeof Object.values(cloudData[0])[0] == "object" ? (
 				hvNames.map((hvName, idx) => (
-					<div key={idx} className='table-div'>
+					<div key={idx} className="table-div">
 						<h5>{hvName}</h5>
 						<table className="data-table">
 							<thead>
@@ -80,31 +86,36 @@ export default function Table({ data, type }) {
 					</div>
 				))
 			) : (
-				<div>
-					<table className="data-table">
-						<thead>
-							<tr className="table-heading">
-								{theadData.map((heading) => {
-									return <th key={heading}>{heading}</th>;
-								})}
-							</tr>
-						</thead>
-						<tbody className="table-body">
-							{typeof cloudData == "string" ? (
-								<h3>No risky hypervisors</h3>
-							) : (
-								cloudData.map((row, index) => {
-									return (
-										<tr className="table-row" key={index}>
-											{theadData.map((key, index) => {
-												return <td key={index}>{row[key]}</td>;
-											})}
-										</tr>
-									);
-								})
-							)}
-						</tbody>
-					</table>
+				<div className="table-section">
+					<button className="show-table-button" onClick={clickHandler}>
+						{isShown ? "Hide table" : "Show table"}
+					</button>
+					{isShown && (
+						<table className="data-table">
+							<thead>
+								<tr className="table-heading">
+									{theadData.map((heading) => {
+										return <th key={heading}>{heading}</th>;
+									})}
+								</tr>
+							</thead>
+							<tbody className="table-body">
+								{typeof cloudData == "string" ? (
+									<h3>No risky hypervisors</h3>
+								) : (
+									cloudData.map((row, index) => {
+										return (
+											<tr className="table-row" key={index}>
+												{theadData.map((key, index) => {
+													return <td key={index}>{row[key]}</td>;
+												})}
+											</tr>
+										);
+									})
+								)}
+							</tbody>
+						</table>
+					)}
 				</div>
 			)}
 		</div>
