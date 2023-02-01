@@ -62,7 +62,6 @@
 	align-items: center;
 }
 
-
 .export-btn {
 	border: none;
 	background-color: transparent;
@@ -85,7 +84,7 @@
 	color: black;
 }
 
-.table-div{
+.table-div {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -93,4 +92,20 @@
 
 .subnet-heading {
 	text-decoration: underline;
+}
+
+.show-table-button {
+	border: none;
+	background-color: var(--global-color-light-blue);
+	width: 50%;
+	text-align: center;
+	align-self: center;
+	margin: 1rem;
+	font-family: GD Sage;
+	color: var(--global-color-dark-blue);
+}
+
+.show-table-button:hover {
+	cursor: pointer;
+	transform: scale(1.1);
 }
