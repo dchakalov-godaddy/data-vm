@@ -4,7 +4,6 @@ import { Tab, Tabs } from 'react-bootstrap';
 
 import data from '../data/vm_per_subnet.json'
 import SubnetTable from './SubnetTable.js';
-import Table from './Table.js';
 
 export default function VMsPerSubnet() {
     const [key, setKey] = useState();
@@ -21,7 +20,7 @@ export default function VMsPerSubnet() {
     
     return (
 		<div className="main-section">
-			<h2>VMs PER SUBNET</h2>
+			<h2 className="page-heading">VMs PER SUBNET</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}

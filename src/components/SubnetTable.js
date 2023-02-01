@@ -6,7 +6,7 @@ export default function SubnetTable({ data, type }) {
 
 	let cloudData = data[cloudName];
 
-	let theadData = ["id", "hipervisor", "usage"];
+	let theadData = ["id", "hipervisor", "usage", "owning_group", "created_by"];
 	let subnetNames = [];
 
 	let subnetShowObj = {};
@@ -15,7 +15,6 @@ export default function SubnetTable({ data, type }) {
 	}
 
 	const [isShown, setIsShown] = useState({ ...subnetShowObj });
-	const [showMeta, setShowMeta] = useState(false);
 
 	for (const key in Object.values(cloudData)) {
 		try {
@@ -31,10 +30,6 @@ export default function SubnetTable({ data, type }) {
 			...state,
 			[subnet]: !state[subnet],
 		}));
-	};
-
-	const rowClickHandler = (vm) => {
-		setShowMeta((current) => !current);
 	};
 
 	return (
@@ -53,7 +48,7 @@ export default function SubnetTable({ data, type }) {
 							</CSVLink>
 						</button>
 
-						<h5 className="subnet-heading">{subnet.subnet}</h5>
+						<h5 className="table-header">{subnet.subnet}</h5>
 						<button className="show-table-button" onClick={() => clickHandler(subnet.subnet)}>
 							{isShown[subnet.subnet] ? "Hide table" : "Show table"}
 						</button>
@@ -61,28 +56,23 @@ export default function SubnetTable({ data, type }) {
 							<table className="data-table" key={index}>
 								<thead>
 									<tr className="table-heading">
-										{theadData.map((heading) => {
-											return <th key={heading}>{heading}</th>;
+										{theadData.map((heading, index) => {
+											return <th key={index}>{heading}</th>;
 										})}
 									</tr>
 								</thead>
 								<tbody className="table-body">
 									{Array.from(Object.values(subnet.vms_list)).map((vm, idx) => {
 										return (
-											<>
-												<tr className="table-row" key={idx} onClick={() => rowClickHandler(vm)}>
-													{theadData.map((key, index) => {
-														return <td key={index}>{vm[key]}</td>;
-													})}
-												</tr>
-												{showMeta && (
-													<tr>
-														{vm.metadata.owning_group
-															? `Owning group: ${vm.metadata.owning_group}, Business service id: ${vm.metadata.business_service_id}`
-															: "No owning group present"}
-													</tr>
-												)}
-											</>
+											<tr className="table-row" key={idx}>
+												{theadData.map((key, index) => {
+													return vm.metadata !== undefined ? (
+														<td key={index}>{vm[key] || vm.metadata[key] || "No data"}</td>
+													) : (
+														<td key={index}>{vm[key] || "No data"}</td>
+													);
+												})}
+											</tr>
 										);
 									})}
 								</tbody>

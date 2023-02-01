@@ -7,19 +7,148 @@
 	--global-color-black: rgb(17, 17, 17);
 }
 
+/* Home page moving lines */
+#light {
+	position: relative;
+	top: 150px;
+}
+#lineh1 {
+	position: absolute;
+	left: 0;
+	height: 10px;
+	background: #5500aa;
+	animation: lineH 4s 5s infinite linear;
+}
+#lineh2 {
+	position: absolute;
+	left: 0;
+	top: 40px;
+	height: 10px;
+	background: #aa2b00;
+	animation: lineH 5s 0.5s infinite linear;
+}
+#lineh3 {
+	position: absolute;
+	left: 0;
+	top: 70px;
+	height: 10px;
+	background: #00d4ff;
+	animation: lineH 5s 2s infinite linear;
+}
+#lineh4 {
+	position: absolute;
+	right: 0;
+	top: 100px;
+	height: 10px;
+	background: #00aa2b;
+	animation: lineH 5s 1s infinite linear;
+}
+#lineh5 {
+	position: absolute;
+	left: 0;
+	top: 130px;
+	height: 10px;
+	background: #aa8000;
+	animation: lineH 5s 4s infinite linear;
+}
+#lineh6 {
+	position: absolute;
+	right: 0;
+	top: 160px;
+	height: 10px;
+	background: #aaff00;
+	animation: lineH 4s 1s infinite linear;
+}
+#lineh7 {
+	position: absolute;
+	right: 0;
+	top: 190px;
+	height: 10px;
+	background: #d50055;
+	animation: lineH 4s 0s infinite linear;
+}
+#lineh8 {
+	position: absolute;
+	left: 0;
+	top: 220px;
+	height: 10px;
+	background: #00ffff;
+	animation: lineH 4s 1.5s infinite linear;
+}
+#lineh9 {
+	position: absolute;
+	left: 0;
+	top: 250px;
+	height: 10px;
+	background: #2b002b;
+	animation: lineH 5s 2s infinite linear;
+}
+#lineh10 {
+	position: absolute;
+	right: 0;
+	top: 280px;
+	height: 10px;
+	background: #005580;
+	animation: lineH 4s 3s infinite linear;
+}
+#lineh11 {
+	position: absolute;
+	right: 0;
+	top: 310px;
+	height: 10px;
+	background: #ff557f;
+	animation: lineH 4s 1s infinite linear;
+}
+#lineh12 {
+	position: absolute;
+	right: 0;
+	top: 340px;
+	height: 10px;
+	background: #85b085;
+	animation: lineH 6s 1s infinite linear;
+}
+@keyframes lineH {
+	0% {
+		width: 0%;
+	}
+	100% {
+		width: 95%;
+		opacity: 0;
+	}
+}
+.home-page-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.home-heading {
+	color: var(--global-color-dark-blue);
+	margin: 1rem;
+	font-family: GD Sage;
+	text-shadow: 2px 2px var(--global-color-light-blue);
+}
+
 .header {
+	cursor: pointer;
 	display: flex;
 	justify-content: center;
 	padding: 1rem;
-	border-bottom: 2px solid var(--global-color-dark-blue);
-	background-color: var(--global-color-light-blue);
+	border-bottom: 2px solid var(--global-color-light-blue);
+	/* background-color: var(--global-color-light-blue); */
+	background: rgb(0, 131, 140);
+	background: linear-gradient(90deg, rgba(0, 131, 140, 1) 35%, rgba(216, 239, 239, 1) 100%);
 }
 
 .header-heading {
 	font-size: 2rem;
-	color: rgb(17, 17, 17);
+	color: rgb(255, 255, 255);
+	background-clip: text;
+	-webkit-background-clip: text;
 	font-weight: 700;
 	font-family: GD Sage;
+	text-shadow: 2px 2px black;
 }
 
 .main-section {
@@ -47,6 +176,8 @@
 
 .table-h2 {
 	font-family: GD Sage;
+	color: var(--global-color-dark-blue);
+	text-shadow: 2px 2px var(--global-color-light-blue);
 }
 
 .table-body * {
@@ -88,9 +219,10 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items: center;
 }
 
-.subnet-heading {
+.table-header {
 	text-decoration: underline;
 }
 
@@ -105,9 +237,47 @@
 	font-family: GD Sage;
 	color: var(--global-color-dark-blue);
 	min-width: 250px;
+	border-radius: 7px;
 }
 
 .show-table-button:hover {
 	cursor: pointer;
 	transform: scale(1.1);
+}
+
+.page-heading {
+	font-size: 26px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	/* width: 160px; */
+	text-align: center;
+	margin: auto;
+	white-space: nowrap;
+	padding-bottom: 13px;
+	font-family: GD Sage;
+	margin: 2rem;
+}
+.page-heading:before {
+	background-color: var(--global-color-dark-blue);
+	content: "";
+	display: block;
+	position: relative;
+	height: 3px;
+	width: 100%;
+	margin-bottom: 5px;
+	/* left: -25%; */
+}
+
+.page-heading:after {
+	background-color: var(--global-color-dark-blue);
+	content: "";
+	display: block;
+	position: relative;
+	margin-top: 5px;
+	/* right: -4rem; */
+	/* bottom: 0; */
+	height: 3px;
+	width: 100%;
+	margin-bottom: 0.25em;
 }

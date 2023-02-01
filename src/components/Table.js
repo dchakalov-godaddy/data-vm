@@ -54,7 +54,7 @@ export default function Table({ data, type }) {
 			{typeof Object.values(cloudData[0])[0] == "object" ? (
 				hvNames.map((hvName, idx) => (
 					<div key={idx} className="table-div">
-						<h5>{hvName}</h5>
+						<h5 className='table-header'>{hvName}</h5>
 						<table className="data-table">
 							<thead>
 								<tr className="table-heading">

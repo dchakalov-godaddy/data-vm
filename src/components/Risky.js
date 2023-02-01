@@ -21,7 +21,7 @@ export default function Risky() {
 
 	return (
 		<div className="main-section">
-			<h2>RISKY HYPERVISORS</h2>
+			<h2 className="page-heading">RISKY HYPERVISORS</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
@@ -34,7 +34,7 @@ export default function Risky() {
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
-							<Table key={index} data={env} type='risky-hypervisors' />
+							<Table key={index} data={env} type="risky-hypervisors" />
 						))}
 					</Tab>
 				))}

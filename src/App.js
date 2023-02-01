@@ -7,6 +7,7 @@ import Risky from "./components/Risky.js";
 import Hypervisors from "./components/Hypervisors.js";
 import VMsPerHV from "./components/VMsPerHV.js";
 import VMsPerSubnet from "./components/VMsPerSubnet.js";
+import Home from "./components/Home.js";
 
 function App() {
 	return (
@@ -15,6 +16,7 @@ function App() {
 			<Navigation />
 			<main>
 				<Routes>
+					<Route path="/" element={<Home />} />
 					<Route path="/subnets" element={<Subnets />} />
 					<Route path="/vmpersub" element={<VMsPerSubnet />} />
 					<Route path="/risky" element={<Risky />} />

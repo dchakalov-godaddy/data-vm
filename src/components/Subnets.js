@@ -19,7 +19,7 @@ export default function MainSection() {
 
 	return (
 		<div className="main-section">
-			<h2>SUBNETS</h2>
+			<h2 className="page-heading">SUBNETS</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
@@ -29,22 +29,14 @@ export default function MainSection() {
 					setKey(k);
 				}}
 			>
-				{data.map(
-					(date, idx) => (
-						(
-							<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
-								{Object.values(date)[0].map((env, index) => (
-									<Table key={index} data={env} type="subnets" />
-								))}
-							</Tab>
-						)
-					)
-				)}
-			</Tabs>
-			{/* {data.map((env, index) => {
-				
-				return <Table key={index} data={env} />;
-			})} */}
+				{data.map((date, idx) => (
+					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
+						{Object.values(date)[0].map((env, index) => (
+							<Table key={index} data={env} type="subnets" />
+						))}
+					</Tab>
+				))}
+			</Tabs>			
 		</div>
 	);
 }
