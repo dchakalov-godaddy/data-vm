@@ -1,0 +1,2624 @@
+[{
+	"2023-02-20": [
+		{
+			"ams_private": [
+				{
+					"name": "pnc-vnext-editor-prod",
+					"id": "a67b2d91148d48ca8db4dd5e5314bfae",
+					"owning_group": "36 - DEV-WebsiteBuilder",
+					"vm_list": [
+						{
+							"name": "n3plpnckn7a667",
+							"id": "0037bdb2-e417-4918-81d3-bd9d09892da6",
+							"hypervisor": "n3plcldhv003-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckifc682",
+							"id": "24f6abaf-bdad-4eb1-8d07-02ef11dc6e60",
+							"hypervisor": "n3plcldhv003-12.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckiffab0",
+							"id": "e4709099-104a-4174-9a43-db348a4796c5",
+							"hypervisor": "n3plcldhv004-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckiaee56",
+							"id": "8df79871-8231-4e33-a09f-b4e7533f204d",
+							"hypervisor": "n3plcldhv002-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncki40fec",
+							"id": "7113fc2e-01ef-4e7d-b43b-eb4dbd493394",
+							"hypervisor": "n3plcldhv002-13.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknaf4b9",
+							"id": "bf1b7d21-dad5-45ea-835a-4cb7ba370206",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn5c72a",
+							"id": "d04ec143-abdf-4d4a-bb83-d00574b5d15f",
+							"hypervisor": "n3plcldhv004-13.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn06780",
+							"id": "6cdae2e1-a24f-4667-8656-4f48d120db55",
+							"hypervisor": "n3plcldhv003-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn18d3f",
+							"id": "c84ed9c3-2f11-46e2-b6a5-be1ac7406f90",
+							"hypervisor": "n3plcldhv002-12.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckna8988",
+							"id": "ffaabdb4-fd9e-40d9-b62d-85512085d10a",
+							"hypervisor": "n3plcldhv004-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn3d160",
+							"id": "8fce56de-2735-42c4-b449-558d078ca60a",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn736a9",
+							"id": "521c04e6-a700-4e60-92ae-d917ad73b067",
+							"hypervisor": "n3plcldhv002-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknd0402",
+							"id": "ae634ccc-7857-4154-81d6-173c1de6f779",
+							"hypervisor": "n3plcldhv004-01.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckna9e33",
+							"id": "b14f3ce8-9c11-4f67-b03c-87bf76feb688",
+							"hypervisor": "n3plcldhv003-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknb8817",
+							"id": "e9b83643-39b0-466d-beee-2c224b86bfb2",
+							"hypervisor": "n3plcldhv002-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn6e018",
+							"id": "d1ef44bc-09dd-4271-b682-67ba678801f6",
+							"hypervisor": "n3plcldhv004-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn5b6dc",
+							"id": "9a8f66a6-767d-4b1d-a2c6-82976ccc09ab",
+							"hypervisor": "n3plcldhv003-05.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknf9733",
+							"id": "8293665d-2651-456c-964b-b96f9c52d54a",
+							"hypervisor": "n3plcldhv002-01.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn75883",
+							"id": "3b275730-8441-464e-8dcc-1c0d5ec12977",
+							"hypervisor": "n3plcldhv004-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn4a5be",
+							"id": "a9fbc63f-a0f6-4e0a-97de-818d1cab8ef3",
+							"hypervisor": "n3plcldhv003-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknd3e9b",
+							"id": "edda551e-7f64-4bd8-9f8a-ffcd9b7d1b81",
+							"hypervisor": "n3plcldhv002-09.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn8f0bf",
+							"id": "b4c585c5-4460-4a0d-b634-2600e8497d1d",
+							"hypervisor": "n3plcldhv004-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn053bd",
+							"id": "4ecd1217-721f-42ca-b775-72b539954e1f",
+							"hypervisor": "n3plcldhv003-07.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn05ee4",
+							"id": "91d4fa52-1496-47b8-84e4-d3ca8a484302",
+							"hypervisor": "n3plcldhv002-07.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn3444d",
+							"id": "b13ff530-b1d2-43a3-a201-6ec1f45bc108",
+							"hypervisor": "n3plcldhv004-09.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn71d6e",
+							"id": "e85ca01e-3ef9-4a61-b583-7974a91bc677",
+							"hypervisor": "n3plcldhv003-01.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn56198",
+							"id": "d3599d23-25f5-4b04-a42f-170ef7d50eba",
+							"hypervisor": "n3plcldhv002-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckncaca5",
+							"id": "490ecba5-d641-48f1-966c-479604cae175",
+							"hypervisor": "n3plcldhv002-20.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn96783",
+							"id": "888bca5f-6f2c-4098-bea2-c13df2c52768",
+							"hypervisor": "n3plcldhv004-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn4a87f",
+							"id": "7d42d07f-16af-4246-b9e4-be1386d09650",
+							"hypervisor": "n3plcldhv003-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncknd741a",
+							"id": "556d29d2-12d4-4751-8f67-07e983d15382",
+							"hypervisor": "n3plcldhv002-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn3fc2a",
+							"id": "5c6eff34-f86b-452e-915a-7b273ea7344c",
+							"hypervisor": "n3plcldhv004-20.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncko3e233",
+							"id": "39dc997c-fe1f-4dc6-a710-ae09f5e9e543",
+							"hypervisor": "n3plcldhv002-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn0589b",
+							"id": "f3abbf8c-8ade-443e-8c02-6610c509d8ae",
+							"hypervisor": "n3plcldhv004-05.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckma1c7c",
+							"id": "9cef1ec2-ba8b-44c7-84a7-f478abf05fa4",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckmb5fb9",
+							"id": "b0aba9c5-08a0-48be-bd2b-88c87bb34af9",
+							"hypervisor": "n3plcldhv002-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckm21f5b",
+							"id": "d4edc19b-364a-4eaf-9410-6b943bbf5ed9",
+							"hypervisor": "n3plcldhv004-04.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckn92cf8",
+							"id": "13c187ef-aff7-4ea5-a3f3-0add50117860",
+							"hypervisor": "n3plcldhv002-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckmb3cbd",
+							"id": "e37feed5-6ba8-4eca-935f-ebbc0ebaa262",
+							"hypervisor": "n3plcldhv003-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpnckm7435c",
+							"id": "9c00d31c-4bcf-4273-865e-348bb87ad5c4",
+							"hypervisor": "n3plcldhv002-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "caas-prod",
+					"id": "83f1c672840846f49519a1ebcb862014",
+					"owning_group": "540 - ENG-Cassandra",
+					"vm_list": [
+						{
+							"name": "n3p3pcassstor02",
+							"id": "574a4aa9-0af0-4417-a240-7157aa01c3e3",
+							"hypervisor": "n3plcldhv004-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcassstor01",
+							"id": "6ed21d4c-f473-496e-acf7-7d2cad65649e",
+							"hypervisor": "n3plcldhv004-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcassstor02",
+							"id": "d66d2adc-0043-4162-a0ea-2d12051e11b7",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcassstor01",
+							"id": "d273c152-5be2-442f-a38a-5a5952f9a967",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcassstor02",
+							"id": "f8771c1a-5251-41b2-8dfa-84e86fa2836f",
+							"hypervisor": "n3plcldhv002-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcassstor01",
+							"id": "059c611e-32c4-4d50-8d4f-789980fc8172",
+							"hypervisor": "n3plcldhv002-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3scashfs01",
+							"id": "5f0f2edc-3e15-4014-a8cf-32e8d3bc548e",
+							"hypervisor": "n3plcldhv004-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2scashfs01",
+							"id": "e4ad7b2b-baa9-4824-a4e9-cab830473802",
+							"hypervisor": "n3plcldhv003-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1scashfs01",
+							"id": "884094fe-ef76-4025-be1e-0403e26f7229",
+							"hypervisor": "n3plcldhv002-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcashfs02",
+							"id": "8ab746ce-145b-46a0-9291-1eb99b3a4996",
+							"hypervisor": "n3plcldhv004-17.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcashfs01",
+							"id": "985213f4-e95d-45ca-adb0-702e806b2f22",
+							"hypervisor": "n3plcldhv004-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcashfs02",
+							"id": "248904c8-0881-4b99-8e76-2a998a319878",
+							"hypervisor": "n3plcldhv003-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcashfs01",
+							"id": "ae422658-15ac-49c3-89db-ee6f99a80e6f",
+							"hypervisor": "n3plcldhv003-08.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcashfs02",
+							"id": "7bf3700f-f794-40f1-bbf3-a0a2fa049274",
+							"hypervisor": "n3plcldhv002-04.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcashfs01",
+							"id": "558178cb-9200-432b-af62-3869273e75b5",
+							"hypervisor": "n3plcldhv002-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcasstark02",
+							"id": "ba24bcd4-5523-4e60-b9a1-719b8a5ad4e5",
+							"hypervisor": "n3plcldhv004-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcasstark01",
+							"id": "1ef47556-c6a2-4f19-b7a7-3e3ddbb25026",
+							"hypervisor": "n3plcldhv004-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcasstark02",
+							"id": "816d1b45-1a31-419e-ae59-fc7bb6d4d29a",
+							"hypervisor": "n3plcldhv003-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcasstark01",
+							"id": "1b59e622-06bf-41da-b136-a4be08730b79",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcasstark02",
+							"id": "12db47fd-973a-498d-97d5-aa062efdea19",
+							"hypervisor": "n3plcldhv002-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcasstark01",
+							"id": "8bfe4cf8-5c72-4255-acc5-ef8bd529c488",
+							"hypervisor": "n3plcldhv002-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcasregsv02",
+							"id": "91e63b9a-3fb4-4468-b3bd-8125c4f81b53",
+							"hypervisor": "n3plcldhv004-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3pcasregsv01",
+							"id": "eb3193f5-abcb-46dc-aa00-18d101ee9cfa",
+							"hypervisor": "n3plcldhv004-13.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcasregsv02",
+							"id": "2fba65c7-9eda-4833-84cd-5dcb7a9e14d2",
+							"hypervisor": "n3plcldhv003-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2pcasregsv01",
+							"id": "8492a29e-74f7-4f11-a2e2-309dbdd3dbfb",
+							"hypervisor": "n3plcldhv003-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcasregsv02",
+							"id": "c4cefddd-e09c-492b-b3e1-60d53005eaad",
+							"hypervisor": "n3plcldhv002-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1pcasregsv01",
+							"id": "2b8f36f7-0abf-4b68-8360-fc8481cf92da",
+							"hypervisor": "n3plcldhv002-04.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "mwpp-ote",
+					"id": "a04ff24a6cae47f3824fc2791d0b5743",
+					"owning_group": "4063 - DEV-QUERYSERVICE",
+					"vm_list": [
+						{
+							"name": "qs-w-oten-04",
+							"id": "ac7a7224-fbcc-420e-98ee-7ab6975810c8",
+							"hypervisor": "n3plcldhv002-08.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-06",
+							"id": "94748302-ca14-4a93-95c8-1295f7bb0a76",
+							"hypervisor": "n3plcldhv004-05.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-oten-03",
+							"id": "e7bfb8cc-6d8d-4c68-9a9a-6803bd833808",
+							"hypervisor": "n3plcldhv004-08.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-oten-02",
+							"id": "42a8cddc-c14d-4885-83e1-12c71c2fb27d",
+							"hypervisor": "n3plcldhv003-14.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-oten-01",
+							"id": "f256aabc-d602-4677-8218-615bcc354d0f",
+							"hypervisor": "n3plcldhv002-12.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-oten-02",
+							"id": "368d716f-700e-4f1c-a7cc-cd076bc92fb3",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-02",
+							"id": "48331806-90ec-45a4-8ae4-731354342567",
+							"hypervisor": "n3plcldhv003-14.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-oten-03",
+							"id": "12dd3ec2-7c77-4489-8da1-914b98e38a2c",
+							"hypervisor": "n3plcldhv004-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-oten-01",
+							"id": "cb563a18-d77b-4b20-9937-58fd361914e6",
+							"hypervisor": "n3plcldhv002-05.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-03",
+							"id": "600718f2-304e-4eea-ada7-e7073bbfe7f4",
+							"hypervisor": "n3plcldhv004-16.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-08",
+							"id": "353c56de-ba6c-4bd1-acd4-ca8395f6e056",
+							"hypervisor": "n3plcldhv003-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-oten-01",
+							"id": "bd568375-0850-4653-874d-25956148fe22",
+							"hypervisor": "n3plcldhv002-16.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-01",
+							"id": "33741732-ce19-404d-8dc2-6e90ce63c40c",
+							"hypervisor": "n3plcldhv002-02.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-05",
+							"id": "c9fddd2c-863d-4727-a148-8d8aa5f66a52",
+							"hypervisor": "n3plcldhv003-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-oten-03",
+							"id": "0651d83a-be5e-43a5-9fcd-d0d631f7e94f",
+							"hypervisor": "n3plcldhv004-22.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-oten-02",
+							"id": "9f5cde13-ff11-4726-b661-92707ccd8391",
+							"hypervisor": "n3plcldhv003-24.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-10",
+							"id": "006e49b3-95c8-4a36-b9da-14273012b585",
+							"hypervisor": "n3plcldhv002-21.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-07",
+							"id": "d9e8c7d5-c267-4a56-9fef-dc8a8e686ada",
+							"hypervisor": "n3plcldhv002-21.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-oten-09",
+							"id": "6078ede9-74c9-49d4-b862-f222b1fbb0f9",
+							"hypervisor": "n3plcldhv004-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "mwp-qs-swarm",
+					"id": "c5660dd3b0884a668936e68351b07228",
+					"owning_group": "4063 - DEV-QUERYSERVICE",
+					"vm_list": [
+						{
+							"name": "qs-u-prodn-01",
+							"id": "4880b196-1c01-4cca-b21f-faba21192331",
+							"hypervisor": "n3plcldhv002-01.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-03",
+							"id": "da70eab1-41ba-4690-a031-bb1d7b32baa8",
+							"hypervisor": "n3plcldhv004-24.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-prodn-03",
+							"id": "bd461157-441b-4eab-bc89-648ff7acd043",
+							"hypervisor": "n3plcldhv004-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-01",
+							"id": "2c5c2f6f-2b61-4900-8700-89e0f1bcd4ab",
+							"hypervisor": "n3plcldhv002-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-prodn-02",
+							"id": "cf308ad7-f7b9-4a83-a17e-de5cd948455e",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-05",
+							"id": "6f7ddb72-7f67-4061-83a5-29eaacc32cb3",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-prodn-01",
+							"id": "174b84f2-5a09-4337-b7b4-ca330616a2da",
+							"hypervisor": "n3plcldhv002-09.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-07",
+							"id": "e4acd51a-077f-4107-a9e2-0c0774f1e537",
+							"hypervisor": "n3plcldhv002-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-prodn-03",
+							"id": "a027d5f5-0723-431d-9575-e83eb0209601",
+							"hypervisor": "n3plcldhv004-21.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-prodn-03",
+							"id": "f7f48095-e540-4b57-940e-2f187f3212e0",
+							"hypervisor": "n3plcldhv004-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-09",
+							"id": "64ca797e-11c3-4d8e-8ce0-46b8fc65036b",
+							"hypervisor": "n3plcldhv004-24.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-06",
+							"id": "4a5ec12e-1f18-480d-b872-ef1804abff4f",
+							"hypervisor": "n3plcldhv004-03.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-prodn-02",
+							"id": "22e3de69-7160-43b2-afc1-938b9cfe8fa1",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-prodn-01",
+							"id": "9bb24617-b87c-4cb3-9642-bfdbc78f7930",
+							"hypervisor": "n3plcldhv002-14.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-10",
+							"id": "605182ec-7740-49ac-b2c0-1cd698622a7c",
+							"hypervisor": "n3plcldhv002-09.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-02",
+							"id": "b1e9d568-544a-4256-bcbe-8a0a24b45cf3",
+							"hypervisor": "n3plcldhv003-15.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-04",
+							"id": "42bf8dd8-ee7e-4886-9653-a4969a257fef",
+							"hypervisor": "n3plcldhv002-16.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-prodn-08",
+							"id": "31ed270c-3687-4bdb-a39e-0e2f543d9740",
+							"hypervisor": "n3plcldhv003-13.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-prodn-02",
+							"id": "bcfd5ccc-7367-45a6-a351-21953ac59ddb",
+							"hypervisor": "n3plcldhv003-18.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "mwp-qs-fs-swarm",
+					"id": "61538f2ee6b24e3caaefd0f7ecb110a9",
+					"owning_group": "12225 - DEV-QUERYSERVICE",
+					"vm_list": [
+						{
+							"name": "qs-u-fsn-01",
+							"id": "db17ebee-0907-4348-882b-863a1f3c268c",
+							"hypervisor": "n3plcldhv002-15.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-01",
+							"id": "1089901d-372a-425b-b6c4-b637a325738c",
+							"hypervisor": "n3plcldhv002-05.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-fsn-03",
+							"id": "7717156b-48ca-4cba-aae7-488aa57e37ab",
+							"hypervisor": "n3plcldhv004-23.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-fsn-01",
+							"id": "bf116fb4-0f7a-478b-97eb-5c48b745c583",
+							"hypervisor": "n3plcldhv002-03.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-03",
+							"id": "2f51ef84-6b27-4a75-a4b6-0d5e714c9b27",
+							"hypervisor": "n3plcldhv004-08.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-06",
+							"id": "255a79c5-3e58-4345-9811-e46560885730",
+							"hypervisor": "n3plcldhv004-17.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-05",
+							"id": "3929c762-c3f5-4ac6-8dd1-d8f619c33755",
+							"hypervisor": "n3plcldhv003-24.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-02",
+							"id": "7212fa7c-e74e-4c35-a60b-68fce5195eb2",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-fsn-02",
+							"id": "90f4b976-93be-413d-a933-856dd1684bfd",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-fsn-02",
+							"id": "a450fae4-169f-4bf1-ae18-dcdababbfcb8",
+							"hypervisor": "n3plcldhv003-20.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-w-fsn-04",
+							"id": "14994e3a-9523-485a-a39b-39c326da3a5b",
+							"hypervisor": "n3plcldhv002-13.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-fsn-01",
+							"id": "8f91ea62-b05e-4254-bfa0-6d9350b4b91c",
+							"hypervisor": "n3plcldhv002-01.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-m-fsn-02",
+							"id": "13e4beaf-964c-4599-b22c-fecc0ff6d01d",
+							"hypervisor": "n3plcldhv003-13.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-u-fsn-03",
+							"id": "08b9b2c7-3c80-4e90-b808-4b197e29707e",
+							"hypervisor": "n3plcldhv004-16.prod.ams3.gdg"
+						},
+						{
+							"name": "qs-f-fsn-03",
+							"id": "784d4750-c58d-47fc-9557-074b6da30811",
+							"hypervisor": "n3plcldhv004-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "Site24x7_Prod",
+					"id": "4297b5f00b7347cd94d6c81d108fb17d",
+					"owning_group": "573 - ENG-ZTE",
+					"vm_list": [
+						{
+							"name": "n3plsite24x7c12",
+							"id": "16ebdb36-52e5-40ff-925e-37ba1eb48106",
+							"hypervisor": "n3plcldhv004-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c11",
+							"id": "6a261035-567e-4542-9361-4f6e181ddf06",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c10",
+							"id": "2adaaa15-d54e-4a44-ac1f-ca5c926246a5",
+							"hypervisor": "n3plcldhv002-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c09",
+							"id": "1d37b1e8-d045-4078-b4d1-6a1f0b658e67",
+							"hypervisor": "n3plcldhv004-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c08",
+							"id": "9f0c7ec9-4599-4d69-99ec-0e370f21d0b6",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c07",
+							"id": "fad02de2-41b5-4a52-90dd-430461851690",
+							"hypervisor": "n3plcldhv002-04.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c06",
+							"id": "26b928aa-bd23-4fa4-82b0-a9bed94881d5",
+							"hypervisor": "n3plcldhv004-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c05",
+							"id": "12fa9c97-2a35-410b-8fc8-8dc1a2abfa6c",
+							"hypervisor": "n3plcldhv003-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c04",
+							"id": "43e9cfa9-146e-404a-9c5e-cce2b6df2ef0",
+							"hypervisor": "n3plcldhv002-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c03",
+							"id": "b238f69e-182a-4552-8a54-c519c9c01cc5",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c02",
+							"id": "3c0ce2d6-944f-4c59-b1b1-84ef75d146f8",
+							"hypervisor": "n3plcldhv003-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plsite24x7c01",
+							"id": "a53417ff-c0c8-4eb0-9a3d-37b3c91900ed",
+							"hypervisor": "n3plcldhv002-10.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "OOBMS-PROD",
+					"id": "4fa5c5d779f5407ebd80da75a97de943",
+					"owning_group": "1475 - ENG-IMA",
+					"vm_list": [
+						{
+							"name": "sb1plipmimsg012",
+							"id": "7f4bb018-02e7-4b5a-87fe-0ffa6c59380a",
+							"hypervisor": "n3plcldhv007-13.prod.ams3.gdg"
+						},
+						{
+							"name": "sb1plipmimsg011",
+							"id": "4bc48429-1cc6-46c3-85ee-61c8550046d7",
+							"hypervisor": "n3plcldhv006-16.prod.ams3.gdg"
+						},
+						{
+							"name": "sb1plipmimsg010",
+							"id": "056cf065-96db-4bfa-a402-e07e9c0a4df2",
+							"hypervisor": "n3plcldhv005-17.prod.ams3.gdg"
+						},
+						{
+							"name": "sb1plipmimsg009",
+							"id": "41b65640-294c-4eae-9c97-52a1b36b0df4",
+							"hypervisor": "n3plcldhv007-21.prod.ams3.gdg"
+						},
+						{
+							"name": "sb1plipmimsg008",
+							"id": "684eadf3-c1bb-4212-b998-9f5ff35aa387",
+							"hypervisor": "n3plcldhv006-24.prod.ams3.gdg"
+						},
+						{
+							"name": "sb1plipmimsg007",
+							"id": "c3bfdb9b-edfa-4b54-845d-bb5e8e55dc28",
+							"hypervisor": "n3plcldhv005-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg012",
+							"id": "df600ebd-7c79-4bd1-91bb-f03d24341e68",
+							"hypervisor": "n3plcldhv007-20.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg011",
+							"id": "98514236-41e0-4880-9059-ce767195a018",
+							"hypervisor": "n3plcldhv006-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg010",
+							"id": "fdb9db8e-d300-4b86-bc8b-06f7391b7aef",
+							"hypervisor": "n3plcldhv001-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg009",
+							"id": "b4b428f1-4b5b-4d65-baa6-d069f5fa94a7",
+							"hypervisor": "n3plcldhv007-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg008",
+							"id": "57a3c4dd-19d4-41a3-8006-7edc984d03ac",
+							"hypervisor": "n3plcldhv006-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plipmimsg007",
+							"id": "3f3cd35d-6dfe-465f-90c3-aa520b0acd57",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "caas-test",
+					"id": "26becc6fd0de4db19f834777f61e97eb",
+					"owning_group": "540 - ENG-Cassandra",
+					"vm_list": [
+						{
+							"name": "n3p3tcassstor01",
+							"id": "13a411b4-7133-436d-8c3b-edfa3ac7f2eb",
+							"hypervisor": "n3plcldhv004-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2tcassstor01",
+							"id": "28b01ff0-1660-47d4-966d-09d2035bc026",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1tcassstor01",
+							"id": "09ef8d19-378d-426e-b1d3-fc91ae55251c",
+							"hypervisor": "n3plcldhv002-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3tcashfs01",
+							"id": "bc124b79-60ea-47fa-b50d-3b3183a16a2b",
+							"hypervisor": "n3plcldhv004-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2tcashfs01",
+							"id": "f94d6841-a89f-4bd9-97cb-d149a0343b70",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1tcashfs01",
+							"id": "c1d61875-6467-4742-88fd-3f28274ee74e",
+							"hypervisor": "n3plcldhv002-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3tcasregsv01",
+							"id": "f1dfcb39-4bcc-41a9-95f5-4784db009646",
+							"hypervisor": "n3plcldhv004-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2tcasregsv01",
+							"id": "980ad4e4-2bbc-4c4a-997b-d235a7af267a",
+							"hypervisor": "n3plcldhv003-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1tcasregsv01",
+							"id": "9fe1d20c-4267-4f3e-9d0f-f54559e02d49",
+							"hypervisor": "n3plcldhv002-15.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "n3-ceph",
+					"id": "df56b3707d3c40d582695e4cf83c9187",
+					"owning_group": "10039 - ENG-Storage",
+					"vm_list": [
+						{
+							"name": "n3plocephsmb002",
+							"id": "7e5f5a4c-dd20-486a-a2f9-20d5ff1b7740",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3pwotestadj001",
+							"id": "78de3c81-6db1-4d9f-9893-3da8d81e08ae",
+							"hypervisor": "n3plcldhv003-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plocephmds003",
+							"id": "3259da45-8112-40f5-a4a9-76db87771cb4",
+							"hypervisor": "n3plcldhv004-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plocephmds002",
+							"id": "7e01f77c-e310-4736-a962-3b583ad9c08c",
+							"hypervisor": "n3plcldhv003-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plocephsmb001",
+							"id": "3932dc2f-838e-4d4d-b2ff-f637d8cdbe66",
+							"hypervisor": "n3plcldhv002-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plocephmds001",
+							"id": "aa202368-84d1-41da-92c0-9cec45337e39",
+							"hypervisor": "n3plcldhv002-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpsprom003",
+							"id": "9ec9d155-bbe4-4fe5-81ac-5c31b42b8af6",
+							"hypervisor": "n3plcldhv007-17.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpsprom002",
+							"id": "7ccf9819-1bbd-4dfe-8a67-f19f5194c12f",
+							"hypervisor": "n3plcldhv006-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plceph-util",
+							"id": "56dcec59-3aad-4fe0-bfdb-020e7d02b947",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ManagedMySQL-Dev-ams3-1",
+					"id": "4852b5fc8ca148e484768b875889db10",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": [
+						{
+							"name": "n3dlppp-b",
+							"id": "b53cf032-2fb8-4270-a1c9-fbfd69d4fe03",
+							"hypervisor": "n3plcldhv002-07.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dlppp-a",
+							"id": "62e9ed59-0953-4d22-a230-eadc5bf31804",
+							"hypervisor": "n3plcldhv003-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dlotrs-b",
+							"id": "5865f4f4-fb6c-4b13-b092-50ed6b2e669b",
+							"hypervisor": "n3plcldhv002-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dlotrs-a",
+							"id": "817b8f44-9324-4508-bf26-341837f06f17",
+							"hypervisor": "n3plcldhv004-01.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dls4y-b",
+							"id": "ea4919e4-96d3-4fe8-a790-fb15319d305c",
+							"hypervisor": "n3plcldhv002-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dls4y-a",
+							"id": "cbbb2edd-ead5-4225-8af1-4686760529ca",
+							"hypervisor": "n3plcldhv003-18.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dltest-b",
+							"id": "84b34273-826e-41c3-8e75-e80e4a1add90",
+							"hypervisor": "n3plcldhv002-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dltest-a",
+							"id": "1c40bbbf-f737-44a2-8e4e-e405e4f5ee41",
+							"hypervisor": "n3plcldhv003-15.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "shellgame",
+					"id": "40f32950e186463f82bd9d0bf2633661",
+					"owning_group": "102 - DEV-Private Cloud",
+					"vm_list": [
+						{
+							"name": "rbreker-ws22-3",
+							"id": "8161c8a6-bbbf-4843-a4ef-c4fbfdb0728d",
+							"hypervisor": "n3plcldhv001-01.prod.ams3.gdg"
+						},
+						{
+							"name": "rbreker-a8-3",
+							"id": "0cfc6351-308d-4d81-a0f4-9c21d9d05260",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						},
+						{
+							"name": "rbreker-ws22-2",
+							"id": "d85c8c2c-5c89-4b1f-9ae1-0848d65134dd",
+							"hypervisor": "n3plcldhv001-06.prod.ams3.gdg"
+						},
+						{
+							"name": "rbreker-a8-5",
+							"id": "015ae05c-38f7-4054-89da-5b59d26aa657",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						},
+						{
+							"name": "rbreker-ws22-1",
+							"id": "6e687a34-9d7e-46ed-bd56-473b5a86616e",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						},
+						{
+							"name": "rbreker-a8-1",
+							"id": "a6caeea2-072b-4db6-ad12-d292a7613423",
+							"hypervisor": "n3plcldhv001-04.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plztncldsg01",
+							"id": "c61be2c7-4801-490c-a082-0d126a48d228",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "pdb-cassandra",
+					"id": "51af780635bf4cebaf7284ec8ef303c1",
+					"owning_group": "540 - ENG-Cassandra",
+					"vm_list": [
+						{
+							"name": "n3p1pcassrmq04",
+							"id": "3b997884-1f28-4501-b1ff-1b6158a43e72",
+							"hypervisor": "n3plcldhv002-23.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p3tcaspaldm01",
+							"id": "15512d7c-17df-4e2b-8094-f8ce4365ed69",
+							"hypervisor": "n3plcldhv004-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2tcaspaldm01",
+							"id": "ea8fb24b-d119-4ce2-8aaf-d97997a3c696",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p1tcaspaldm01",
+							"id": "f0a9c514-5999-40d0-8e82-2ba992e814ac",
+							"hypervisor": "n3plcldhv002-20.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2dcaspaldm01",
+							"id": "c6c148f9-8308-4fa8-81c9-e4cebefe92a3",
+							"hypervisor": "n3plcldhv003-05.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "MySQLProd",
+					"id": "1aea1625bf0245ea8db4ba30c01873b6",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": [
+						{
+							"name": "n3plcompiler04",
+							"id": "eee1977d-8a49-4d3f-8a11-2b2803521187",
+							"hypervisor": "n3plcldhv002-07.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plcompiler03",
+							"id": "0e0bd3cc-c87e-4e14-b0a0-071856d1d2e7",
+							"hypervisor": "n3plcldhv004-04.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plcompiler02",
+							"id": "2ab59754-adc8-4bd3-88ef-e3207a20c618",
+							"hypervisor": "n3plcldhv003-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plcompiler01",
+							"id": "b7dec328-7880-4775-8075-0b5c984fbde8",
+							"hypervisor": "n3plcldhv002-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "migration-mysql",
+					"id": "29c00c937a924c71af7ae8d86cd0e792",
+					"owning_group": "1563 - org-sre-emea",
+					"vm_list": [
+						{
+							"name": "godaddy-jumper",
+							"id": "30d9698f-09af-4742-a82d-d4c04d105138",
+							"hypervisor": "n3plcldhv002-01.prod.ams3.gdg"
+						},
+						{
+							"name": "vlevchuk-test",
+							"id": "9e2e9a1a-4c2c-4738-877a-bea749b8eaa2",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "testgdjumper",
+							"id": "cd802ec7-939f-48b6-9870-188099d6a39d",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "mysql-jump-host",
+							"id": "a1451a00-226d-414e-b66f-c11e4e73829f",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "rally-ams-private",
+					"id": "6f8366fb50c9435697660c9564013b92",
+					"owning_group": "633 - Compute",
+					"vm_list": [
+						{
+							"name": "s-r-efd47-Tb9Ha",
+							"id": "5527af90-d1d1-4b5b-a4b4-0dab99f3bdd0",
+							"hypervisor": "n3plcldhv002-24.prod.ams3.gdg"
+						},
+						{
+							"name": "s-r-709f7-OYhFI",
+							"id": "9579fa7c-2f2e-4251-8102-4ab3dac3482d",
+							"hypervisor": "n3plcldhv002-24.prod.ams3.gdg"
+						},
+						{
+							"name": "s-r-a4db3-4TEls",
+							"id": "e054962a-70ce-48eb-8d15-806cc5cfb280",
+							"hypervisor": "n3plcldhv006-13.prod.ams3.gdg"
+						},
+						{
+							"name": "s-r-6a0fe-GSJuQ",
+							"id": "4de83ff9-6102-46a4-86d7-b7577828f849",
+							"hypervisor": "n3plcldhv005-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "kernelcare-n3",
+					"id": "9323bee6321d4af2a2ee805f21c55210",
+					"owning_group": "4085 - GPE-Platform Services",
+					"vm_list": [
+						{
+							"name": "n3plkcclnt02",
+							"id": "8c463fd7-77ca-4b05-b304-e438a2111e79",
+							"hypervisor": "n3plcldhv003-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plkcpxy02",
+							"id": "94bb2475-1a1f-4488-9b3c-150701f2de64",
+							"hypervisor": "n3plcldhv003-22.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plkcpxy01",
+							"id": "7df5236c-0c58-4e33-ab30-93ac9f2dd654",
+							"hypervisor": "n3plcldhv002-05.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plkcclnt01",
+							"id": "ec8f1d54-a599-4d5c-a88e-7f792229022a",
+							"hypervisor": "n3plcldhv002-15.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ManagedMySQL-Stg-ams3-1",
+					"id": "fa0ae9203d6f4d9288dbae9b31874ea4",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": [
+						{
+							"name": "n3slppp-b",
+							"id": "023f1f5d-4a7a-48c6-b86a-9dd40de2e7b4",
+							"hypervisor": "n3plcldhv002-07.prod.ams3.gdg"
+						},
+						{
+							"name": "n3slppp-a",
+							"id": "042f2055-b6bd-487d-aa1f-9247870a6cac",
+							"hypervisor": "n3plcldhv004-09.prod.ams3.gdg"
+						},
+						{
+							"name": "n3sls4y-b",
+							"id": "69286d74-f8e9-406c-a998-8fd8e8f9b262",
+							"hypervisor": "n3plcldhv002-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3sls4y-a",
+							"id": "28e77667-9ae8-46db-8470-63783e9c4d67",
+							"hypervisor": "n3plcldhv004-04.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "rally-ams-slaves",
+					"id": "02b4a6594ace4c9bb92f27a6e0426a09",
+					"owning_group": "633 - Compute",
+					"vm_list": [
+						{
+							"name": "rally-sl-626a5",
+							"id": "847f0a8f-5171-4b3f-a7ad-753eca2bdb1c",
+							"hypervisor": "n3plcldhv004-04.prod.ams3.gdg"
+						},
+						{
+							"name": "rally-sl-3ba2e",
+							"id": "6640e709-c00c-401b-86ed-84bfe8426125",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "rally-sl-22b38",
+							"id": "4b3f94ad-b60a-416d-afbe-9d84b5027c9c",
+							"hypervisor": "n3plcldhv002-13.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "wpaas-dev",
+					"id": "105a2e0c27674c5a8f308139eff50515",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": [
+						{
+							"name": "windows-dev2",
+							"id": "0c9042fd-2bfe-4d9f-a9f6-5ca77cf6e6a9",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						},
+						{
+							"name": "windows-dev",
+							"id": "e0f588f7-27e6-476f-a689-124ee1deb614",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3mwpcephclient",
+							"id": "98348d0a-9cee-448e-9af0-56a50c531a90",
+							"hypervisor": "n3plcldhv001-06.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "openstack",
+					"id": "389f6c3921fa41b4a5bab611f8817bcc",
+					"owning_group": "102 - DEV-Private Cloud",
+					"vm_list": [
+						{
+							"name": "testvm-b33f1b07",
+							"id": "6611be28-48d6-4f8f-86fe-25d87a648d12",
+							"hypervisor": "n3plcldhv005-22.prod.ams3.gdg"
+						},
+						{
+							"name": "vader-ara",
+							"id": "cfc1f7b9-c5b8-4d15-b910-78d11320f5b8",
+							"hypervisor": "n3plcldhv001-04.prod.ams3.gdg"
+						},
+						{
+							"name": "vader-ara-db",
+							"id": "dbfe4f24-9bb0-4a80-b234-e15f01dec229",
+							"hypervisor": "n3plcldhv005-01.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "N3LegalArchive",
+					"id": "431f4d77355c4d19ac62f4e0eec0ffb8",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": [
+						{
+							"name": "n3laproxy01",
+							"id": "f6280713-2fc9-44fb-a06f-b3086d1f27a3",
+							"hypervisor": "n3plcldhv002-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3larsync02",
+							"id": "49bbfb2e-f099-454b-9653-fa0dfcb4861f",
+							"hypervisor": "n3plcldhv001-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3larsync01",
+							"id": "be0e59f7-c559-4010-92be-25398f996c88",
+							"hypervisor": "n3plcldhv005-17.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "sreh-ansible-awx",
+					"id": "61a21f3d62b747e884c0dec63c804406",
+					"owning_group": "10046 - SRE-Hosting",
+					"vm_list": [
+						{
+							"name": "n3awx03",
+							"id": "6d5232c4-ae3f-44f2-aae6-41f95dd8b4d3",
+							"hypervisor": "n3plcldhv005-17.prod.ams3.gdg"
+						},
+						{
+							"name": "n3awx02",
+							"id": "1c161715-4852-4312-be9e-828ddb3a9638",
+							"hypervisor": "n3plcldhv006-12.prod.ams3.gdg"
+						},
+						{
+							"name": "n3awx01",
+							"id": "295762fb-65d8-4479-bc4b-515fab2ebf98",
+							"hypervisor": "n3plcldhv007-20.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ansible-cluster",
+					"id": "c1b888ea201a470e897112e21c8bc477",
+					"owning_group": "451 - DEV-cPanel Platform",
+					"vm_list": [
+						{
+							"name": "n3ansible03",
+							"id": "03092622-5b7a-4947-9774-60f20b9be363",
+							"hypervisor": "n3plcldhv003-21.prod.ams3.gdg"
+						},
+						{
+							"name": "n3ansible02",
+							"id": "2bea6025-f10f-4557-a132-f5033ec4b662",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3ansible01",
+							"id": "b63291d3-dd7c-4394-9442-a4348502189d",
+							"hypervisor": "n3plcldhv004-01.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "cmdb-data-ams",
+					"id": "cba9640c65984f32948427cabd4014f8",
+					"owning_group": "1475 - ENG-IMA",
+					"vm_list": [
+						{
+							"name": "n3possyncutil3",
+							"id": "69545a15-99e8-4fb8-993e-de8fbac3aa06",
+							"hypervisor": "n3plcldhv006-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3dossyncutil1",
+							"id": "d7812a11-23aa-4972-abe4-0baab6571cc5",
+							"hypervisor": "n3plcldhv007-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3possyncutil1",
+							"id": "4c1d4c48-05b0-4052-a4dd-90536e8b8260",
+							"hypervisor": "n3plcldhv001-01.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "storage-icinga",
+					"id": "06a04be7d53f43d9b32d5ba28c6d2e7f",
+					"owning_group": "10041 - ENG-Storage",
+					"vm_list": [
+						{
+							"name": "n3pliciendp001",
+							"id": "156d14c4-e9a1-4111-8d16-fba3ac9dca17",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						},
+						{
+							"name": "n3pliciendp002",
+							"id": "b54318b3-39fc-41a8-881d-0170c39feb9c",
+							"hypervisor": "n3plcldhv006-12.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "EMC-ESRS-AMS",
+					"id": "0d27af414dc9473a8f65a7b53f452eda",
+					"owning_group": "10039 - ENG-Storage",
+					"vm_list": [
+						{
+							"name": "n3plesrs002",
+							"id": "9ed1d31f-fc2e-404f-be1c-42b2c5718170",
+							"hypervisor": "n3plcldhv003-10.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plesrs001",
+							"id": "15f0a2ad-fb5c-4276-9dac-79a97b7b6c08",
+							"hypervisor": "n3plcldhv002-22.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "hosting-data-n3",
+					"id": "229683532ee04022b116d4b4d743e637",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": [
+						{
+							"name": "n3phdtest02",
+							"id": "1ddd387f-b86a-46f7-a4f8-9c78253ed578",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3phdtest01",
+							"id": "57559315-0239-4eeb-987b-f0486314473b",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "SREH-UserManager-N3",
+					"id": "2d9cf552682f4e0dafee0540d8d21763",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": [
+						{
+							"name": "UM-Cache-N3-02",
+							"id": "0955c97f-215c-4307-9bc0-a5ae685c6b24",
+							"hypervisor": "n3plcldhv002-13.prod.ams3.gdg"
+						},
+						{
+							"name": "UM-Cache-N3-01",
+							"id": "3fb20ad5-3287-410e-b487-f9e8ee31ac2c",
+							"hypervisor": "n3plcldhv003-01.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "storage-monitoring-emea",
+					"id": "3f7e1784d87c47299670b674487a208c",
+					"owning_group": "121 - ENG-Storage",
+					"vm_list": [
+						{
+							"name": "n3plemeamon02",
+							"id": "99a328a2-7fe8-4eda-a810-6e52f05932cc",
+							"hypervisor": "n3plcldhv003-14.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plemeamon01",
+							"id": "f710649c-cb9b-4776-8648-dae0d60c10c5",
+							"hypervisor": "n3plcldhv002-10.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "DNS_OPS",
+					"id": "54ba079ba380495fbe36661a618facc3",
+					"owning_group": "12 - OPS-Managed DNS",
+					"vm_list": [
+						{
+							"name": "n3pldnsyum02",
+							"id": "2e970111-fa39-4960-98ac-8ae0ae47f094",
+							"hypervisor": "n3plcldhv003-01.prod.ams3.gdg"
+						},
+						{
+							"name": "n3pldnsyum01",
+							"id": "a56dd4c8-38e2-4c72-b4d7-49f17c437b37",
+							"hypervisor": "n3plcldhv002-03.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "caas-dev",
+					"id": "55268c10f43a4e0d8722ea989ad8e956",
+					"owning_group": "540 - ENG-Cassandra",
+					"vm_list": [
+						{
+							"name": "n3p3dcashfs01",
+							"id": "0da0d000-053c-4290-adce-d80b2adca9b5",
+							"hypervisor": "n3plcldhv004-16.prod.ams3.gdg"
+						},
+						{
+							"name": "n3p2dcasregsv01",
+							"id": "06e2bec8-d6a3-4a9a-b936-4e78dfcdd1a9",
+							"hypervisor": "n3plcldhv003-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ManagedMySQL-Prod-ams3-1",
+					"id": "5c9481c450b7458591064924ce877b55",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": [
+						{
+							"name": "n3plppp-b",
+							"id": "616a288b-dd36-43b0-80ee-6a2cba98cd85",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plppp-a",
+							"id": "9e4d8390-a946-4f23-917e-2c991233c1bf",
+							"hypervisor": "n3plcldhv002-08.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ManagedMySQL-Ote-ams3-1",
+					"id": "5cfaed9d1347401993a22c293a5532e5",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": [
+						{
+							"name": "n3olppp-b",
+							"id": "6dc90921-4928-46e3-b93d-ade5ded433d7",
+							"hypervisor": "n3plcldhv003-19.prod.ams3.gdg"
+						},
+						{
+							"name": "n3olppp-a",
+							"id": "bca21c9b-3308-4113-903a-f7226b2959a1",
+							"hypervisor": "n3plcldhv004-13.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "perf-wpt-user-prod",
+					"id": "70b0d98d46634b12bfe28c640af87c8d",
+					"owning_group": "4103 - DEV-Rigor-Platform",
+					"vm_list": [
+						{
+							"name": "wptusern3002",
+							"id": "70292415-fef5-44b8-905e-e3871a06a176",
+							"hypervisor": "n3plcldhv007-24.prod.ams3.gdg"
+						},
+						{
+							"name": "wptusern3001",
+							"id": "e7f1336a-84cd-4003-8afa-8a60ae1c202d",
+							"hypervisor": "n3plcldhv001-05.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "pnc-ops-puppet",
+					"id": "76628dd5569f4844b31dea190ffae0b3",
+					"owning_group": "626 - OPS-PnC Operations",
+					"vm_list": [
+						{
+							"name": "n3plpncps02",
+							"id": "a45aeddb-df44-46b4-8b15-174ddd9577fe",
+							"hypervisor": "n3plcldhv006-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpncps01",
+							"id": "f71dd510-6a76-4e52-a8f8-ec141748c316",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "N3-Network-Defense-Engineering",
+					"id": "7fa5fea6f3d946bf94ed21ca7517b53f",
+					"owning_group": "815 - ENG-Network Defense",
+					"vm_list": [
+						{
+							"name": "n3plndegobgp01",
+							"id": "56dc15ac-0f6e-4575-8218-058a1126ae6d",
+							"hypervisor": "n3plcldhv003-03.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plndeapi01",
+							"id": "7798a134-3549-43ec-a622-7c936ab2c938",
+							"hypervisor": "n3plcldhv004-17.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "ms-common-services",
+					"id": "86166fe32a7b42bab2b10bced24f934d",
+					"owning_group": "12065 - org-gpe-ms-common-services",
+					"vm_list": [
+						{
+							"name": "n3pwmcsapp002",
+							"id": "e53c1189-375b-4c94-8f5e-66e62cb319e8",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						},
+						{
+							"name": "n3pwmcsapp001",
+							"id": "ed31ff48-48bf-4093-af3c-08b7fccc823e",
+							"hypervisor": "n3plcldhv002-04.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "nocfox-spice-console-proxy",
+					"id": "92926d9590b94900ab47192d94133304",
+					"owning_group": "102 - DEV-Private Cloud",
+					"vm_list": [
+						{
+							"name": "n3plztncldcon01",
+							"id": "a6119098-9b25-45fc-a6f0-94245f6c6b87",
+							"hypervisor": "n3plcldhv004-15.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plpubcldcon01",
+							"id": "e462ee84-c404-457e-8814-1e13124f5980",
+							"hypervisor": "n3plcldhv003-23.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "velia-ipmi",
+					"id": "acc8980ee8e64f6487d43d3d21eaa08d",
+					"owning_group": "3307 - org-dcfra-team",
+					"vm_list": [
+						{
+							"name": "esxi-iso-velia",
+							"id": "11ed484d-dcd0-4095-a4ec-67278e87c74b",
+							"hypervisor": "n3plcldhv007-06.prod.ams3.gdg"
+						},
+						{
+							"name": "velia-ipmi-win",
+							"id": "81bc24c1-d4cc-4328-a00b-affde0f9057a",
+							"hypervisor": "n3plcldhv006-16.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "100_Visibility",
+					"id": "e7eb9c7adafb412aa1b13abc7825414f",
+					"owning_group": "3429 - ENG-VulnerabilityMgmt",
+					"vm_list": [
+						{
+							"name": "AMS-SCAN-PROD",
+							"id": "f9eda311-b63a-4c08-89e1-8d16923abd4d",
+							"hypervisor": "n3plcldhv004-01.prod.ams3.gdg"
+						},
+						{
+							"name": "AMS-SCAN-MGMT",
+							"id": "6ed00542-9dea-4b09-9c33-db3e81b1f0b6",
+							"hypervisor": "n3plcldhv007-17.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "storage-observability",
+					"id": "f45f4e6dfbee49b59a726e64678d614d",
+					"owning_group": "121 - ENG-Storage",
+					"vm_list": [
+						{
+							"name": "n3plprom002",
+							"id": "878f078d-a4d4-411d-8590-625c1ff85774",
+							"hypervisor": "n3plcldhv006-24.prod.ams3.gdg"
+						},
+						{
+							"name": "n3plprom001",
+							"id": "05899b6c-43ce-4f59-ac85-603aac1b3949",
+							"hypervisor": "n3plcldhv005-11.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "heart-internet-vm",
+					"id": "25b598a82123417fa2716d297cdc64fa",
+					"owning_group": "3597 - DEV-Hydra",
+					"vm_list": [
+						{
+							"name": "123-unittester",
+							"id": "c5dae9e7-7356-4c28-97dd-ece20834299a",
+							"hypervisor": "n3plcldhv005-17.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "luminate",
+					"id": "407ca3509e1a4ef6aeca6b7575dde2af",
+					"owning_group": "4097 - org-access-management",
+					"vm_list": [
+						{
+							"name": "n3plluminate01",
+							"id": "ba7b1f02-616b-4774-895a-f164cfc64006",
+							"hypervisor": "n3plcldhv007-20.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "TUI-PROD",
+					"id": "45f8bc03fa1d43afa3553684b46632d7",
+					"owning_group": "546 - DEV-Domains-Registrar",
+					"vm_list": [
+						{
+							"name": "dbox-win1",
+							"id": "a8f95b60-825e-4a4f-a924-2d3e82bdf8f1",
+							"hypervisor": "n3plcldhv001-01.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "Netbox-DB-Backup",
+					"id": "46f4f9e320fc4a05a65cb22916461e48",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": [
+						{
+							"name": "n3panetboxDBB",
+							"id": "00f8ed0f-6a80-4c69-88ea-c55f4397dee6",
+							"hypervisor": "n3plcldhv007-20.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "gbone-flowrelay",
+					"id": "4dc4be43407648baaf06d88fdd4209aa",
+					"owning_group": "3157 - Networking - Backbone",
+					"vm_list": [
+						{
+							"name": "flow-emea",
+							"id": "126f0f92-ac71-4db7-8872-fa46ed2294c1",
+							"hypervisor": "n3plcldhv002-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "rally-ams-cloudinit",
+					"id": "6530ff72a4494671bec8bd2656de9778",
+					"owning_group": "633 - Compute",
+					"vm_list": [
+						{
+							"name": "rally-lci-f95c4",
+							"id": "77d9bb87-351e-4b11-b557-c7367633bf46",
+							"hypervisor": "n3plcldhv004-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "jsink-emea-jump",
+					"id": "66d91e9eb0264b1ba1e8ee3839604be2",
+					"owning_group": "1567 - org-mass-network-de",
+					"vm_list": [
+						{
+							"name": "jsink-n3",
+							"id": "d5ef0d9f-7efa-4933-8a60-07d8672e4839",
+							"hypervisor": "n3plcldhv002-20.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "CorpNet-Monitoring",
+					"id": "70b723aad90b4f8dae682938558f3bc8",
+					"owning_group": "3155 - Networking - Corp",
+					"vm_list": [
+						{
+							"name": "n3plzbxprxy001",
+							"id": "64c8e9bd-c973-424f-bbef-64f1b164750a",
+							"hypervisor": "n3plcldhv004-06.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "prod_thor",
+					"id": "730c63ed71c540ee980ce1b968d4b990",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": [
+						{
+							"name": "n3plshell001",
+							"id": "3b004f74-df11-4bd3-8e6e-5e1f04efe43b",
+							"hypervisor": "n3plcldhv001-03.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "CerberusConfig-N3",
+					"id": "8613b8abebbb4587bc8faad6ea74bbbd",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": [
+						{
+							"name": "n3cerbcache01",
+							"id": "14ff134a-6d52-4a51-a1ca-d1f1d5237b8d",
+							"hypervisor": "n3plcldhv003-09.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "jmeduna-priv",
+					"id": "9ad65318794346689f6881fe12d2329e",
+					"owning_group": "21 - OPS-Telecom",
+					"vm_list": [
+						{
+							"name": "N3jmeduna01",
+							"id": "8cec8dea-5fdc-495a-8dcd-436cf6ff81f8",
+							"hypervisor": "n3plcldhv004-22.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "BastionHostsN3",
+					"id": "9c27010a32f44fb7807282e9d84f8998",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": [
+						{
+							"name": "N3BastionHost02",
+							"id": "48b0d34e-ed54-4f52-89ee-814f02a08c28",
+							"hypervisor": "n3plcldhv005-18.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "hosteurope-dev",
+					"id": "a117ea916f8143fb8ffd8477691d574e",
+					"owning_group": "10674 - DEV-HostEurope",
+					"vm_list": [
+						{
+							"name": "he-jumper",
+							"id": "2404599c-c981-4e61-b5b0-235efda300ce",
+							"hypervisor": "n3plcldhv001-02.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "pnc-ops",
+					"id": "a1ba45e954054d3ab59db51176b955d2",
+					"owning_group": "11089 - OPS-PnC Operations",
+					"vm_list": [
+						{
+							"name": "n3plpncpoll001",
+							"id": "dadaf79c-5d80-48c5-bf8d-5e35d5803e2e",
+							"hypervisor": "n3plcldhv002-13.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "N3-Alvaria-Stunnel",
+					"id": "ad9b4aef39f74eaf93dbe8379b7cfc85",
+					"owning_group": "21 - OPS-Telecom",
+					"vm_list": [
+						{
+							"name": "N3-Stunnel-Alv",
+							"id": "6e356920-d6b8-4e50-913e-d20fbec53326",
+							"hypervisor": "n3plcldhv005-17.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "RestoreU-N3",
+					"id": "b58801199b474900a91c460e2b764767",
+					"owning_group": "7 - OPS-HOC Assisted",
+					"vm_list": [
+						{
+							"name": "n3-restoreu02",
+							"id": "d229eb5e-3546-499c-87e1-de303b2f8228",
+							"hypervisor": "n3plcldhv003-10.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "heart-phousley",
+					"id": "fd20e94182164c9fa5e2fd2163629a96",
+					"owning_group": "3597 - DEV-Hydra",
+					"vm_list": [
+						{
+							"name": "phousley-mig",
+							"id": "680cf314-92bc-46ad-9fb5-503e1c43b84c",
+							"hypervisor": "n3plcldhv002-14.prod.ams3.gdg"
+						}
+					]
+				},
+				{
+					"name": "mrsite-prod",
+					"id": "0003063fb14140d9b03426253ec3b524",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "email_cloud_prod",
+					"id": "0114f21f33d3424c948204f11fec44f3",
+					"owning_group": "95 - OPS-Email Services",
+					"vm_list": []
+				},
+				{
+					"name": "DNS_MYSQL_ORCHESTRATOR",
+					"id": "01388e039aec4e15903e2fb91ac893f0",
+					"owning_group": "12 - OPS-Managed DNS",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-11",
+					"id": "032c09f7e1014133802b5165bff8062b",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "SSH-JumpBoxes",
+					"id": "057f2b7155dc4452a267606f8f488d21",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "nft-m21xd2yv",
+					"id": "0a809d1dffc94c6e9664a14d6af9534b",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-18",
+					"id": "0b516c334d7e464ebc59691cd21b6b7f",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "testing",
+					"id": "0b7040814b37477385200803491872bd",
+					"owning_group": "3463 - ENG-Migration-Engine",
+					"vm_list": []
+				},
+				{
+					"name": "ReachHeg1",
+					"id": "101b4b6ef0414aeda3bc3c69458a6683",
+					"owning_group": "815 - ENG-Network Defense",
+					"vm_list": []
+				},
+				{
+					"name": "org-2ndlevelappwest-team_testing",
+					"id": "1236b11084744e808e1e090f3db773c5",
+					"owning_group": "2441 - org-2ndlevelappwest-team",
+					"vm_list": []
+				},
+				{
+					"name": "cloud_security-n3",
+					"id": "12b3748e89824a73a98ab1bed1f026eb",
+					"owning_group": "3521 - ENG-CloudSec",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-diablo-cent6.8",
+					"id": "12d323e4032e4b6cbbbee28b6b053c87",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "roc-n3-prod",
+					"id": "168a81a40492472fab7b91b33c25bb67",
+					"owning_group": "85 - OPS-ROC",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-windows-2012r2-plesk-12.5",
+					"id": "172382a8c2b1447f92c9239fb59bdf0b",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "netauto-cse",
+					"id": "186588e0bf614df3af3e82fda24d8386",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "domainbox",
+					"id": "1c990fd03ba24de1977a86f481e556b6",
+					"owning_group": "546 - DEV-Domains-Registrar",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-19",
+					"id": "1f0f0c0612854c5fbc5b684adc53537b",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-2f7xnyku",
+					"id": "1fbc3f6f8a9c40d097fa35354ba31a37",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "internal-vms",
+					"id": "228e854c69794a31b9fc7a19e7a87b35",
+					"owning_group": "3931 - df-technik",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-13",
+					"id": "25d5aca3683747c8b92d19144662d1fc",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "MWP-N3Redis",
+					"id": "2839f3cbe3e647738f96974ced37b066",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": []
+				},
+				{
+					"name": "monitoring-icinga",
+					"id": "29814574c9e64b1fb4580685e280c98f",
+					"owning_group": "573 - ENG-ZTE",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-9",
+					"id": "2a4eeebf10204e7d992e0ba610437da1",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "tboedecker",
+					"id": "2b003ebe2a804829811be0b412cf2911",
+					"owning_group": "3949 - VZ-CLOUD",
+					"vm_list": []
+				},
+				{
+					"name": "bfab",
+					"id": "2d6a89394d0b4d6aa571301b23eb669d",
+					"owning_group": "1523 - DEV-BusinessFabric",
+					"vm_list": []
+				},
+				{
+					"name": "experimentation-PROD",
+					"id": "2deb91a9c98a4d4db68a6c3b8cdf2336",
+					"owning_group": "1521 - DEV-Experimentation",
+					"vm_list": []
+				},
+				{
+					"name": "n3-prod-moog-lams",
+					"id": "2f128b9d6d324b528557d8840f7e573c",
+					"owning_group": "573 - ENG-ZTE",
+					"vm_list": []
+				},
+				{
+					"name": "gd-nac-n3-prod",
+					"id": "305901d061444b48841e9b8ce1b712b1",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-sgbyemnk",
+					"id": "30c140a3e0c04041bafc96bf2b8b2116",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "org-gpe-uk-north-webstatus-board",
+					"id": "3194e4fa3c6d43e685132e36a1e9f9be",
+					"owning_group": "3951 - org-gpe-uk-north",
+					"vm_list": []
+				},
+				{
+					"name": "nac_ztp",
+					"id": "31a2dabefac6410c815517234900bcd0",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "hive-frontend",
+					"id": "338a58136df3478693cc7f985dff290a",
+					"owning_group": "2847 - org-coreservicesengineering-team",
+					"vm_list": []
+				},
+				{
+					"name": "recomm-sonar",
+					"id": "33b4259f85e3458397d854a5e330c5ba",
+					"owning_group": "3505 - DEV-Fenrir",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-3-4-2109",
+					"id": "352e6147012b4ef1a3b6e3650123d39a",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "sreh-puppet",
+					"id": "3782342ef998400fb1a8955c60e216ff",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": []
+				},
+				{
+					"name": "emea-tso-elastichosts-ams",
+					"id": "4842b2360a254387aa1d757c590bee0a",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "wpaas-test",
+					"id": "484a81a5e3db40bdbce055fd3927abe4",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": []
+				},
+				{
+					"name": "OSMigrations",
+					"id": "4a2bb5d3722e4717abbda1ee087becfb",
+					"owning_group": "Unset owning group",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-bitnami-bitnami-joomla",
+					"id": "4ab50129672c43739268d8512039a3ab",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "Migration-4GH-Plesk",
+					"id": "4dd61ea000e34d5d972cfd066479ae72",
+					"owning_group": "463 - DEV-Shared Hosting Legacy",
+					"vm_list": []
+				},
+				{
+					"name": "crm-ops-prod",
+					"id": "4f53e10a014740d0af620c68da7c4405",
+					"owning_group": "26 - DEV-CRM",
+					"vm_list": []
+				},
+				{
+					"name": "osprov-test-n3",
+					"id": "524023176f024959a553f0aa996b5a36",
+					"owning_group": "1475 - ENG-IMA",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-centos-6",
+					"id": "53043535141e44a5bf28fb0faff4a9aa",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "ROSA-POC",
+					"id": "545a10a350b443f08a6ea5546d36cabd",
+					"owning_group": "3377 - Ops-BusinessFabric",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-bitnami-wordpress",
+					"id": "5576af39312a4bf19cb640905422b412",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "eclipse-whois",
+					"id": "58bea63de21249dbaef3811e4a71ebbd",
+					"owning_group": "546 - DEV-Domains-Registrar",
+					"vm_list": []
+				},
+				{
+					"name": "tso-cicd-poc-project-ams",
+					"id": "59982059722840f4abea09645c1fdf30",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "N3-ENG-EnterpriseSecurity",
+					"id": "5c2371c862f74ef78c9450bdeac0461d",
+					"owning_group": "11466 - ENG-Enterprise Security",
+					"vm_list": []
+				},
+				{
+					"name": "dbaas-prd-n3",
+					"id": "605e4a18705444d28deca0e7b148a9ae",
+					"owning_group": "796 - devops-mysql",
+					"vm_list": []
+				},
+				{
+					"name": "Townhall-OBS",
+					"id": "60e15b1620c9428382fdc2ea39258955",
+					"owning_group": "1429 - DEV-Atlassian",
+					"vm_list": []
+				},
+				{
+					"name": "lab",
+					"id": "61b495ed20b64d14adb9e2670a3d84ed",
+					"owning_group": "3149 - Networking - Health",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-diablo-host-vm",
+					"id": "63214da2f03146b0a3388cedc97f1ddc",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-windows-2012r2",
+					"id": "65e39a074fed46138ec3990be49cf9e7",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "wpaas-prod",
+					"id": "6935045f79a647d6a8f0c22803f1307e",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-20",
+					"id": "694985dd7148438daa13d4e6e2f44790",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "help",
+					"id": "6beffdb4d6064cd39a673544735ab16c",
+					"owning_group": "Unset owning group",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-nf-int-publish",
+					"id": "6d9b0352c59f422a83111b3bebcced40",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-bitnami-bitnami-wordpress",
+					"id": "6dae40987f924b178562983ce122063f",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "mrsite-dev",
+					"id": "6f90d11ef54f4c32bb80c4104f1b9161",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-diablo-cent6.7",
+					"id": "703beb9f449746e5a65966e7fc0e9e68",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "gdemea-dev-qc",
+					"id": "72d41d3eb6d14b90b5665e9098940776",
+					"owning_group": "3275 - org-gdemeaserviceengineering",
+					"vm_list": []
+				},
+				{
+					"name": "proeurope",
+					"id": "77a4d46ea2eb4fafa29ff54dc935a1ff",
+					"owning_group": "752 - Dev-Pro Portal",
+					"vm_list": []
+				},
+				{
+					"name": "DNSNTP-N3",
+					"id": "7b91e434b1eb40e2a28a77e1e050bb81",
+					"owning_group": "1459 - DNSNTPSystems",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-21",
+					"id": "7c68a8f0630f41329766c96141b7dfe9",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-ju28rq2z",
+					"id": "80bfc9524b6740bcbe1042205644b97e",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-bitnami-nf-int-publish",
+					"id": "80f516d82ffa4ff3b568d6429deded06",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-10",
+					"id": "85344a473a5d462a9ebde1aa66986785",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "tsohost-sre-ams",
+					"id": "8c042b788b4f46628c6e0e1325338354",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-12",
+					"id": "8c20e78250b14945a7379caa69280104",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "vox",
+					"id": "8ed40c3e8f6c41f5bebf9bf71fd2d76c",
+					"owning_group": "3221 - Eng-Vox",
+					"vm_list": []
+				},
+				{
+					"name": "PAM-Dev-Test",
+					"id": "907ded375aac40caab3866a479a9bf29",
+					"owning_group": "11610 - org-access-management",
+					"vm_list": []
+				},
+				{
+					"name": "SnowMidServers",
+					"id": "917f7b9d125447efa166043c7353d462",
+					"owning_group": "763 - DEV-Self Service Engineering",
+					"vm_list": []
+				},
+				{
+					"name": "feven",
+					"id": "91bea94737674b0288e67f5b0a3bc615",
+					"owning_group": "884 - DEV-IdentityServices",
+					"vm_list": []
+				},
+				{
+					"name": "PWS-TEST",
+					"id": "92e51e07c0204907b748b9c688d26f85",
+					"owning_group": "530 - DEV-DaVinci",
+					"vm_list": []
+				},
+				{
+					"name": "N3-Lazarus-Pollers",
+					"id": "93770b61cb284fe3bff5a79397716b34",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": []
+				},
+				{
+					"name": "PWS-PROD",
+					"id": "948cd58c58e04269a65c99d85362b640",
+					"owning_group": "530 - DEV-DaVinci",
+					"vm_list": []
+				},
+				{
+					"name": "compute-prod",
+					"id": "948ed662c4bc4296bd38c9fbc181ca9a",
+					"owning_group": "633 - Compute",
+					"vm_list": []
+				},
+				{
+					"name": "ipe-transfer",
+					"id": "9658e4c380fd4cd0986f6d1734fa9632",
+					"owning_group": "1337 - ENG-Intrusion Prevention Engineering",
+					"vm_list": []
+				},
+				{
+					"name": "tim-visio",
+					"id": "966818c84c074e9e9bf39f482b5663f2",
+					"owning_group": "726 - ENG-Datacenter",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-bitnami-joomla",
+					"id": "96f1e7eefee94bae900357c6aa51a623",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-windows-2012r2-plesk-12.5",
+					"id": "99d345a12145478c93e40a9682d785f0",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-debian-8",
+					"id": "9a6390ae39d8417da4d17fdd3300e2ed",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "N3-global-comm-prod",
+					"id": "9aabe9c7e0ab49c2a1ef53a461b5ee0a",
+					"owning_group": "21 - OPS-Telecom",
+					"vm_list": []
+				},
+				{
+					"name": "optimized-hosting",
+					"id": "9bee8deeb2de4729838bb28aced2bebf",
+					"owning_group": "3949 - VZ-CLOUD",
+					"vm_list": []
+				},
+				{
+					"name": "tsohost-testing-ams",
+					"id": "9d85375efebf4f7db5630bfee55c4283",
+					"owning_group": "3185 - org-paragon-sre",
+					"vm_list": []
+				},
+				{
+					"name": "pws-123reg",
+					"id": "9f33955602f04e63a129b9995d9a0ba8",
+					"owning_group": "530 - DEV-DaVinci",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-ubuntu-1604",
+					"id": "a0a17290957643aa889019b81900ecc1",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-windows-2016-plesk-17",
+					"id": "a30c429bea4b4b5f872ddde526209812",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "vps4-prod",
+					"id": "a47a7acb8d90405fb11559e8b699460d",
+					"owning_group": "861 - DEV-VPS4",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-windows-2012r2-plesk-17",
+					"id": "a494ede6314f421bb9a29f7d81239fd7",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-windows-2012r2-plesk",
+					"id": "a994a8747b8d47778bf00306cc365c23",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "Network-Monitors-N3",
+					"id": "af96c1376b8041979f6d6782504aacc5",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-17",
+					"id": "b576e621bc514509b4bd80ed27e35af1",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-3-5-2109",
+					"id": "b5dc650170224551a3ba78ecad529bb0",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "prod_netshell",
+					"id": "b62250b4aee143cc8e687f46cc4be9ea",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-bitnami-nodejs",
+					"id": "b654053ea1ef4243a06cf8b147c42175",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-basehfscent7",
+					"id": "ba8e5266ef1642c784ef31480bac4a3e",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "Firewall-Program",
+					"id": "bc4d88c847164205ba02ff71944525c0",
+					"owning_group": "11753 - ENG-SRA",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-xjskldnn",
+					"id": "bd2da28a5a284e749ee7ff94f96debb2",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "managewp-misc",
+					"id": "bd8f49b514fe4e55839bab0eac949aef",
+					"owning_group": "1417 - DEV-ManageWP",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-15",
+					"id": "bf2fd960e7794d9e97d727e13367c122",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "network-logstash",
+					"id": "c25714a425844b77b61b7ac4977bc5e9",
+					"owning_group": "627 - Dev-Networking",
+					"vm_list": []
+				},
+				{
+					"name": "storage-proxy",
+					"id": "c43af105d8da4891914fb03bd61aeb8b",
+					"owning_group": "10039 - ENG-Storage",
+					"vm_list": []
+				},
+				{
+					"name": "nft-bitnami-centos-7-cpanel-11",
+					"id": "c7d46bc7f16445e6b8ad4d12568f169e",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-hfs-centos-7",
+					"id": "c8a34bcacdd2496e8260ce2ff87736ae",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "services",
+					"id": "c9bd638a3e8547109e8ee02c10a6bacd",
+					"owning_group": "Unset owning group",
+					"vm_list": []
+				},
+				{
+					"name": "renesys-probe-ams",
+					"id": "ca997c94231241e7ae0425c0bbc07184",
+					"owning_group": "75 - ENG-Performance Engineering",
+					"vm_list": []
+				},
+				{
+					"name": "N3-Moodle",
+					"id": "cc10e29f6f3f47e4a7c59779abc184cf",
+					"owning_group": "18 - OPS-Datacenter Buckeye",
+					"vm_list": []
+				},
+				{
+					"name": "carma-dev",
+					"id": "cc86aa5c21fa41fe8827eb87ac51047d",
+					"owning_group": "1463 - EMEA-IT-TOOLS",
+					"vm_list": []
+				},
+				{
+					"name": "ws-apis-prod",
+					"id": "cd05172302e449bab7bff1cece6ef878",
+					"owning_group": "88 - DEV-Email Services",
+					"vm_list": []
+				},
+				{
+					"name": "PWS-DEV",
+					"id": "cda8c63af75c48fc86f695b46e22c63e",
+					"owning_group": "530 - DEV-DaVinci",
+					"vm_list": []
+				},
+				{
+					"name": "MWP-N3",
+					"id": "cf82396fef1d4c2f8b64187ab275c268",
+					"owning_group": "466 - DEV-WordPress Platform",
+					"vm_list": []
+				},
+				{
+					"name": "Compute-Image-QA",
+					"id": "d06ad95524584cff8a8e24dd75268397",
+					"owning_group": "633 - Compute",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-ln7k2dfi",
+					"id": "d1fcb24f364a4babaa2646c4f65d260c",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "dsa-ams",
+					"id": "d26f1a249c264f9ca1d0170d10b6e878",
+					"owning_group": "454 - SRE-Hosting",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-16",
+					"id": "d32d11c0610241ef83af7a49e72f1d3d",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "ams-snow-discovery",
+					"id": "d588e342ba9c4c6abee5f48c93521a71",
+					"owning_group": "1595 - Eng-ServiceNow",
+					"vm_list": []
+				},
+				{
+					"name": "SwaggerUI-CRA-test",
+					"id": "d63a4ff8b35145e392902963913dbafe",
+					"owning_group": "1513 - ACL_NoWorkday_EMEA",
+					"vm_list": []
+				},
+				{
+					"name": "domainconnect-testing",
+					"id": "d6ff4ed244704e4fbd4caca4484992a6",
+					"owning_group": "3547 - DEV-Cyclops",
+					"vm_list": []
+				},
+				{
+					"name": "locker-ams-prod",
+					"id": "d8b797601fe54694ad6e062ba08aed43",
+					"owning_group": "736 - DEV-Productivity",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-jq21tf4s",
+					"id": "dbac191e068c41edb3e4cddb06417d57",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "els-prod-ams",
+					"id": "dd4ff402980a4c049163cfe052cb81fa",
+					"owning_group": "Unset owning group",
+					"vm_list": []
+				},
+				{
+					"name": "rc-n3-testing-dev",
+					"id": "e1d55ccbf59f44798af4933d32698d40",
+					"owning_group": "557 - DEV-API Gateway",
+					"vm_list": []
+				},
+				{
+					"name": "crm-test",
+					"id": "e3ab1f5e6df548d59bc064f2bab968f0",
+					"owning_group": "26 - DEV-CRM",
+					"vm_list": []
+				},
+				{
+					"name": "test-ch-001",
+					"id": "e6cdc459f27e4de6a32ad3ddb00efd28",
+					"owning_group": "12099 - DEV-Private Cloud",
+					"vm_list": []
+				},
+				{
+					"name": "INFPROV-SQL-N3",
+					"id": "e853e4b0ea9a43049d313ef2c28d54a2",
+					"owning_group": "899 - INFPROV",
+					"vm_list": []
+				},
+				{
+					"name": "crm-prod",
+					"id": "e92f484d99374c0f87efefdc682721a7",
+					"owning_group": "26 - DEV-CRM",
+					"vm_list": []
+				},
+				{
+					"name": "cmdb-sync-all",
+					"id": "ead52181e6a344859384649e1954b912",
+					"owning_group": "38 - DEV-SMDB",
+					"vm_list": []
+				},
+				{
+					"name": "testn3",
+					"id": "eb0d27f32b99432282a78e74e2a4dcae",
+					"owning_group": "645 - C3 - Hosting Support",
+					"vm_list": []
+				},
+				{
+					"name": "server-migration-n3",
+					"id": "f0f69c3629364333869f5e63332162fc",
+					"owning_group": "102 - DEV-Private Cloud",
+					"vm_list": []
+				},
+				{
+					"name": "mwp-qs-dp-swarm",
+					"id": "f4d8b4b7eb0c4815a29137c43b25887b",
+					"owning_group": "12225 - DEV-QUERYSERVICE",
+					"vm_list": []
+				},
+				{
+					"name": "ceph-restore",
+					"id": "f520838142df4eee86a17ce4f446dc98",
+					"owning_group": "11512 - DEV-Plesk Platform",
+					"vm_list": []
+				},
+				{
+					"name": "nft-0m3xvpbn",
+					"id": "f73b82d8fab646ff8a4ad86b2699ce24",
+					"owning_group": "799 - DEV-HostingFoundationServices",
+					"vm_list": []
+				},
+				{
+					"name": "MySQLAtrifactoryN3",
+					"id": "f7452294f473499583f3e63137d227a2",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": []
+				},
+				{
+					"name": "nfd-bitnami-nf-int-publish-fake-drupal",
+					"id": "fb13ee305ae94ed1918686e0f14c273c",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-vps4-ubuntu-1604-ispconfig-3",
+					"id": "fbac54014ba641098a2dfd5f83b3855e",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "managewp-prod",
+					"id": "fd42c03f8262491a901a168658807709",
+					"owning_group": "1417 - DEV-ManageWP",
+					"vm_list": []
+				},
+				{
+					"name": "AMS-KVM",
+					"id": "fdc75475266d475b82fd79077fedc005",
+					"owning_group": "10235 - OPS-Datacenter N1",
+					"vm_list": []
+				},
+				{
+					"name": "nft-hfs-publish-test-ii-14",
+					"id": "ff43f68ec9504aadac3e24a3d63142d1",
+					"owning_group": "601 - DEV-NocturnalFox",
+					"vm_list": []
+				},
+				{
+					"name": "ManagedMySQL-Test-ams3-1",
+					"id": "ffefd97e56a042e2b3bef415e5627d3a",
+					"owning_group": "13 - OPS-Database Operations MySQL",
+					"vm_list": []
+				}
+			]
+		}
+	]
+}]

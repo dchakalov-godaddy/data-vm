@@ -8,6 +8,7 @@ import Hypervisors from "./components/Hypervisors.js";
 import VMsPerHV from "./components/VMsPerHV.js";
 import VMsPerSubnet from "./components/VMsPerSubnet.js";
 import Home from "./components/Home.js";
+import Projects from "./components/Projects.js";
 
 function App() {
 	return (
@@ -19,6 +20,7 @@ function App() {
 					<Route path="/" element={<Home />} />
 					<Route path="/subnets" element={<Subnets />} />
 					<Route path="/vmpersub" element={<VMsPerSubnet />} />
+					<Route path="/projects" element={<Projects />} />
 					<Route path="/risky" element={<Risky />} />
 					<Route path="/hypervisors" element={<Hypervisors />} />
 					<Route path="/vmperhv" element={<VMsPerHV />} />

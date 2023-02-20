@@ -24,6 +24,11 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="projects" href="/#/projects">
+					Projects
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="risky" href="/#/risky">
 					Risky Hypervisors
 				</Nav.Link>
