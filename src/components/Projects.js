@@ -20,7 +20,7 @@ export default function Projects() {
     
     return (
 		<div className="main-section">
-			<h2 className="page-heading">SUBNETS</h2>
+			<h2 className="page-heading">PROJECTS</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}

@@ -38,35 +38,38 @@ export default function ProjectTable({ data, type }) {
 							</CSVLink>
 						</button>
 
-						<h5 className="table-header">{project.name}</h5>
+						<h5 className="table-header">
+							{project.name} - {project.id} - {project.owning_group} - {project.vm_list.length} vms
+						</h5>
 						<button className="show-table-button" onClick={() => clickHandler(project.show)}>
 							{isShown[project.show] ? "Hide table" : "Show table"}
-                        </button>
-                        {isShown[project.show] && (
-                            <table className="data-table" key={index}>
-                                <thead>
-                                    <tr className="table-heading">
-                                        {theadData.map((heading, index) => {
-                                            return <th key={index}>{heading}</th>;
-                                        })}
-                                    </tr>
-                                </thead>
-                                <tbody className="table-body">
-                                    {Array.from(Object.values(project.vm_list)).map((vm, idx) => {
-                                        return (
-                                            <tr className="table-row" key={idx}>
-                                                {theadData.map((key, index) => {
-                                                    return vm.metadata !== undefined ? (
-                                                        <td key={index}>{vm[key] || vm.metadata[key] || "No data"}</td>
-                                                    ) : (
-                                                        <td key={index}>{vm[key] || "No data"}</td>
-                                                    );
-                                                })}
-                                            </tr>
-                                        );
-                                    })}
-                                </tbody>
-                            </table>)}
+						</button>
+						{isShown[project.show] && (
+							<table className="data-table" key={index}>
+								<thead>
+									<tr className="table-heading">
+										{theadData.map((heading, index) => {
+											return <th key={index}>{heading}</th>;
+										})}
+									</tr>
+								</thead>
+								<tbody className="table-body">
+									{Array.from(Object.values(project.vm_list)).map((vm, idx) => {
+										return (
+											<tr className="table-row" key={idx}>
+												{theadData.map((key, index) => {
+													return vm.metadata !== undefined ? (
+														<td key={index}>{vm[key] || vm.metadata[key] || "No data"}</td>
+													) : (
+														<td key={index}>{vm[key] || "No data"}</td>
+													);
+												})}
+											</tr>
+										);
+									})}
+								</tbody>
+							</table>
+						)}
 					</div>
 				) : (
 					""
