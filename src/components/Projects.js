@@ -2,8 +2,6 @@ import { useEffect, useState } from "react";
 import { Tab, Tabs } from "react-bootstrap";
 import data from "../data/all-projects.json";
 import ProjectTable from "./ProjectTable.js";
-import SubnetTable from "./SubnetTable.js";
-import Table from "./Table.js";
 
 export default function Projects() {
     const [key, setKey] = useState();

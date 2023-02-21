@@ -10,10 +10,11 @@ export default function ProjectTable({ data, type }) {
 
     let projectShowObj = {};
     for (const project of cloudData) {
-		projectShowObj[project.show] = false;
+        projectShowObj[project.project] = false;
     }
     
     const [isShown, setIsShown] = useState({ ...projectShowObj });
+
 
 	const clickHandler = (project) => {
 		setIsShown((state) => ({
@@ -39,12 +40,12 @@ export default function ProjectTable({ data, type }) {
 						</button>
 
 						<h5 className="table-header">
-							{project.name} - {project.id} - {project.owning_group} - {project.vm_list.length} vms
+							{project.project} - {project.vm_list.length} vms
 						</h5>
-						<button className="show-table-button" onClick={() => clickHandler(project.show)}>
-							{isShown[project.show] ? "Hide table" : "Show table"}
+						<button className="show-table-button" onClick={() => clickHandler(project.project)}>
+							{isShown[project.project] ? "Hide table" : "Show table"}
 						</button>
-						{isShown[project.show] && (
+						{isShown[project.project] && (
 							<table className="data-table" key={index}>
 								<thead>
 									<tr className="table-heading">
