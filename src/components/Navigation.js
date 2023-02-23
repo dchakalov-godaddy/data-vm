@@ -1,15 +1,6 @@
-import { Nav, NavLink } from "react-bootstrap";
+import { Nav } from "react-bootstrap";
 
 export default function Navigation() {
-	const activeNavStyle = {
-		borderBottom: "3px solid rgb(172, 213, 142)",
-		color: "rgb(172,213,142)",
-	};
-
-	const defaultNavStyle = {
-		borderBottom: "",
-		color: "",
-	};
 
 	return (
 		<Nav fill variant="tabs">

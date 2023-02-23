@@ -4,7 +4,7 @@ import data from "../data/all-projects.json";
 import ProjectTable from "./ProjectTable.js";
 
 export default function Projects() {
-    const [key, setKey] = useState();
+	const [key, setKey] = useState();
 
 	let initialKey = Object.keys(data[0])[0];
 	useEffect(() => {
@@ -14,9 +14,9 @@ export default function Projects() {
 	let dates = [];
 	for (const item of data) {
 		dates.push(Object.keys(item)[0]);
-    }
-    
-    return (
+	}
+
+	return (
 		<div className="main-section">
 			<h2 className="page-heading">PROJECTS</h2>
 			<Tabs

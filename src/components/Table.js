@@ -72,7 +72,7 @@ export default function Table({ data, type }) {
 											entry[0] === hvName
 												? entry[1].map((vm, idx) => (
 														<tr className="table-row" key={idx}>
-															{theadData.map((key, index) => {
+														{theadData.map((key, index) => {
 																return <td key={index}>{vm[key]}</td>;
 															})}
 														</tr>

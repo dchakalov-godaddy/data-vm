@@ -8,13 +8,12 @@ export default function ProjectTable({ data, type }) {
 
 	let theadData = ["name", "id", "hypervisor"];
 
-    let projectShowObj = {};
-    for (const project of cloudData) {
-        projectShowObj[project.project] = false;
-    }
-    
-    const [isShown, setIsShown] = useState({ ...projectShowObj });
+	let projectShowObj = {};
+	for (const project of cloudData) {
+		projectShowObj[project.project] = false;
+	}
 
+	const [isShown, setIsShown] = useState({ ...projectShowObj });
 
 	const clickHandler = (project) => {
 		setIsShown((state) => ({
@@ -29,7 +28,7 @@ export default function ProjectTable({ data, type }) {
 			{cloudData.map((project, index) =>
 				project.vm_list !== undefined ? (
 					<div className="table-div" key={index}>
-						<button variant="contained" color="primary" className="export-btn">
+						{/* <button variant="contained" color="primary" className="export-btn">
 							<CSVLink
 								data={project.vm_list}
 								filename={`${cloudName}-${type}`}
@@ -37,7 +36,7 @@ export default function ProjectTable({ data, type }) {
 							>
 								<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
 							</CSVLink>
-						</button>
+						</button> */}
 
 						<h5 className="table-header">
 							{project.project} - {project.vm_list.length} vms
