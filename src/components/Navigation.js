@@ -25,6 +25,11 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="multifips" href="/#/multifips">
+					VMs with multiple FIPs
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="hypervisors" href="/#/hypervisors">
 					Hypervisors
 				</Nav.Link>

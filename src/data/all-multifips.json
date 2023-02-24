@@ -1,0 +1,72 @@
+[{
+  "2023-02-24": [
+    {
+      "ams_private": []
+    },
+    {
+      "iad_private": []
+    },
+    {
+      "phx_private": [
+        {
+          "name": "hfl-uCkGbacPHMj",
+          "id": "75076ce6-0886-44ce-b4e0-1479123aebfb",
+          "owning_group": "799 - DEV-HostingFoundationServices",
+          "fips": [
+            "10.32.157.22",
+            "10.32.157.217"
+          ]
+        },
+        {
+          "name": "p3tldnshaprxy01",
+          "id": "44680ac2-01a7-42d4-bfc1-a9851fdc182f",
+          "owning_group": "12 - OPS-Managed DNS",
+          "fips": [
+            "10.32.157.192",
+            "10.32.142.158"
+          ]
+        },
+        {
+          "name": "p3pldnshapx02",
+          "id": "9a3db312-36e0-47f7-8cf3-741b022fd6aa",
+          "owning_group": "12 - OPS-Managed DNS",
+          "fips": [
+            "216.69.136.221",
+            "216.69.138.171"
+          ]
+        },
+        {
+          "name": "p3pldnshapx01",
+          "id": "08e5c1ea-945c-4474-b3f3-7eff7342347f",
+          "owning_group": "12 - OPS-Managed DNS",
+          "fips": [
+            "216.69.136.198",
+            "216.69.138.163"
+          ]
+        },
+        {
+          "name": "p3pldnssapi0002",
+          "id": "808fdcab-25ad-425a-ac67-940258222b78",
+          "owning_group": "12 - OPS-Managed DNS",
+          "fips": [
+            "10.32.154.179",
+            "10.32.154.183",
+            "10.32.154.182"
+          ]
+        },
+        {
+          "name": "hreplha01",
+          "id": "95d1805c-e7fe-45b0-a5d4-567a9a0bbdde",
+          "owning_group": "None",
+          "fips": [
+            "50.62.204.91",
+            "10.22.42.1"
+          ]
+        }
+      ]
+    },
+    {
+      "sin_private": []
+    }
+  ]
+}]
