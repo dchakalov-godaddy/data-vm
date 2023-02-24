@@ -11,16 +11,21 @@ export default function MultifipsTable({ data, type }) {
 	return (
 		<div className="table-section">
 			<h2 className="table-h2">{cloudName}</h2>
-			<button variant="contained" color="primary" className="export-btn">
-				<CSVLink
-					data={cloudData}
-					filename={`${cloudName}-${type}`}
-					style={{ textDecoration: "none", color: "#fff" }}
-				>
-					<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
-				</CSVLink>
-			</button>
-			{cloudData.length > 0 ? 
+			{cloudData.length > 0 ? (
+				<button variant="contained" color="primary" className="export-btn">
+					<CSVLink
+						data={cloudData}
+						filename={`${cloudName}-${type}`}
+						style={{ textDecoration: "none", color: "#fff" }}
+					>
+						<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
+					</CSVLink>
+				</button>
+			) : (
+				""
+			)}
+
+			{cloudData.length > 0 ? (
 				<div className="table-div">
 					<table className="data-table">
 						<thead>
@@ -35,8 +40,8 @@ export default function MultifipsTable({ data, type }) {
 								return (
 									<tr className="table-row" key={idx}>
 										{theadData.map((key, index) => {
-											return typeof vm[key] == 'object' ? (
-												<td key={index}>{vm[key].join(', ')}</td>
+											return typeof vm[key] == "object" ? (
+												<td key={index}>{vm[key].join(", ")}</td>
 											) : (
 												<td key={index}>{vm[key] || "No data"}</td>
 											);
@@ -47,7 +52,9 @@ export default function MultifipsTable({ data, type }) {
 						</tbody>
 					</table>
 				</div>
-			 : <div>No VMs with multiple floating IPs</div>}
+			) : (
+				<div className="no-multifips">No VMs with multiple floating IPs</div>
+			)}
 		</div>
 	);
 }
