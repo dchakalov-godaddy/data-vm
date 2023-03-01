@@ -5,6 +5,7 @@ import Header from "./components/Headers.js";
 import Navigation from "./components/Navigation.js";
 import Loader from "./components/Loader.js";
 import Multifips from "./components/Multifips.js";
+import CombinedSubnets from "./components/CombinedSubnets.js";
 // import Home from "./components/Home.js";
 // import Subnets from "./components/Subnets.js";
 // import Risky from "./components/Risky.js";
@@ -30,6 +31,7 @@ function App() {
 					<Routes>
 						<Route path="/" element={<Home />} />
 						<Route path="/subnets" element={<Subnets />} />
+						<Route path="/combined-subnets" element={<CombinedSubnets />} />
 						<Route path="/vmpersub" element={<VMsPerSubnet />} />
 						<Route path="/projects" element={<Projects />} />
 						<Route path="/risky" element={<Risky />} />

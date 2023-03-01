@@ -10,6 +10,11 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="combined-subnets" href="/#/combined-subnets">
+					Combined Subnets
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="vmpersub" href="/#/vmpersub">
 					VMs Per Subnet
 				</Nav.Link>
