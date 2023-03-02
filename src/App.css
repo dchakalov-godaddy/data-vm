@@ -206,8 +206,7 @@
 	/* background-color: var(--global-color-light-blue); */
 }
 
-
-.excel-button-logo:hover  {
+.excel-button-logo:hover {
 	-webkit-transform: rotate(360deg);
 	-moz-transform: rotate(360deg);
 	-o-transform: rotate(360deg);
@@ -316,15 +315,14 @@
 		width: 100%;
 	} */
 	from {
-    left:50%;
-    width:0%;
-  }
-  to {
-    left:5%;
-    width:90%;
-  }
+		left: 50%;
+		width: 0%;
+	}
+	to {
+		left: 5%;
+		width: 90%;
+	}
 }
-
 
 /* HEADER CSS */
 
@@ -490,4 +488,20 @@ p {
 
 .no-multifips {
 	font-weight: 700;
+}
+
+.checkbox-td {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100% !important;
+}
+
+.checkbox-td input {
+	vertical-align: middle;
+	align-self: center;
+	height: 100% !important;
+	border: none !important;
+	background-color: red;
 }

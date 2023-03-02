@@ -1,3 +1,4 @@
+import { Checkbox } from "@mui/material";
 import { useState } from "react";
 import { CSVLink } from "react-csv";
 
@@ -16,12 +17,22 @@ export default function CombinedSubnetsTable({ data, type }) {
 
 		for (const subnet of subnets) {
 			subnet.cloud = cloudName;
-			fullData.push(subnet);
+			fullData.push({
+				subnet: subnet.subnet,
+				...(subnet.name && { name: subnet.name }),
+				id: subnet.subnet_id,
+				usage: subnet.total_usage,
+				cloud: subnet.cloud,
+			});
 		}
 	}
 
 	for (const key in fullData[0]) {
 		theadData.push(key);
+	}
+
+	if (fullData[0].name === undefined) {
+		theadData = theadData.filter((word) => word !== "name");
 	}
 
 	return (
