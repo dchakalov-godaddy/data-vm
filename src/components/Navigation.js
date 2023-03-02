@@ -44,6 +44,11 @@ export default function Navigation() {
 					VM per HV disk usage
 				</Nav.Link>
 			</Nav.Item>
+			<Nav.Item>
+				<Nav.Link eventKey="sentinelone" href="/#/sentinelone">
+					SentinelOne
+				</Nav.Link>
+			</Nav.Item>
 		</Nav>
 	);
 }

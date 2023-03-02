@@ -1,5 +1,3 @@
-import { Checkbox } from "@mui/material";
-import { useState } from "react";
 import { CSVLink } from "react-csv";
 
 export default function CombinedSubnetsTable({ data, type }) {
