@@ -107,7 +107,12 @@ export default function Table({ data, type }) {
 										return (
 											<tr className="table-row" key={index}>
 												{theadData.map((key, index) => {
-													return <td key={index}>{row[key] || "None"}</td>;
+													console.log(row[key]);
+													return key === "network_name" ? (
+														<td key={index}>{row[key].split("_")[0].substring(2) || "None"}</td>
+													) : (
+														<td key={index}>{row[key] || "None"}</td>
+													);
 												})}
 											</tr>
 										);
