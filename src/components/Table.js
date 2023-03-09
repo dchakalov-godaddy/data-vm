@@ -107,7 +107,7 @@ export default function Table({ data, type }) {
 										return (
 											<tr className="table-row" key={index}>
 												{theadData.map((key, index) => {
-													return <td key={index}>{row[key]}</td>;
+													return <td key={index}>{row[key] || "None"}</td>;
 												})}
 											</tr>
 										);

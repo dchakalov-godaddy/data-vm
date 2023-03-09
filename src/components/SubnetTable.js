@@ -38,7 +38,7 @@ export default function SubnetTable({ data, type }) {
 			{cloudData.map((subnet, index) =>
 				subnet.vms_list !== undefined ? (
 					<div className="table-div" key={index}>
-						{/* <button variant="contained" color="primary" className="export-btn">
+						<button variant="contained" color="primary" className="export-btn">
 							<CSVLink
 								data={subnet.vms_list}
 								filename={`${cloudName}-${type}`}
@@ -46,7 +46,7 @@ export default function SubnetTable({ data, type }) {
 							>
 								<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
 							</CSVLink>
-						</button> */}
+						</button>
 
 						<h5 className="table-header">{subnet.subnet}</h5>
 						<button className="show-table-button" onClick={() => clickHandler(subnet.subnet)}>
