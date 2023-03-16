@@ -15,11 +15,24 @@ export default function CombinedSubnetsTable({ data, type }) {
 
 		for (const subnet of subnets) {
 			subnet.cloud = cloudName;
+			
+			function networkZoneConverter(zone) {
+				if (zone.includes("lbaas")) {
+					return zone.split('-')[3]
+				} else {
+					return zone.split("_")[0].substring(2)
+				}
+			}
+
 			fullData.push({
 				subnet: subnet.subnet,
 				...(subnet.name && { name: subnet.name }),
 				id: subnet.subnet_id,
+				...(subnet["network_zone"] && { network_zone: networkZoneConverter(subnet.network_zone) }),
 				usage: subnet.total_usage,
+				count: subnet.count,
+				"migrated-b": subnet["migrated-b"],
+				to_be_migrated: subnet.to_be_migrated,
 				cloud: subnet.cloud,
 			});
 		}
@@ -31,6 +44,15 @@ export default function CombinedSubnetsTable({ data, type }) {
 
 	if (fullData[0].name === undefined) {
 		theadData = theadData.filter((word) => word !== "name");
+	}
+	if (fullData[0]['network-zone'] === undefined) {
+		theadData = theadData.filter((word) => word !== "network-zone");
+	}
+	if (fullData[0]["migrated-b"] === undefined) {
+		theadData = theadData.filter((word) => word !== "migrated-b");
+	}
+	if (fullData[0]["to_be_migrated"] === undefined) {
+		theadData = theadData.filter((word) => word !== "to_be_migrated");
 	}
 
 	return (
