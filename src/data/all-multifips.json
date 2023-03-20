@@ -92,5 +92,1853 @@
 				"sin_private": []
 			}
 		]
+  }, 
+  {
+		"2023-03-20": [
+			{
+				"ams_private": [
+					{
+						"name": "n3plpnckifc682",
+						"id": "24f6abaf-bdad-4eb1-8d07-02ef11dc6e60",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.51"],
+						"port_ips": ["10.36.17.2", "10.36.19.51", "160.153.13.3", "160.153.13.4", "160.153.13.5"]
+					},
+					{
+						"name": "n3plpnckiffab0",
+						"id": "e4709099-104a-4174-9a43-db348a4796c5",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.50"],
+						"port_ips": ["10.36.17.2", "10.36.19.50", "160.153.13.3", "160.153.13.4", "160.153.13.5"]
+					},
+					{
+						"name": "n3plpnckiaee56",
+						"id": "8df79871-8231-4e33-a09f-b4e7533f204d",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.52"],
+						"port_ips": ["10.36.17.2", "10.36.19.52", "160.153.13.3", "160.153.13.4", "160.153.13.5"]
+					},
+					{
+						"name": "n3plpncki40fec",
+						"id": "7113fc2e-01ef-4e7d-b43b-eb4dbd493394",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.53"],
+						"port_ips": ["10.36.17.2", "10.36.19.53", "160.153.13.3", "160.153.13.4", "160.153.13.5"]
+					},
+					{
+						"name": "n3plpnckma1c7c",
+						"id": "9cef1ec2-ba8b-44c7-84a7-f478abf05fa4",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.58"],
+						"port_ips": ["10.36.17.3", "10.36.19.58"]
+					},
+					{
+						"name": "n3plpnckmb5fb9",
+						"id": "b0aba9c5-08a0-48be-bd2b-88c87bb34af9",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.57"],
+						"port_ips": ["10.36.17.3", "10.36.19.57"]
+					},
+					{
+						"name": "n3plpnckm21f5b",
+						"id": "d4edc19b-364a-4eaf-9410-6b943bbf5ed9",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.56"],
+						"port_ips": ["10.36.17.3", "10.36.19.56"]
+					},
+					{
+						"name": "n3plpnckmb3cbd",
+						"id": "e37feed5-6ba8-4eca-935f-ebbc0ebaa262",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.55"],
+						"port_ips": ["10.36.17.3", "10.36.19.55"]
+					},
+					{
+						"name": "n3plpnckm7435c",
+						"id": "9c00d31c-4bcf-4273-865e-348bb87ad5c4",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.36.19.54"],
+						"port_ips": ["10.36.17.3", "10.36.19.54"]
+					}
+				]
+			},
+			{
+				"iad_private": [
+					{
+						"name": "capck1592969923",
+						"id": "5e91e9e1-8c56-442f-ab79-6b7bbf5c9b8b",
+						"owning_group": "None",
+						"fips": ["10.38.12.82"],
+						"port_ips": ["10.38.1.14", "10.38.12.82"]
+					},
+					{
+						"name": "capck1592969924",
+						"id": "60648892-7301-4db4-9be8-109080e73aa7",
+						"owning_group": "None",
+						"fips": ["10.38.12.83"],
+						"port_ips": ["10.38.1.14", "10.38.12.83"]
+					},
+					{
+						"name": "capck1592968172",
+						"id": "195e775e-f458-48e7-9fa4-836519f356e7",
+						"owning_group": "None",
+						"fips": ["10.38.12.81"],
+						"port_ips": ["10.38.1.14", "10.38.12.81"]
+					},
+					{
+						"name": "a2pcvsk8sin001",
+						"id": "4a8cf1d7-79bc-4778-8857-f9b0be7f5eb5",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.85.39"],
+						"port_ips": ["10.26.85.39", "10.37.130.118", "97.74.76.106"]
+					},
+					{
+						"name": "a2pcvsk8sin002",
+						"id": "50d5232b-8ac8-4d32-8052-f210bb1131b4",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.88.210"],
+						"port_ips": ["10.26.88.210", "10.37.130.118", "97.74.76.106"]
+					},
+					{
+						"name": "a2pcvsk8sma001",
+						"id": "3649210b-7d69-4f5e-81ee-2abed035e014",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.88.213"],
+						"port_ips": ["10.26.88.213", "10.37.130.117"]
+					},
+					{
+						"name": "a2pcvsk8sma002",
+						"id": "10f66785-4b83-43ec-8c4b-69e2a4b3e5db",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.85.38"],
+						"port_ips": ["10.26.85.38", "10.37.130.117"]
+					},
+					{
+						"name": "a2pcvsk8sma003",
+						"id": "72f605ab-3b55-4e47-a1b1-86224eb01f8c",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.88.211"],
+						"port_ips": ["10.26.88.211", "10.37.130.117"]
+					},
+					{
+						"name": "a2prsk8s1ama002",
+						"id": "6fe9d317-2c97-4252-afe7-4a95b9512068",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.88.184"],
+						"port_ips": ["10.26.88.184", "10.37.130.113"]
+					},
+					{
+						"name": "a2prsk8s1ain002",
+						"id": "0c49f95f-d9ac-4f67-9a42-3850279c3413",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.86.86"],
+						"port_ips": ["10.26.86.86", "10.37.130.114", "97.74.76.103"]
+					},
+					{
+						"name": "a2prsk8s1ain003",
+						"id": "9774c8d6-19d0-41e9-9ad6-24fd9325c52b",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.85.213"],
+						"port_ips": ["10.26.85.213", "10.37.130.114", "97.74.76.103"]
+					},
+					{
+						"name": "a2prsk8s1ama003",
+						"id": "2e54a9ad-8d98-4c5f-a7ea-4beea249ef1d",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.84.246"],
+						"port_ips": ["10.26.84.246", "10.37.130.113"]
+					},
+					{
+						"name": "a2prsk8s1ama001",
+						"id": "b9d19bab-08ca-4050-8d3b-c575677181fc",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.88.183"],
+						"port_ips": ["10.26.88.183", "10.37.130.113"]
+					},
+					{
+						"name": "a2prsk8s1ain001",
+						"id": "47f73e22-1ec2-40d5-b589-bab7a48e41b5",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.26.88.185"],
+						"port_ips": ["10.26.88.185", "10.37.130.114", "97.74.76.103"]
+					},
+					{
+						"name": "a2olshop-rmq01",
+						"id": "10d1bca9-fec8-4946-8007-1bd79c5e7aa7",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.55"],
+						"port_ips": ["10.26.90.55", "10.37.130.102"]
+					},
+					{
+						"name": "a2plshop-rmq03",
+						"id": "fed1ae04-fabe-4f98-a4cb-bfa46c06f6b1",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.59"],
+						"port_ips": ["10.26.90.59", "10.37.130.101"]
+					},
+					{
+						"name": "a2plshop-rmq02",
+						"id": "bc7be000-1270-4308-a392-14be435efc6d",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.58"],
+						"port_ips": ["10.26.90.58", "10.37.130.101"]
+					},
+					{
+						"name": "a2plshop-rmq01",
+						"id": "c4669725-c4dd-47b3-89f1-c60019df3dcd",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.57"],
+						"port_ips": ["10.26.90.57", "10.37.130.101"]
+					},
+					{
+						"name": "a2olshop-rmq03",
+						"id": "f6d3ac70-4786-4f89-9b75-40f75ab8a976",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.60"],
+						"port_ips": ["10.26.90.60", "10.37.130.102"]
+					},
+					{
+						"name": "a2olshop-rmq02",
+						"id": "1d5cb6f1-d758-4410-8c59-096864646eaa",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.26.90.56"],
+						"port_ips": ["10.26.90.56", "10.37.130.102"]
+					},
+					{
+						"name": "a2plpncki774d8",
+						"id": "5978e2b0-12b7-4b44-87c9-991428c15785",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.85.230"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.85.230",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpncki98405",
+						"id": "4b19764f-c7ca-4c01-803e-b3d155defbdb",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.85.229"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.85.229",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpnckibb443",
+						"id": "94e2588c-142f-4956-9530-634d3c4921b3",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.85.228"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.85.228",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpncki5fcd6",
+						"id": "513790ce-02f6-4759-9212-ff82802e4eaf",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.85.227"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.85.227",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpnckid56b4",
+						"id": "a6c1b1db-7bea-4a46-b35f-613d13e6bcdb",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.187"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.89.187",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpncki9756f",
+						"id": "a2699b7b-fbab-4017-ac2b-7c5f07c0838f",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.185"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.89.185",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpncki072cd",
+						"id": "0e8a5b84-ef1f-4208-ad5a-bfe341e9320e",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.184"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.89.184",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpnckieebac",
+						"id": "0b25f244-1277-42b9-af18-88e58fa2ac2d",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.186"],
+						"port_ips": [
+							"10.26.72.36",
+							"10.26.89.186",
+							"198.71.248.123",
+							"198.71.248.124",
+							"198.71.248.125"
+						]
+					},
+					{
+						"name": "a2plpnckmdea32",
+						"id": "92e4743a-3ec3-42c6-848c-4299770006cc",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.192"],
+						"port_ips": ["10.26.72.62", "10.26.89.192"]
+					},
+					{
+						"name": "a2plpnckm2f38d",
+						"id": "c78f6076-1ad7-4aba-86fa-06d3c348216d",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.191"],
+						"port_ips": ["10.26.72.62", "10.26.89.191"]
+					},
+					{
+						"name": "a2plpnckm6ca3d",
+						"id": "5c2cf5d1-cb42-449c-a80d-2ac1081f8c34",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.190"],
+						"port_ips": ["10.26.72.62", "10.26.89.190"]
+					},
+					{
+						"name": "a2plpnckm2be59",
+						"id": "d6ce6d38-b037-452b-9c36-93f01d846225",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.189"],
+						"port_ips": ["10.26.72.62", "10.26.89.189"]
+					},
+					{
+						"name": "a2plpnckm1219d",
+						"id": "be8318c0-2216-4472-aedf-0065f8720397",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.26.89.188"],
+						"port_ips": ["10.26.72.62", "10.26.89.188"]
+					},
+					{
+						"name": "a2pldomcachelb3",
+						"id": "cee54a76-b4a7-4c4e-b9ea-e45ac531d2cc",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.26.87.173"],
+						"port_ips": ["10.26.72.59", "10.26.87.173", "10.37.130.121"]
+					},
+					{
+						"name": "a2pldomcachelb2",
+						"id": "040ba7e2-502b-4600-8769-8a1c90662ab7",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.26.87.171"],
+						"port_ips": ["10.26.72.59", "10.26.87.171", "10.37.130.121"]
+					},
+					{
+						"name": "a2pldomcachelb1",
+						"id": "9e1341f4-a2ed-49d5-9696-38f64effdfd1",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.26.87.170"],
+						"port_ips": ["10.26.72.59", "10.26.87.170", "10.37.130.121"]
+					},
+					{
+						"name": "ROCRMQOA05",
+						"id": "c19285ae-6c95-4ed3-99e9-cded8566ee6a",
+						"owning_group": "85 - OPS-ROC",
+						"fips": ["10.26.87.223"],
+						"port_ips": ["10.26.72.25", "10.26.87.223"]
+					},
+					{
+						"name": "ROCRMQOA04",
+						"id": "bb6ccd79-5e61-485b-9d40-fc9840ce713c",
+						"owning_group": "85 - OPS-ROC",
+						"fips": ["10.26.87.222"],
+						"port_ips": ["10.26.72.25", "10.26.87.222"]
+					},
+					{
+						"name": "ROCRMQOA03",
+						"id": "ac35d7d3-d9b3-4dd8-a5c4-864d2d21f4bc",
+						"owning_group": "85 - OPS-ROC",
+						"fips": ["10.26.87.220"],
+						"port_ips": ["10.26.72.25", "10.26.87.220"]
+					},
+					{
+						"name": "ROCRMQOA02",
+						"id": "d787291a-f061-4a60-a088-0251c972d961",
+						"owning_group": "85 - OPS-ROC",
+						"fips": ["10.26.87.22"],
+						"port_ips": ["10.26.72.25", "10.26.87.22"]
+					},
+					{
+						"name": "ROCRMQOA01",
+						"id": "ee6d3a29-35fd-4721-9626-887233340be9",
+						"owning_group": "85 - OPS-ROC",
+						"fips": ["10.26.87.215"],
+						"port_ips": ["10.26.72.25", "10.26.87.215"]
+					}
+				]
+			},
+			{
+				"phx_private": [
+					{
+						"name": "p3pldnspapi033",
+						"id": "c9c4574e-a585-4b55-91cc-39066883c167",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.132"],
+						"port_ips": ["10.32.142.132", "10.37.83.52"]
+					},
+					{
+						"name": "p3plpncki0dab5",
+						"id": "053ec3d9-df3b-4402-93dc-9337187d46b1",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.140.105"],
+						"port_ips": ["10.32.140.105", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3slpnckmffe2d",
+						"id": "ee014276-b17e-43fa-8220-f8d4a5de3503",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.73"],
+						"port_ips": ["10.32.158.73", "10.32.160.21"]
+					},
+					{
+						"name": "p3slpnckmb21bb",
+						"id": "29bb5db9-ffac-4caf-ab5e-94215bf6139f",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.70"],
+						"port_ips": ["10.32.158.70", "10.32.160.21"]
+					},
+					{
+						"name": "p3slpnckmbb9d0",
+						"id": "6bed122d-96c5-4959-af66-8e4eb3bc60ba",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.72"],
+						"port_ips": ["10.32.158.72", "10.32.160.21"]
+					},
+					{
+						"name": "p3slpnckm88996",
+						"id": "f6c47413-49ca-4fa8-a547-f58163ab6abb",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.74"],
+						"port_ips": ["10.32.158.74", "10.32.160.21"]
+					},
+					{
+						"name": "p3tl-rabbitmq-2",
+						"id": "61160d4c-bd78-4955-b568-4d00d3010a39",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.90.253"],
+						"port_ips": ["10.33.79.20", "10.33.90.253"]
+					},
+					{
+						"name": "p3tl-rabbitmq-1",
+						"id": "41adefa7-6664-4e90-afe5-0a32ce265b75",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.90.247"],
+						"port_ips": ["10.33.79.20", "10.33.90.247"]
+					},
+					{
+						"name": "p3tl-rabbitmq-3",
+						"id": "0df9cbd1-8cd0-48cd-a645-71a7c125b661",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.90.254"],
+						"port_ips": ["10.33.79.20", "10.33.90.254"]
+					},
+					{
+						"name": "p3pl-alma8rmq-3",
+						"id": "6df6e18e-ec58-4f6b-b95c-0104ec942a67",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.90.242"],
+						"port_ips": ["10.33.79.14", "10.33.90.242"]
+					},
+					{
+						"name": "p3pl-alma8rmq-2",
+						"id": "ea519b18-426b-4436-af34-e0d183dd92c1",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.119.14"],
+						"port_ips": ["10.33.119.14", "10.33.79.14"]
+					},
+					{
+						"name": "p3pl-alma8rmq-1",
+						"id": "3f7dd38f-ab60-4e03-9c1c-74043ac8b083",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.90.241"],
+						"port_ips": ["10.33.79.14", "10.33.90.241"]
+					},
+					{
+						"name": "p3dl-rabbit-1",
+						"id": "b6c61d46-a431-49dc-bd8a-7641f96e3d1d",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.119.116"],
+						"port_ips": ["10.33.119.116", "10.38.134.5"]
+					},
+					{
+						"name": "hfl-uCkGbacPHMj",
+						"id": "75076ce6-0886-44ce-b4e0-1479123aebfb",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.157.22", "10.32.157.217"],
+						"port_ips": ["10.32.157.217", "10.32.157.22", "10.32.157.217", "10.32.157.22"]
+					},
+					{
+						"name": "p3prsk8s1bma001",
+						"id": "3a4e6995-3a7a-48f6-baf6-5a96d97a559d",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.156.109"],
+						"port_ips": ["10.32.156.109", "10.37.82.20"]
+					},
+					{
+						"name": "p3prsk8s1bin002",
+						"id": "7ac978a8-20f7-47d6-862e-db1f78ee979e",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.164.129"],
+						"port_ips": ["10.32.164.129", "10.37.82.200", "216.69.141.114"]
+					},
+					{
+						"name": "p3prsk8s1bin001",
+						"id": "9b4ae5e1-7406-4a61-8e28-1f1ce9e89734",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.138.111"],
+						"port_ips": ["10.32.138.111", "10.37.82.200", "216.69.141.114"]
+					},
+					{
+						"name": "p3prsk8s1bma003",
+						"id": "94d5cb8c-cb8c-47fe-9967-17a40cb8ee10",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.156.107"],
+						"port_ips": ["10.32.156.107", "10.37.82.20"]
+					},
+					{
+						"name": "p3prsk8s1bin003",
+						"id": "f29b33d8-f88f-4d4a-8076-8a95d3eea7ac",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.140.111"],
+						"port_ips": ["10.32.140.111", "10.37.82.200", "216.69.141.114"]
+					},
+					{
+						"name": "p3prsk8s1bma002",
+						"id": "1d29a032-fae0-4eb5-b74f-558842dca1c4",
+						"owning_group": "122 - DEV-Reseller Control Center",
+						"fips": ["10.32.138.12"],
+						"port_ips": ["10.32.138.12", "10.37.82.20"]
+					},
+					{
+						"name": "p3pl-rabbitmq-2",
+						"id": "94a019c9-72c4-4e28-ae20-283154e8b915",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.119.109"],
+						"port_ips": ["10.33.119.109", "10.33.79.23"]
+					},
+					{
+						"name": "p3pl-rabbitmq-1",
+						"id": "b45d69e8-e69b-418b-8de5-87f76ed97f1d",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.119.108"],
+						"port_ips": ["10.33.119.108", "10.33.79.23"]
+					},
+					{
+						"name": "p3pl-rabbitmq-3",
+						"id": "02a17491-94fd-4edf-96c3-f5e2d20965d7",
+						"owning_group": "1507 - DEV-SecurityServices",
+						"fips": ["10.33.89.105"],
+						"port_ips": ["10.33.79.23", "10.33.89.105"]
+					},
+					{
+						"name": "p3plmwpwp03",
+						"id": "eab1e619-2935-413b-b373-727ac416b2c3",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.170.77"],
+						"port_ips": ["10.32.170.77/32", "216.69.141.175"]
+					},
+					{
+						"name": "p3plmwpwp04",
+						"id": "d1142262-5f80-4891-8a8b-1a65912d436e",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.170.78"],
+						"port_ips": ["10.32.170.78", "216.69.141.175"]
+					},
+					{
+						"name": "p3slmwpwp01",
+						"id": "0c2ed6e3-7f6c-4197-a138-ef1801fd7355",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.152.102"],
+						"port_ips": ["10.32.152.102/32", "104.238.65.131/32", "216.69.141.165"]
+					},
+					{
+						"name": "p3slmwpwp02",
+						"id": "cd01c777-5ae2-43eb-b511-131c12bea036",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.152.103"],
+						"port_ips": ["10.32.152.103/32", "104.238.65.131/32", "216.69.141.165"]
+					},
+					{
+						"name": "p3tlmwpwp01",
+						"id": "ba83550c-1148-4606-9b53-3dcc733dc25d",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.152.100"],
+						"port_ips": ["10.32.152.100", "10.37.82.90/32"]
+					},
+					{
+						"name": "p3dlmwpwp02",
+						"id": "0ad9f5e7-1b2e-4b55-9f74-3f4001914356",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.139.159"],
+						"port_ips": ["10.32.139.159", "10.37.82.9/32"]
+					},
+					{
+						"name": "p3dlmwpwp01",
+						"id": "5b0ee12b-5ec6-4bbc-ab2a-e508bb8cd167",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.139.158"],
+						"port_ips": ["10.32.139.158", "10.37.82.9/32"]
+					},
+					{
+						"name": "cppck1603817496",
+						"id": "c79999ae-13e8-41e4-8bf3-8815dacc2679",
+						"owning_group": "None",
+						"fips": ["10.33.193.4"],
+						"port_ips": ["10.33.193.4", "10.33.199.15"]
+					},
+					{
+						"name": "p3plhfwp03",
+						"id": "cc8038f3-ade3-4cca-a10a-08184204f6ff",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.169.77"],
+						"port_ips": ["10.32.169.77", "10.37.82.226"]
+					},
+					{
+						"name": "p3plhfwp02",
+						"id": "5088f0d6-313d-4336-8e17-7ee380373fb2",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.169.69"],
+						"port_ips": ["10.32.169.69", "10.37.82.226"]
+					},
+					{
+						"name": "p3plhfwp01",
+						"id": "7daa14db-a3c5-43da-aeb8-6295faa1e85d",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.169.68"],
+						"port_ips": ["10.32.169.68", "10.37.82.226"]
+					},
+					{
+						"name": "p3tcvsk8sin001",
+						"id": "081a526d-039d-4973-8c63-3733dcc255af",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.164.77"],
+						"port_ips": ["10.32.164.77", "10.37.82.204"]
+					},
+					{
+						"name": "p3slmyhwp01",
+						"id": "c7d2e786-9ae2-4f60-a3e5-953dbda3f03a",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.156.81"],
+						"port_ips": ["10.32.156.81/32", "45.40.130.25"]
+					},
+					{
+						"name": "p3slmyhwp02",
+						"id": "73cb691d-9407-47c5-85cb-2d1c9de76caa",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.156.82"],
+						"port_ips": ["10.32.156.82/32", "45.40.130.25"]
+					},
+					{
+						"name": "cppck1593060909",
+						"id": "db05c83c-9e81-490e-a1e8-f31367bb20d6",
+						"owning_group": "None",
+						"fips": ["10.33.193.2"],
+						"port_ips": ["10.33.193.2", "10.33.199.15"]
+					},
+					{
+						"name": "cppck1593059067",
+						"id": "ffc3821b-4a27-42f6-8123-72b4195b0259",
+						"owning_group": "None",
+						"fips": ["10.33.193.3"],
+						"port_ips": ["10.33.193.3", "10.33.199.15"]
+					},
+					{
+						"name": "p3tlmyhwp01",
+						"id": "affd53a5-6082-44a3-8f19-10ba774f4f1c",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.153.26"],
+						"port_ips": ["10.32.153.26/32", "10.37.81.41"]
+					},
+					{
+						"name": "p3dlmyhwp01",
+						"id": "c478ba74-9171-46c1-bd44-d6cf3526dfbe",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.139.89"],
+						"port_ips": ["10.32.139.89/32", "10.37.81.42"]
+					},
+					{
+						"name": "p3tlmyhwp02",
+						"id": "9c5fd283-d1d5-41ab-91ca-43cc7ec9c1d9",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.153.29"],
+						"port_ips": ["10.32.153.29/32", "10.37.81.41"]
+					},
+					{
+						"name": "p3dlmyhwp02",
+						"id": "a60c895d-a72f-4b92-bea5-2494a93e931f",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.139.90"],
+						"port_ips": ["10.32.139.90/32", "10.37.81.42"]
+					},
+					{
+						"name": "p3pcvsk8sin001",
+						"id": "279db79d-141f-437f-aff2-ad28f2441189",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.168.36"],
+						"port_ips": ["10.32.168.36", "10.37.82.215", "216.69.141.117"]
+					},
+					{
+						"name": "p3pcvsk8sin003",
+						"id": "b2949034-8d95-4296-b7a0-488867c0fb1f",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.166.192"],
+						"port_ips": ["10.32.166.192", "10.37.82.215", "216.69.141.117"]
+					},
+					{
+						"name": "p3pcvsk8sma001",
+						"id": "4f8293fa-341c-465e-9a8f-9440e4631528",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.168.37"],
+						"port_ips": ["10.32.168.37", "10.37.82.214"]
+					},
+					{
+						"name": "p3pcvsk8sin002",
+						"id": "584c2156-5b03-4744-8c80-66933ab133f7",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.166.197"],
+						"port_ips": ["10.32.166.197", "10.37.82.215", "216.69.141.117"]
+					},
+					{
+						"name": "p3pcvsk8sma002",
+						"id": "ee5d6e39-e592-40b5-baa1-1f9ea1b7885e",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.166.196"],
+						"port_ips": ["10.32.166.196", "10.37.82.214"]
+					},
+					{
+						"name": "p3pcvsk8sma003",
+						"id": "8f565588-58d2-4d40-b77c-f98d300536f5",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.166.193"],
+						"port_ips": ["10.32.166.193", "10.37.82.214"]
+					},
+					{
+						"name": "p3tlcicdkifb6a5",
+						"id": "46a88eb6-c9c8-41cd-b2e8-d0bfd0892d3a",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.206"],
+						"port_ips": ["10.32.171.206", "10.37.82.209"]
+					},
+					{
+						"name": "p3tlcicdki779b0",
+						"id": "abeef5a7-d7a6-4bec-aca0-bb0bc6463131",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.205"],
+						"port_ips": ["10.32.171.205", "10.37.82.209"]
+					},
+					{
+						"name": "p3tlcicdki74af6",
+						"id": "2c4975a6-22bf-4aa1-b329-05dc17bccbb8",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.204"],
+						"port_ips": ["10.32.171.204", "10.37.82.209"]
+					},
+					{
+						"name": "p3tlcicdki0ece2",
+						"id": "8e02b62c-b6b3-4de5-88d7-cf9f8c9a8c37",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.203"],
+						"port_ips": ["10.32.171.203", "10.37.82.209"]
+					},
+					{
+						"name": "p3tlcicdkm0c8f2",
+						"id": "cad67998-704e-4489-aeb2-f78cd07c8e39",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.202"],
+						"port_ips": ["10.32.171.202", "10.37.82.208"]
+					},
+					{
+						"name": "p3tlcicdkm1e97d",
+						"id": "90290e4f-d4b3-4c58-8792-d662803ab846",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.201"],
+						"port_ips": ["10.32.171.201", "10.37.82.208"]
+					},
+					{
+						"name": "p3tlcicdkm4cf5e",
+						"id": "027dee87-e383-4a6d-b305-205338463fc3",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.200"],
+						"port_ips": ["10.32.171.200", "10.37.82.208"]
+					},
+					{
+						"name": "p3tlcicdkm472cc",
+						"id": "3265d1a5-93f3-4a00-9794-ac963ec41717",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.171.199"],
+						"port_ips": ["10.32.171.199", "10.37.82.208"]
+					},
+					{
+						"name": "p3tlcicdkm51601",
+						"id": "563925d4-181b-4379-8655-010ad2cdeef6",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.164.116"],
+						"port_ips": ["10.32.164.116", "10.37.82.208"]
+					},
+					{
+						"name": "p3dlwppswp02",
+						"id": "f5b3aa84-a1c8-4818-8337-41df008488c7",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.156.137"],
+						"port_ips": ["10.32.156.137/32", "10.32.160.14", "216.69.136.63", "216.69.141.62"]
+					},
+					{
+						"name": "p3dlwppswp01",
+						"id": "b58e5b1d-a32c-48b7-b8d3-2d41222ec71b",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.156.136"],
+						"port_ips": ["10.32.156.136/32", "10.32.160.14", "216.69.138.229", "216.69.141.62"]
+					},
+					{
+						"name": "p3uldnspapi0012",
+						"id": "014728b4-bff5-4c35-b024-55948b456dbb",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.210"],
+						"port_ips": ["10.32.154.210", "10.37.82.254"]
+					},
+					{
+						"name": "p3uldnssapi0002",
+						"id": "1c7831c5-0143-42f4-9569-b1a4dd47a916",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.155.49"],
+						"port_ips": ["10.32.155.49", "10.37.82.122"]
+					},
+					{
+						"name": "p3tldnshaprxy01",
+						"id": "44680ac2-01a7-42d4-bfc1-a9851fdc182f",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.157.192", "10.32.142.158"],
+						"port_ips": ["10.32.142.158", "10.32.157.192", "10.32.142.158", "10.32.157.192"]
+					},
+					{
+						"name": "p3tdomk8sin001",
+						"id": "2a66ba21-8539-4e1c-af45-0100fcee4da9",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.167.228"],
+						"port_ips": ["10.32.167.228", "10.37.82.173"]
+					},
+					{
+						"name": "p3tdomk8sin002",
+						"id": "8f3b529c-9bdd-4e5c-9590-2c83fe8c34d3",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.167.232"],
+						"port_ips": ["10.32.167.232", "10.37.82.173"]
+					},
+					{
+						"name": "p3tdomk8sin003",
+						"id": "cd739578-0617-4dc6-baec-3077bfcf95b1",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.167.224"],
+						"port_ips": ["10.32.167.224", "10.37.82.173"]
+					},
+					{
+						"name": "p3tdomk8sma001",
+						"id": "5c3e3ab6-26d8-4981-9e6a-a5c7a6def23b",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.167.229"],
+						"port_ips": ["10.32.167.229", "10.37.82.170"]
+					},
+					{
+						"name": "p3tdomk8sma002",
+						"id": "111eb505-5ce7-45d1-9bab-40d27a122120",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.167.226"],
+						"port_ips": ["10.32.167.226", "10.37.82.170"]
+					},
+					{
+						"name": "p3tdomk8sma003",
+						"id": "4f66236f-ceb7-49d2-9f2b-5200e932d736",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.159.108"],
+						"port_ips": ["10.32.159.108", "10.37.82.170"]
+					},
+					{
+						"name": "p3tcvsk8sin002",
+						"id": "1ea4d898-8b9e-4fd4-9918-32c8475e6f0d",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.156.95"],
+						"port_ips": ["10.32.156.95", "10.37.82.204"]
+					},
+					{
+						"name": "p3tcvsk8sin003",
+						"id": "0faa911e-981d-4e7f-b85d-33f0dfee21d6",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.164.75"],
+						"port_ips": ["10.32.164.75", "10.37.82.204"]
+					},
+					{
+						"name": "p3tcvsk8sma002",
+						"id": "aa24c55a-5ed7-46c3-8d91-b6ca96f1bd24",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.37.70.161"],
+						"port_ips": ["10.37.70.161", "10.37.82.203"]
+					},
+					{
+						"name": "p3tcvsk8sma001",
+						"id": "61bd3a00-6470-4f62-b8cc-bd21e46a400b",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.37.70.162"],
+						"port_ips": ["10.37.70.162", "10.37.82.203"]
+					},
+					{
+						"name": "p3tcvsk8sma003",
+						"id": "5684a125-c1d3-42b7-a581-5e2f04d38264",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.164.73"],
+						"port_ips": ["10.32.164.73", "10.37.82.203"]
+					},
+					{
+						"name": "p3prodam01ma003",
+						"id": "1aa0b652-855d-4b4f-9c73-0345f93e7ef1",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.105"],
+						"port_ips": ["10.32.159.105", "10.37.82.174"]
+					},
+					{
+						"name": "p3prodam01in001",
+						"id": "dfe2cfa2-6c98-4998-9c55-25425c36994b",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.166"],
+						"port_ips": ["10.32.159.166", "10.37.82.177", "216.69.141.111"]
+					},
+					{
+						"name": "p3prodam01in002",
+						"id": "5273e1d7-17e7-4576-b95a-94ae2a04ec2a",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.107"],
+						"port_ips": ["10.32.159.107", "10.37.82.177", "216.69.141.111"]
+					},
+					{
+						"name": "p3prodam01in003",
+						"id": "2a7ead43-4fa8-423c-aae2-4a49d13654d8",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.110"],
+						"port_ips": ["10.32.159.110", "10.37.82.177", "216.69.141.111"]
+					},
+					{
+						"name": "p3prodam01ma001",
+						"id": "0496e9f2-7a51-49fa-b5f7-8a5c7ba1284d",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.14"],
+						"port_ips": ["10.32.159.14", "10.37.82.174"]
+					},
+					{
+						"name": "p3prodam01ma002",
+						"id": "aaf63ea1-3219-48f9-8584-f52ab8b29a78",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.159.118"],
+						"port_ips": ["10.32.159.118", "10.37.82.174"]
+					},
+					{
+						"name": "p3pdomk8sin002",
+						"id": "c3817681-ef4a-4baf-81df-66795ff05739",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.57"],
+						"port_ips": ["10.32.155.57", "10.37.82.183"]
+					},
+					{
+						"name": "p3pdomk8sin001",
+						"id": "5860258f-63a1-47bd-b6e3-bc045d86ca50",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.93"],
+						"port_ips": ["10.32.155.93", "10.37.82.183"]
+					},
+					{
+						"name": "p3pdomk8sin003",
+						"id": "5e8cbd79-fe1f-40dc-be13-c4f2c14cdd03",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.227"],
+						"port_ips": ["10.32.155.227", "10.37.82.183"]
+					},
+					{
+						"name": "p3pdomk8sma002",
+						"id": "2e086c2e-0046-4183-b706-52093c28b3b9",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.7"],
+						"port_ips": ["10.32.155.7", "10.37.82.182"]
+					},
+					{
+						"name": "p3pdomk8sma001",
+						"id": "3fc56be7-ad51-4b30-a034-4b21d65af683",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.69"],
+						"port_ips": ["10.32.155.69", "10.37.82.182"]
+					},
+					{
+						"name": "p3pdomk8sma003",
+						"id": "df29ce2c-37ef-4bc9-ba29-369c7261e533",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.155.115"],
+						"port_ips": ["10.32.155.115", "10.37.82.182"]
+					},
+					{
+						"name": "p3testam01ma002",
+						"id": "91af09be-4f5b-4c6b-a030-4b35c2f28c1c",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.221"],
+						"port_ips": ["10.32.167.221", "10.37.82.175"]
+					},
+					{
+						"name": "p3testam01ma001",
+						"id": "a913f829-2858-4a8a-9f4c-4b76fce2d41f",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.222"],
+						"port_ips": ["10.32.167.222", "10.37.82.175"]
+					},
+					{
+						"name": "p3testam01in003",
+						"id": "f8a7f052-f31c-4abf-ad7c-01f6bcf0632f",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.220"],
+						"port_ips": ["10.32.167.220", "10.37.82.179"]
+					},
+					{
+						"name": "p3testam01in002",
+						"id": "6e274558-59d5-49cb-9c7f-a913280640c5",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.22"],
+						"port_ips": ["10.32.167.22", "10.37.82.179"]
+					},
+					{
+						"name": "p3testam01in001",
+						"id": "7aa3e66b-8c6a-48d5-be15-6d2d9a6c262f",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.215"],
+						"port_ips": ["10.32.167.215", "10.37.82.179"]
+					},
+					{
+						"name": "p3testam01ma003",
+						"id": "334c15b4-408d-48d6-9001-61c649c47a2d",
+						"owning_group": "107 - DEV-Auctions",
+						"fips": ["10.32.167.218"],
+						"port_ips": ["10.32.167.218", "10.37.82.175"]
+					},
+					{
+						"name": "p3uldnscapi0003",
+						"id": "e56a4e94-8464-40d1-a891-8c2332af468a",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.166.180"],
+						"port_ips": ["10.32.166.180", "10.37.83.51"]
+					},
+					{
+						"name": "p3oldnssapi0003",
+						"id": "99eb36bd-9b22-4556-a144-952d49eb15e7",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.167.170"],
+						"port_ips": ["10.32.167.170", "10.37.83.57"]
+					},
+					{
+						"name": "p3oldnssapi0002",
+						"id": "055354b3-4e52-4310-81e1-3e34acf61201",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.167.169"],
+						"port_ips": ["10.32.167.169", "10.37.83.57"]
+					},
+					{
+						"name": "p3tldnspapi0381",
+						"id": "dbac3295-9678-4b74-bf3a-ea31b142cb31",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.138"],
+						"port_ips": ["10.32.142.138", "10.37.82.253"]
+					},
+					{
+						"name": "p3pldcfwd0003",
+						"id": "304bf5f4-0853-4436-aab4-6aa72ff75340",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.164.114"],
+						"port_ips": ["10.32.164.114", "216.69.141.59"]
+					},
+					{
+						"name": "p3pldnscapi0008",
+						"id": "5b1c7595-2c0c-4d48-8b5e-18411d2175b5",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.166.103"],
+						"port_ips": ["10.32.166.103", "10.37.83.55"]
+					},
+					{
+						"name": "p3pldnscapi0007",
+						"id": "b45b72f3-2cfe-42bd-aa79-7ac1877660ae",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.155.54"],
+						"port_ips": ["10.32.155.54", "10.37.83.55"]
+					},
+					{
+						"name": "p3pldnscapi0006",
+						"id": "952e16bd-111e-4736-a291-2740516c2d83",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.6"],
+						"port_ips": ["10.32.142.6", "10.37.83.55"]
+					},
+					{
+						"name": "p3pldnscapi0005",
+						"id": "685d7362-d6d3-4733-95c0-1057e1b295d0",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.30"],
+						"port_ips": ["10.32.142.30", "10.37.83.55"]
+					},
+					{
+						"name": "p3tldnscapi0002",
+						"id": "3189598e-96c5-4eb3-a709-279ebd57533c",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.153.140"],
+						"port_ips": ["10.32.153.140", "10.37.83.50"]
+					},
+					{
+						"name": "p3tldnscapi0001",
+						"id": "c1993ecb-888d-4d76-88b5-3ac7f73e383b",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.153.123"],
+						"port_ips": ["10.32.153.123", "10.37.83.50"]
+					},
+					{
+						"name": "p3olshop-rmq03",
+						"id": "6ddcb7e6-821a-4354-b7f0-23d89b3081e0",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.167.124"],
+						"port_ips": ["10.32.167.124", "10.37.81.110"]
+					},
+					{
+						"name": "p3olshop-rmq02",
+						"id": "78bb4c69-a4a1-4223-bc19-efae95bb1a0b",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.167.123"],
+						"port_ips": ["10.32.167.123", "10.37.81.110"]
+					},
+					{
+						"name": "p3pldnspapi0014",
+						"id": "82075b83-6dea-4035-8645-da870e664003",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.71.106"],
+						"port_ips": ["10.37.71.106", "10.37.83.52"]
+					},
+					{
+						"name": "p3plpnckibb132",
+						"id": "0861a473-6637-43bf-978b-40d2c5dec371",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.155.9"],
+						"port_ips": ["10.32.155.9", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki43ef5",
+						"id": "e86be5f0-d8cb-455a-b881-8b6d640e3bee",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.155.6"],
+						"port_ips": ["10.32.155.6", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki91c72",
+						"id": "dc60f07f-92eb-4548-a6cf-7f89f0a8fdcb",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.155.56"],
+						"port_ips": ["10.32.155.56", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki06b56",
+						"id": "351e71ab-ef4e-4a88-b4fd-29b75c4e914f",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.155.55"],
+						"port_ips": ["10.32.155.55", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3pldcfwd0002",
+						"id": "02fced98-fa60-4ecd-9599-388c1a27810c",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.68.5"],
+						"port_ips": ["10.37.68.5", "216.69.141.59"]
+					},
+					{
+						"name": "p3pldnspapi0013",
+						"id": "a69db349-3db0-441d-886b-b011a969b2b8",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.70.193"],
+						"port_ips": ["10.37.70.193", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0010",
+						"id": "366d2a0a-3f8a-4c99-aae8-24e06284ac8f",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.70.185"],
+						"port_ips": ["10.37.70.185", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0009",
+						"id": "c2ba93f0-4f24-4f87-b637-561139dea0b3",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.70.174"],
+						"port_ips": ["10.37.70.174", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0008",
+						"id": "d5d728e6-abc2-4149-8c3a-b2dbb77914d5",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.70.131"],
+						"port_ips": ["10.37.70.131", "10.37.83.52"]
+					},
+					{
+						"name": "rmq-node-3-prod",
+						"id": "68cb539c-a2c9-491b-81f1-88c4a95ea287",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.167.127"],
+						"port_ips": ["10.32.167.127", "10.37.81.108"]
+					},
+					{
+						"name": "rmq-node-2-prod",
+						"id": "f83d7c61-61c0-4ec6-b5c7-aa3539414c61",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.167.126"],
+						"port_ips": ["10.32.167.126", "10.37.81.108"]
+					},
+					{
+						"name": "rmq-node-1-prod",
+						"id": "baf3bc36-c4c8-4cfe-9fff-3c021c605ea4",
+						"owning_group": "557 - DEV-API Gateway",
+						"fips": ["10.32.167.125"],
+						"port_ips": ["10.32.167.125", "10.37.81.108"]
+					},
+					{
+						"name": "p3plwppswp02",
+						"id": "fbe2f208-cb0a-4fea-9ce1-1e188f64f2b2",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.152"],
+						"port_ips": ["10.32.158.152/32", "216.69.136.76", "216.69.141.64", "45.40.130.16/32"]
+					},
+					{
+						"name": "p3plpncki44be8",
+						"id": "510e6b89-de53-4b58-8eaa-6b7c50174041",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.140.104"],
+						"port_ips": ["10.32.140.104", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpnckiea579",
+						"id": "ea9dd1bb-7795-4738-bae4-e12ab314f5b7",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.140.103"],
+						"port_ips": ["10.32.140.103", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki39d4e",
+						"id": "96596985-84af-46bf-99ee-9815e80f6e12",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.140.102"],
+						"port_ips": ["10.32.140.102", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpnckib5a5b",
+						"id": "b94b00e6-f349-49dc-812a-48c02c5bb278",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.159.40"],
+						"port_ips": ["10.32.159.40", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpnckifb55e",
+						"id": "f6c56b01-fdd4-496c-9b91-da0da384195a",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.159.4"],
+						"port_ips": ["10.32.159.4", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki91279",
+						"id": "1d2f80dc-f3de-400d-b0b3-e951394b2923",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.159.25"],
+						"port_ips": ["10.32.159.25", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3plpncki2b154",
+						"id": "884d2d41-b3b2-4939-8e1f-1f134054f480",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.159.45"],
+						"port_ips": ["10.32.159.45", "10.32.160.10", "45.40.130.49", "45.40.130.50", "45.40.130.51"]
+					},
+					{
+						"name": "p3slpncki277fd",
+						"id": "36a47144-62cc-451c-abd7-93e1f93edfe0",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.75"],
+						"port_ips": ["10.32.158.75", "10.32.160.20"]
+					},
+					{
+						"name": "p3slpncki4fb57",
+						"id": "9988e59c-5895-4f0b-8dbc-f87763342c81",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.77"],
+						"port_ips": ["10.32.158.77", "10.32.160.20"]
+					},
+					{
+						"name": "p3slpncki996af",
+						"id": "ade7b156-3a8f-4857-8da8-87f7c9364c81",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.76"],
+						"port_ips": ["10.32.158.76", "10.32.160.20"]
+					},
+					{
+						"name": "p3slpncki95bb7",
+						"id": "eaeb5adb-e9c4-479b-b82c-3d1f3dc4e68e",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.78"],
+						"port_ips": ["10.32.158.78", "10.32.160.20"]
+					},
+					{
+						"name": "p3tldnspapi0379",
+						"id": "fa323903-219f-42ce-bfc1-96c6c14eba92",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.139"],
+						"port_ips": ["10.32.142.139", "10.37.82.253"]
+					},
+					{
+						"name": "p3plmyhwp03",
+						"id": "f233b702-290e-459c-a62d-caa6bc0163b5",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.156.85"],
+						"port_ips": ["10.32.156.85/32", "104.238.65.135/32"]
+					},
+					{
+						"name": "p3plmyhwp02",
+						"id": "41d03af9-7f20-42e1-a159-00097af134ef",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.156.84"],
+						"port_ips": ["10.32.156.84/32", "104.238.65.135/32"]
+					},
+					{
+						"name": "p3plmyhwp01",
+						"id": "9e81ffe9-746a-4b6d-90cb-714ce8614880",
+						"owning_group": "Dev-HUI",
+						"fips": ["10.32.156.83"],
+						"port_ips": ["10.32.156.83/32", "104.238.65.135/32"]
+					},
+					{
+						"name": "p3sldnssapi0001",
+						"id": "7211c20c-f201-4a46-a7c1-04e62a37ba33",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.151"],
+						"port_ips": ["10.32.154.151", "10.37.82.157"]
+					},
+					{
+						"name": "p3sldnspapi0002",
+						"id": "fc36862b-dbbf-44e3-82b1-cfb2c9ee7bf4",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.103"],
+						"port_ips": ["10.32.154.103", "10.37.83.19"]
+					},
+					{
+						"name": "p3tldnspapi0378",
+						"id": "43e64b7d-2800-46a1-8ad0-0f3b72e5071e",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.129"],
+						"port_ips": ["10.32.142.129", "10.37.82.253"]
+					},
+					{
+						"name": "p3tldnssapi0068",
+						"id": "5999be8a-d726-498b-b6f4-271b08186efb",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.155.4"],
+						"port_ips": ["10.32.155.4", "10.37.82.67"]
+					},
+					{
+						"name": "p3pldnspapi0006",
+						"id": "51e2ae34-73c9-4457-aa00-771cb4bc70c8",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.226"],
+						"port_ips": ["10.32.154.226", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0005",
+						"id": "ff76c851-3065-4996-8033-93011d0fd57d",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.225"],
+						"port_ips": ["10.32.154.225", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0004",
+						"id": "f064841f-50f6-4fe3-b695-ed5b3e794999",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.214"],
+						"port_ips": ["10.32.154.214", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0003",
+						"id": "d1bfba78-6ee6-4dd7-a98b-c03d0667fffa",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.192"],
+						"port_ips": ["10.32.154.192", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0002",
+						"id": "65add0d5-e1e8-4d13-9e09-ffcf54027dc7",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.190"],
+						"port_ips": ["10.32.154.190", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0001",
+						"id": "f7072f27-ccda-499c-a515-4cac6bed21ef",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.187"],
+						"port_ips": ["10.32.154.187", "10.37.83.52"]
+					},
+					{
+						"name": "p3tldnssapi0065",
+						"id": "c592ea5e-6d22-4917-ba12-0edffb584806",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.69.167"],
+						"port_ips": ["10.37.69.167", "10.37.82.67"]
+					},
+					{
+						"name": "p3pldnspapi0032",
+						"id": "0664b7c7-5ab2-4b0e-b2c9-68a2a63c1a59",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.130"],
+						"port_ips": ["10.32.142.130", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0031",
+						"id": "b6c7f722-21af-46a8-b641-6b869debb246",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.141.68"],
+						"port_ips": ["10.32.141.68", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0030",
+						"id": "75b3c0b1-1f14-4f56-9717-c4d37d578ac9",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.141.70"],
+						"port_ips": ["10.32.141.70", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0029",
+						"id": "e408889b-4745-435f-b487-43d714cb70e2",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.141.69"],
+						"port_ips": ["10.32.141.69", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldcfwd0001",
+						"id": "15c1f9ca-065c-40d4-acfe-ad0318d12fee",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.37.68.49"],
+						"port_ips": ["10.37.68.49", "216.69.141.57", "216.69.141.59"]
+					},
+					{
+						"name": "p3pldnshapx02",
+						"id": "9a3db312-36e0-47f7-8cf3-741b022fd6aa",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["216.69.136.221", "216.69.138.163"],
+						"port_ips": [
+							"216.69.136.198",
+							"216.69.136.221",
+							"216.69.138.163",
+							"216.69.138.171",
+							"216.69.136.198",
+							"216.69.136.221",
+							"216.69.138.163",
+							"216.69.138.171"
+						]
+					},
+					{
+						"name": "p3pldnshapx01",
+						"id": "08e5c1ea-945c-4474-b3f3-7eff7342347f",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["216.69.136.198", "216.69.138.171"],
+						"port_ips": [
+							"216.69.136.198",
+							"216.69.136.221",
+							"216.69.138.163",
+							"216.69.138.171",
+							"216.69.136.198",
+							"216.69.136.221",
+							"216.69.138.163",
+							"216.69.138.171"
+						]
+					},
+					{
+						"name": "api-cert-prod02",
+						"id": "f356185a-6848-48a2-b235-cce5a04dfcfd",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.9"],
+						"port_ips": ["10.22.26.151", "10.32.140.9", "10.37.81.101"]
+					},
+					{
+						"name": "api-cert-prod06",
+						"id": "8750ad06-0f0e-4e8b-9784-68a8d029ef7b",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.13"],
+						"port_ips": ["10.22.26.151", "10.32.140.13", "10.37.81.101"]
+					},
+					{
+						"name": "api-cert-prod04",
+						"id": "c83e181c-3bf8-4430-bea4-cf36f6b7b042",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.11"],
+						"port_ips": ["10.22.26.151", "10.32.140.11", "10.37.81.101"]
+					},
+					{
+						"name": "api-cert-prod05",
+						"id": "9ffa25a3-8ba6-40ac-b61e-7d36badc1809",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.12"],
+						"port_ips": ["10.22.26.151", "10.32.140.12", "10.37.81.101"]
+					},
+					{
+						"name": "api-cert-prod03",
+						"id": "b73795ea-b505-4a5f-b4c6-243f4fde9218",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.10"],
+						"port_ips": ["10.22.26.151", "10.32.140.10", "10.37.81.101"]
+					},
+					{
+						"name": "api-cert-prod01",
+						"id": "446d73cb-b3f2-485d-9c4d-911f9d701d28",
+						"owning_group": "884 - DEV-IdentityServices",
+						"fips": ["10.32.140.8"],
+						"port_ips": ["10.22.26.151", "10.32.140.8", "10.37.81.101"]
+					},
+					{
+						"name": "p3plwppswp01",
+						"id": "1e65bb0f-b71c-4e87-8b52-3bd06c05604f",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.151"],
+						"port_ips": ["10.32.158.151/32", "216.69.136.73", "216.69.141.64", "45.40.130.16"]
+					},
+					{
+						"name": "p3slwppswp02",
+						"id": "2eed69da-194b-4cf3-af52-ab9c7d777774",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.149"],
+						"port_ips": ["10.32.158.149/32", "216.69.136.72", "216.69.141.63", "45.40.130.18"]
+					},
+					{
+						"name": "p3slwppswp01",
+						"id": "79bfc035-f75a-487e-a2fd-e8f101dd8492",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.148"],
+						"port_ips": ["10.32.158.148/32", "216.69.136.70", "216.69.141.63", "45.40.130.18"]
+					},
+					{
+						"name": "p3tlwppswp02",
+						"id": "6d080cd8-70f5-4127-a775-9066db6b24a5",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.147"],
+						"port_ips": ["10.32.158.147/32", "10.32.160.12", "216.69.136.66", "216.69.141.57"]
+					},
+					{
+						"name": "p3tlwppswp01",
+						"id": "c35a7525-5f9e-4cfc-8c75-cfa3a29a2e1d",
+						"owning_group": "Dev-WPPS",
+						"fips": ["10.32.158.146"],
+						"port_ips": ["10.32.158.146/32", "10.32.160.12", "216.69.136.64", "216.69.141.57"]
+					},
+					{
+						"name": "p3pldnspapi0026",
+						"id": "40c1fb28-e881-4eac-b8a3-48d9e88381b4",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.142.131"],
+						"port_ips": ["10.32.142.131", "10.37.83.52"]
+					},
+					{
+						"name": "p3pldnspapi0025",
+						"id": "4bb604d3-4bb8-456a-8c0e-5fef6a5b5d89",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.141.71"],
+						"port_ips": ["10.32.141.71", "10.37.83.52"]
+					},
+					{
+						"name": "p3slpnckm7d3fe",
+						"id": "a995d3b9-012f-4eb9-8046-124732161942",
+						"owning_group": "626 - OPS-PnC Operations",
+						"fips": ["10.32.158.71"],
+						"port_ips": ["10.32.158.71", "10.32.160.21"]
+					},
+					{
+						"name": "p3plpnckmd6d50",
+						"id": "ae45f08e-7c5d-4f2d-b363-104bbab48a58",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.152.57"],
+						"port_ips": ["10.32.136.77", "10.32.152.57"]
+					},
+					{
+						"name": "p3plpnckmf76fb",
+						"id": "a08a6de1-1f48-4892-a684-41bed8b63b10",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.152.63"],
+						"port_ips": ["10.32.136.77", "10.32.152.63"]
+					},
+					{
+						"name": "p3plpnckmd904b",
+						"id": "2d017613-6643-423f-b2ee-849e87182cef",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.152.68"],
+						"port_ips": ["10.32.136.77", "10.32.152.68"]
+					},
+					{
+						"name": "p3plpnckm791a8",
+						"id": "9340c78f-6c7f-4536-bafd-211c1a16233f",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.152.7"],
+						"port_ips": ["10.32.136.77", "10.32.152.7"]
+					},
+					{
+						"name": "p3plpnckm68461",
+						"id": "595b004d-5702-498c-afc5-fff16eedd0f8",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.32.152.76"],
+						"port_ips": ["10.32.136.77", "10.32.152.76"]
+					},
+					{
+						"name": "P3TWDCCWEB13",
+						"id": "b0da0a3d-15d3-4eeb-86e2-b65d43d834f5",
+						"owning_group": "548 - DEV-Domains-Web",
+						"fips": ["10.32.158.25"],
+						"port_ips": [
+							"10.32.158.25",
+							"10.32.158.26",
+							"10.32.158.28",
+							"10.32.158.30",
+							"10.32.158.32",
+							"10.32.158.34",
+							"10.32.158.36"
+						]
+					},
+					{
+						"name": "p3plmwpdb01",
+						"id": "82476e31-6af2-4896-b130-e50650349f89",
+						"owning_group": "799 - DEV-HostingFoundationServices",
+						"fips": ["10.32.154.188"],
+						"port_ips": ["10.32.154.188", "10.32.154.188/32"]
+					},
+					{
+						"name": "p3pldnssapi0003",
+						"id": "89dbb319-9572-41c1-96ae-7ebda2a1a91b",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.181"],
+						"port_ips": ["10.32.154.181", "10.37.83.53"]
+					},
+					{
+						"name": "p3pldnssapi0002",
+						"id": "808fdcab-25ad-425a-ac67-940258222b78",
+						"owning_group": "12 - OPS-Managed DNS",
+						"fips": ["10.32.154.179", "10.32.154.183", "10.32.154.182"],
+						"port_ips": ["10.32.154.183", "10.37.83.53"]
+					},
+					{
+						"name": "p3pldomcachelb3",
+						"id": "b141decf-14a6-48bc-b7ab-327126ec34aa",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.152.60"],
+						"port_ips": ["10.32.136.76", "10.32.152.60", "10.37.82.30"]
+					},
+					{
+						"name": "p3pldomcachelb2",
+						"id": "aa83f714-256a-44ef-bfac-1622c20ee32c",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.152.55"],
+						"port_ips": ["10.32.136.76", "10.32.152.55", "10.37.82.30"]
+					},
+					{
+						"name": "p3pldomcachelb1",
+						"id": "5ff383ed-fb0a-4e73-b066-6390e0d60bfd",
+						"owning_group": "731 - DEV-Domains-Platform",
+						"fips": ["10.32.152.47"],
+						"port_ips": ["10.32.136.76", "10.32.152.47", "10.37.82.30"]
+					},
+					{
+						"name": "am-svcs-prod-10",
+						"id": "8a57e44c-56c8-46cb-a1e8-212ab758a841",
+						"owning_group": "None",
+						"fips": ["10.32.143.250"],
+						"port_ips": ["10.32.136.17", "10.32.143.250", "10.37.82.210"]
+					},
+					{
+						"name": "am-svcs-prod-05",
+						"id": "b5130eab-505f-4411-99fd-cc62ad8140ef",
+						"owning_group": "504 - Dev-Afternic",
+						"fips": ["10.22.41.143"],
+						"port_ips": ["10.22.26.204", "10.22.41.143", "10.37.82.10"]
+					},
+					{
+						"name": "p3olpushapi001",
+						"id": "272fa447-248a-4e23-8bce-c44d8bf19027",
+						"owning_group": "100 - DEV-Web-Mobile",
+						"fips": ["10.22.44.215"],
+						"port_ips": ["10.22.44.215", "10.37.83.46"]
+					},
+					{
+						"name": "an-sync-prod-01",
+						"id": "a0bb48b6-25c8-4aee-86fd-eceb9380d213",
+						"owning_group": "None",
+						"fips": ["10.22.41.77"],
+						"port_ips": ["10.22.41.77", "10.37.83.4"]
+					},
+					{
+						"name": "an-sync-ote-01",
+						"id": "e2d7ddc4-9b91-4e04-a7b2-606e9b4f08ac",
+						"owning_group": "None",
+						"fips": ["10.22.41.146"],
+						"port_ips": ["10.22.41.146", "10.37.83.3"]
+					},
+					{
+						"name": "am-svcs-prod-01",
+						"id": "c6f9e40d-c2ff-4345-adec-7d41e4e5bc7b",
+						"owning_group": "None",
+						"fips": ["10.22.40.94"],
+						"port_ips": ["10.22.26.204", "10.22.40.94", "10.37.82.10"]
+					},
+					{
+						"name": "am-svcs-ote-02",
+						"id": "d3d4a817-41b9-4112-9635-cdabec343ce5",
+						"owning_group": "None",
+						"fips": ["10.22.41.144"],
+						"port_ips": ["10.22.26.190", "10.22.41.144", "10.37.82.122"]
+					},
+					{
+						"name": "am-svcs-ote-01",
+						"id": "253f0ff1-6233-4f15-88b5-4acd3de99083",
+						"owning_group": "None",
+						"fips": ["10.22.40.95"],
+						"port_ips": ["10.22.26.190", "10.22.40.95", "10.37.82.122"]
+					},
+					{
+						"name": "am-svcs-test-01",
+						"id": "8bdc22b9-43f7-4f91-a7b2-31824d8bc93f",
+						"owning_group": "None",
+						"fips": ["10.22.40.9"],
+						"port_ips": ["10.22.26.188", "10.22.40.9"]
+					},
+					{
+						"name": "am-svcs-dev-01",
+						"id": "42fbc1ad-ce62-4a04-9f13-f867285600f6",
+						"owning_group": "None",
+						"fips": ["10.22.40.96"],
+						"port_ips": ["10.22.26.186", "10.22.40.96"]
+					}
+				]
+			},
+			{
+				"sin_private": [
+					{
+						"name": "sg2plpncki97802",
+						"id": "199d4fba-41ef-463a-8872-1d6944bfff2a",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.14"],
+						"port_ips": [
+							"10.18.226.50",
+							"10.30.199.14",
+							"43.255.152.128",
+							"43.255.152.132",
+							"43.255.152.133"
+						]
+					},
+					{
+						"name": "sg2plpncki5e66c",
+						"id": "47efee01-2a04-441b-891e-5f5c258c73a3",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.16"],
+						"port_ips": [
+							"10.18.226.50",
+							"10.30.199.16",
+							"43.255.152.128",
+							"43.255.152.132",
+							"43.255.152.133"
+						]
+					},
+					{
+						"name": "sg2plpnckiff98d",
+						"id": "c07b5e8f-9799-47b3-bfb4-c7237fcddf1d",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.15"],
+						"port_ips": [
+							"10.18.226.50",
+							"10.30.199.15",
+							"43.255.152.128",
+							"43.255.152.132",
+							"43.255.152.133"
+						]
+					},
+					{
+						"name": "sg2plpncki4b4a7",
+						"id": "bcdedbe0-e8b7-4fd9-857b-78dc4dd24f33",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.17"],
+						"port_ips": [
+							"10.18.226.50",
+							"10.30.199.17",
+							"43.255.152.128",
+							"43.255.152.132",
+							"43.255.152.133"
+						]
+					},
+					{
+						"name": "sg2plpnckm25419",
+						"id": "437095f8-f095-4713-bcd5-1ea5fa626ca6",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.13"],
+						"port_ips": ["10.18.26.194", "10.30.199.13"]
+					},
+					{
+						"name": "sg2plpnckm341e7",
+						"id": "96841166-6d5e-4a68-89be-2739f066a704",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.12"],
+						"port_ips": ["10.18.26.194", "10.30.199.12"]
+					},
+					{
+						"name": "sg2plpnckm99f29",
+						"id": "1cdde265-4e7a-4a98-856f-72077f4933ec",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.11"],
+						"port_ips": ["10.18.26.194", "10.30.199.11"]
+					},
+					{
+						"name": "sg2plpnckmac200",
+						"id": "76c3465e-91bc-4e99-af67-04989ff5481b",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.10"],
+						"port_ips": ["10.18.26.194", "10.30.199.10"]
+					},
+					{
+						"name": "sg2plpnckmf4829",
+						"id": "f9d9d3e0-4309-4845-84f7-396014c72020",
+						"owning_group": "36 - DEV-WebsiteBuilder",
+						"fips": ["10.30.199.9"],
+						"port_ips": ["10.18.26.194", "10.30.199.9"]
+					}
+				]
+			}
+		]
   }
+
 ]
