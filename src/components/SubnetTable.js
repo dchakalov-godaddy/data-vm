@@ -6,7 +6,7 @@ export default function SubnetTable({ data, type }) {
 
 	let cloudData = data[cloudName];
 
-	let theadData = ["id", "hypervisor", "usage", "owning_group", "created_by"];
+	let theadData = ["id", "hypervisor", "usage", "owning_group", "created_by", 'zone'];
 	let subnetNames = [];
 
 	let subnetShowObj = {};
