@@ -107,7 +107,6 @@ export default function Table({ data, type }) {
 										return (
 											<tr className="table-row" key={index}>
 												{theadData.map((key, index) => {
-													console.log(row[key]);
 													return key === "network_zone" ? (
 														<td key={index}>
 															{row[key].split("_")[0].substring(2) || "None"}

@@ -1,0 +1,229 @@
+[{
+  "2023-03-23": [
+    {
+      "ams_private": [
+        {
+          "name": "migration-mysql",
+          "id": "29c00c937a924c71af7ae8d86cd0e792",
+          "owning_group": "org-sre-emea",
+          "Set dst project": "63c6b3ce553440f8a13890a1413a6254"
+        },
+        {
+          "name": "velia-jenkins-nodes",
+          "id": "71fde4229523479e914a66669380f44d",
+          "owning_group": "org-velianetinternetdienste",
+          "Set dst project": "c581e9ca9e994f28a3247d5a0b1f1058"
+        }
+      ]
+    },
+    {
+      "iad_private": []
+    },
+    {
+      "phx_private": [
+        {
+          "name": "Email_Test_Util",
+          "id": "05a26af4b683419698a89c9239f73c04",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_test_util"
+        },
+        {
+          "name": "cloudfound-services",
+          "id": "07ac184706d0400a9f8593ba67fe4727",
+          "owning_group": "DEV-CloudFoundation",
+          "Set dst project": "SC-Infrastructure"
+        },
+        {
+          "name": "ws-airflow",
+          "id": "09c4e395fb904af197d6e1a40d4c35c6",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "vox-prod-airflow"
+        },
+        {
+          "name": "SCOM_Extended_Components",
+          "id": "0cee4aa4626f40b297bbe45d89e40015",
+          "owning_group": "OPS-MCX",
+          "Set dst project": "sre-gpd-ngopenstack-dev"
+        },
+        {
+          "name": "nimitz-infra",
+          "id": "10e894b3455546bc993637975fe18ae6",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "Nimitz-Infrastructure"
+        },
+        {
+          "name": "t2-tds",
+          "id": "12b219dce645455f8e135e658736f5d7",
+          "owning_group": "Eng-Gess",
+          "Set dst project": "t2-physsec-vms"
+        },
+        {
+          "name": "emailops-tools",
+          "id": "1bc4dda4abd44f6cb660883c8574de06",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_ops_tools"
+        },
+        {
+          "name": "api-certificates-prod",
+          "id": "25ec17bde3db4b4ca88efdfd23ff75fc",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "CertAPI-Prod"
+        },
+        {
+          "name": "cmdb-test-project-properties",
+          "id": "3042b04cec244fcfadbb155bacc381ab",
+          "owning_group": "ENG-IMA",
+          "Set dst project": "do_not_migrate_fool"
+        },
+        {
+          "name": "nimitz-locker-TEST-P3",
+          "id": "3903e739523542d690f06c8eb01514f9",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "NimitzWeb-Test"
+        },
+        {
+          "name": "Email_Test_Gemini",
+          "id": "4064027c5d6c42c59a9a2bd622a82e10",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_test_gemini"
+        },
+        {
+          "name": "cloud-foundation",
+          "id": "46af99d2566c4eb8a615f71464ae52a0",
+          "owning_group": "ECM",
+          "Set dst project": "SC-Infrastructure"
+        },
+        {
+          "name": "email_cloud_prod",
+          "id": "5a5162612bd94d3598c98c7a613003b0",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_cloud_prod"
+        },
+        {
+          "name": "email_cloud_dev",
+          "id": "5be789107e9f4e1c96b8962a55e17051",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_cloud_dev"
+        },
+        {
+          "name": "Email_Dev_Util",
+          "id": "605fc77110bd4e08ae41781955a247a6",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_dev_util"
+        },
+        {
+          "name": "api-certificates-test",
+          "id": "69cd7c5d67ed41fd9b7256154013eef2",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "CertAPI-Test"
+        },
+        {
+          "name": "Email_Dev_Pop",
+          "id": "6b43a7ee32414bcaa56061eafc7c30e7",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_dev_pop"
+        },
+        {
+          "name": "Email_Dev_Smtp",
+          "id": "71f73a23e2304443a485426423eb4dad",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_dev_smtp"
+        },
+        {
+          "name": "Email_Test_Misc",
+          "id": "81c4e734aac24d64b355228f5330566a",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_test_misc"
+        },
+        {
+          "name": "Email_Dev_Dovecot",
+          "id": "9d1ff057f7104057aacc1a448b3b9fa2",
+          "owning_group": "DEV-Email Infrastructure",
+          "Set dst project": "email_dev_dovecot"
+        },
+        {
+          "name": "nimitz-locker-DEV",
+          "id": "a6499442f0f74bc482360d52f14eb856",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "NimitzWeb-Dev"
+        },
+        {
+          "name": "Email_Test_Pop",
+          "id": "b72173dc14ac465f869255926ca17da7",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_test_pop"
+        },
+        {
+          "name": "PAM-Dev-Test",
+          "id": "b8b97da2ed154388a1926bb4ac1eefb4",
+          "owning_group": "DEV-Self Service Engineering",
+          "Set dst project": "PAM-Dev-Test"
+        },
+        {
+          "name": "Email_Test_Smtp",
+          "id": "bdf6c00a0263436d8c3160235fd23e9e",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_test_smtp"
+        },
+        {
+          "name": "whan-cloud-win",
+          "id": "cb9aa4b8c34b41a0b936b9af1c636166",
+          "owning_group": "DEV-CloudFoundation",
+          "Set dst project": "Nimitz-Dev-Support"
+        },
+        {
+          "name": "nimitz-locker-OTE",
+          "id": "d2172aaf9c4b4a15babbcbfc9d56bd80",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "NimitzWeb-OTE"
+        },
+        {
+          "name": "nlocker-phx",
+          "id": "d314e4b0ffb940918c48099dc05a23bb",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "Nimitz-Infrastructure"
+        },
+        {
+          "name": "email_cloud_test",
+          "id": "e4d845c462b9487e9631de3bf26b7a94",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_cloud_test"
+        },
+        {
+          "name": "Email_Prod_Calendar",
+          "id": "ea5bd21384f24899acd63614b2d2f980",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_prod_calendar"
+        },
+        {
+          "name": "nimitz-locker-PROD-P3",
+          "id": "ef1dab8d75f64fba8e6d1f94dac6f973",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "NimitzWeb-ProdP3"
+        },
+        {
+          "name": "Email_Dev_Gemini",
+          "id": "fa69df87d1c447c9bd2fc77fb017d35b",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "email_dev_gemini"
+        },
+        {
+          "name": "nimitz-locker-LOADTEST-P3",
+          "id": "fad798d85c464dc8b990a3edc94aef55",
+          "owning_group": "DEV-IdentityServices",
+          "Set dst project": "NimitzWeb-Test"
+        },
+        {
+          "name": "Email_Dev_Misc",
+          "id": "fd1f149b63a040ce927658360537af7d",
+          "owning_group": "OPS-Email Services",
+          "Set dst project": "Email_Dev_Misc"
+        }
+      ]
+    },
+    {
+      "sin_private": []
+    }
+  ]
+}
+]

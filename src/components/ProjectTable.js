@@ -28,7 +28,7 @@ export default function ProjectTable({ data, type }) {
 			{cloudData.map((project, index) =>
 				project.vm_list !== undefined ? (
 					<div className="table-div" key={index}>
-						{/* <button variant="contained" color="primary" className="export-btn">
+						<button variant="contained" color="primary" className="export-btn">
 							<CSVLink
 								data={project.vm_list}
 								filename={`${cloudName}-${type}`}
@@ -36,7 +36,7 @@ export default function ProjectTable({ data, type }) {
 							>
 								<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
 							</CSVLink>
-						</button> */}
+						</button>
 
 						<h5 className="table-header">
 							{project.project} - {project.vm_list.length} vms

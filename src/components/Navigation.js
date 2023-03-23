@@ -25,6 +25,16 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="empty-projects" href="/#/empty-projects">
+					Empty Projects
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
+				<Nav.Link eventKey="project-validation" href="/#/project-validation">
+					Project Validation
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="risky" href="/#/risky">
 					Risky Hypervisors
 				</Nav.Link>
