@@ -6,7 +6,7 @@ export default function ProjectValidationTable({ data, type }) {
 
 	let cloudData = data[cloudName];
 
-	let theadData = ["name", "id", "owning_group"];
+	let theadData = ["name", "id", "owning_group", "set_dst_project"];
 
 	return (
 		<div className="table-section">
