@@ -31,7 +31,8 @@ export default function CombinedSubnetsTable({ data, type }) {
 				...(subnet["network_zone"] && { network_zone: networkZoneConverter(subnet.network_zone) }),
 				usage: subnet.total_usage,
 				count: subnet.count,
-				"migrated-b": subnet["migrated-b"],
+				"migrated": subnet["migrated"],
+				'do_not_migrate': subnet['do_not_migrate'],
 				to_be_migrated: subnet.to_be_migrated,
 				cloud: subnet.cloud,
 			});
