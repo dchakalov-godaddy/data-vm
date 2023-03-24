@@ -23,6 +23,8 @@ export default function CombinedSubnetsTable({ data, type }) {
 					return zone.split("_")[0].substring(2)
 				}
 			}
+			
+			// console.log(subnet.zones.toString())
 
 			fullData.push({
 				subnet: subnet.subnet,
@@ -34,6 +36,7 @@ export default function CombinedSubnetsTable({ data, type }) {
 				"migrated": subnet["migrated"],
 				'do_not_migrate': subnet['do_not_migrate'],
 				to_be_migrated: subnet.to_be_migrated,
+				...(subnet.zones && {'zones': subnet.zones.toString()}),
 				cloud: subnet.cloud,
 			});
 		}
