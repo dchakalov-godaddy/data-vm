@@ -33,7 +33,7 @@ export default function VMsPerSubnet() {
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
-							<VMsPerSubnet key={index} data={env} />
+							<VMPerSubnetTable key={index} data={env} />
 						))}
 					</Tab>
 				))}
