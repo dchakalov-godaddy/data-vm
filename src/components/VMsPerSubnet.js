@@ -3,12 +3,12 @@ import { useState } from 'react';
 import { Tab, Tabs } from 'react-bootstrap';
 
 import data from '../data/vm_per_subnet.json'
-import SubnetTable from './SubnetTable.js';
+import VMPerSubnetTable from './VMPerSubnetTable.js';
 
 export default function VMsPerSubnet() {
     const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
@@ -33,7 +33,7 @@ export default function VMsPerSubnet() {
 				{data.map((date, idx) => (
 					<Tab key={idx} eventKey={Object.keys(date)[0]} title={Object.keys(date)[0]}>
 						{Object.values(date)[0].map((env, index) => (
-							<SubnetTable key={index} data={env} />
+							<VMsPerSubnet key={index} data={env} />
 						))}
 					</Tab>
 				))}

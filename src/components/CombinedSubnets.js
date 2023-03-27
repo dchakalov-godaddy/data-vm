@@ -6,7 +6,7 @@ import CombinedSubnetsTable from "./CombinedSubnetsTable.js";
 export default function CombinedSubnets() {
 	const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);

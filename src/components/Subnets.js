@@ -6,15 +6,16 @@ import { Tab, Tabs } from "react-bootstrap";
 export default function MainSection() {
 	const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
 
-	let dates = []
-	for (const item of data) {
-		dates.push(Object.keys(item)[0]);
-	}
+	// let dates = []
+	// for (const item of data) {
+	// 	dates.push(Object.keys(item)[0]);
+	// }
+	
 	
 
 	return (

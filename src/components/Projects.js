@@ -6,7 +6,7 @@ import ProjectTable from "./ProjectTable.js";
 export default function Projects() {
 	const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);

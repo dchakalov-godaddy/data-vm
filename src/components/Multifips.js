@@ -7,7 +7,7 @@ import MultifipsTable from "./MultifipsTable.js";
 export default function Multifips() {
     const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);

@@ -8,7 +8,7 @@ import ProjectValidationTable from "./ProjectValidationTable.js";
 export default function ProjectValidation() {
 	const [key, setKey] = useState();
 
-	let initialKey = Object.keys(data[0])[0];
+	let initialKey = Object.keys(data[data.length - 1])[0];
 	useEffect(() => {
 		setKey(initialKey);
 	}, []);
