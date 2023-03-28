@@ -20,6 +20,11 @@ export default function Navigation() {
 				</Nav.Link>
 			</Nav.Item>
 			<Nav.Item>
+				<Nav.Link eventKey="zones" href="/#/zones">
+					Availability Zones
+				</Nav.Link>
+			</Nav.Item>
+			<Nav.Item>
 				<Nav.Link eventKey="projects" href="/#/projects">
 					Projects
 				</Nav.Link>
