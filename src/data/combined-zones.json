@@ -14,7 +14,7 @@
 				{
 					"zone": "ams-private-prd-zone-2",
 					"count": 46,
-					"migrated_inactive": 31,
+					"migrated_inactive": 30,
 					"migrated_active": 0,
 					"do_not_migrate": 5,
 					"unlinked": 24,
@@ -61,20 +61,11 @@
 		{
 			"iad_private": [
 				{
-					"zone": "iad-private-prd-zone-2",
-					"count": 214,
-					"migrated_inactive": 38,
-					"migrated_active": 0,
-					"do_not_migrate": 61,
-					"unlinked": 96,
-					"to_be_migrated": 57
-				},
-				{
 					"zone": "iad-private-prd-zone-3",
-					"count": 194,
+					"count": 197,
 					"migrated_inactive": 31,
 					"migrated_active": 0,
-					"do_not_migrate": 54,
+					"do_not_migrate": 57,
 					"unlinked": 91,
 					"to_be_migrated": 49
 				},
@@ -85,6 +76,15 @@
 					"migrated_active": 0,
 					"do_not_migrate": 44,
 					"unlinked": 92,
+					"to_be_migrated": 57
+				},
+				{
+					"zone": "iad-private-prd-zone-2",
+					"count": 211,
+					"migrated_inactive": 38,
+					"migrated_active": 0,
+					"do_not_migrate": 58,
+					"unlinked": 96,
 					"to_be_migrated": 57
 				},
 				{
@@ -147,12 +147,12 @@
 			"phx_private": [
 				{
 					"zone": "phx-private-cor-zone-1",
-					"count": 151,
-					"migrated_inactive": 64,
+					"count": 150,
+					"migrated_inactive": 65,
 					"migrated_active": 7,
 					"do_not_migrate": 18,
 					"unlinked": 80,
-					"to_be_migrated": 46
+					"to_be_migrated": 45
 				},
 				{
 					"zone": "phx-private-prd-zone-1",
@@ -183,12 +183,12 @@
 				},
 				{
 					"zone": "phx-private-cor-zone-2",
-					"count": 268,
-					"migrated_inactive": 100,
+					"count": 267,
+					"migrated_inactive": 101,
 					"migrated_active": 14,
 					"do_not_migrate": 65,
 					"unlinked": 126,
-					"to_be_migrated": 63
+					"to_be_migrated": 62
 				},
 				{
 					"zone": "phx-private-cor-zone-3",
