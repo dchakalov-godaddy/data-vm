@@ -10,6 +10,7 @@ import SentinelOne from "./components/SentinelOne.js";
 import EmptyProjects from "./components/EmptyProjects.js";
 import ProjectValidation from "./components/ProjectValidation.js";
 import Zones from "./components/Zones.js";
+import CombinedZones from "./components/CombinedZones.js";
 // import Home from "./components/Home.js";
 // import Subnets from "./components/Subnets.js";
 // import Risky from "./components/Risky.js";
@@ -38,6 +39,7 @@ function App() {
 						<Route path="/combined-subnets" element={<CombinedSubnets />} />
 						<Route path="/vmpersub" element={<VMsPerSubnet />} />
 						<Route path="/zones" element={<Zones />} />
+						<Route path="/combined-zones" element={<CombinedZones />} />
 						<Route path="/projects" element={<Projects />} />
 						<Route path="/empty-projects" element={<EmptyProjects />} />
 						<Route path="/project-validation" element={<ProjectValidation />} />
