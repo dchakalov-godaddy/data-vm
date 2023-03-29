@@ -5,7 +5,7 @@
 				{
 					"zone": "ams-private-prd-zone-1",
 					"count": 53,
-					"migrated_inactive": 38,
+					"migrated_inactive": 35,
 					"migrated_active": 0,
 					"do_not_migrate": 6,
 					"unlinked": 28,
@@ -14,7 +14,7 @@
 				{
 					"zone": "ams-private-prd-zone-2",
 					"count": 46,
-					"migrated_inactive": 36,
+					"migrated_inactive": 31,
 					"migrated_active": 0,
 					"do_not_migrate": 5,
 					"unlinked": 24,
@@ -23,7 +23,7 @@
 				{
 					"zone": "ams-private-mgt-zone-1",
 					"count": 15,
-					"migrated_inactive": 15,
+					"migrated_inactive": 10,
 					"migrated_active": 0,
 					"do_not_migrate": 2,
 					"unlinked": 8,
@@ -32,7 +32,7 @@
 				{
 					"zone": "ams-private-prd-zone-3",
 					"count": 44,
-					"migrated_inactive": 28,
+					"migrated_inactive": 27,
 					"migrated_active": 1,
 					"do_not_migrate": 5,
 					"unlinked": 25,
@@ -62,28 +62,28 @@
 			"iad_private": [
 				{
 					"zone": "iad-private-prd-zone-2",
-					"count": 218,
-					"migrated_inactive": 80,
+					"count": 214,
+					"migrated_inactive": 38,
 					"migrated_active": 0,
-					"do_not_migrate": 65,
+					"do_not_migrate": 61,
 					"unlinked": 96,
 					"to_be_migrated": 57
 				},
 				{
 					"zone": "iad-private-prd-zone-3",
-					"count": 202,
-					"migrated_inactive": 56,
+					"count": 194,
+					"migrated_inactive": 31,
 					"migrated_active": 0,
-					"do_not_migrate": 62,
+					"do_not_migrate": 54,
 					"unlinked": 91,
 					"to_be_migrated": 49
 				},
 				{
 					"zone": "iad-private-prd-zone-1",
-					"count": 195,
-					"migrated_inactive": 83,
+					"count": 193,
+					"migrated_inactive": 46,
 					"migrated_active": 0,
-					"do_not_migrate": 46,
+					"do_not_migrate": 44,
 					"unlinked": 92,
 					"to_be_migrated": 57
 				},
@@ -99,7 +99,7 @@
 				{
 					"zone": "iad-private-cor-zone-1",
 					"count": 38,
-					"migrated_inactive": 5,
+					"migrated_inactive": 0,
 					"migrated_active": 0,
 					"do_not_migrate": 13,
 					"unlinked": 25,
@@ -108,7 +108,7 @@
 				{
 					"zone": "iad-private-mgt-zone-2",
 					"count": 20,
-					"migrated_inactive": 10,
+					"migrated_inactive": 9,
 					"migrated_active": 0,
 					"do_not_migrate": 3,
 					"unlinked": 13,
@@ -117,7 +117,7 @@
 				{
 					"zone": "iad-private-cor-zone-2",
 					"count": 32,
-					"migrated_inactive": 5,
+					"migrated_inactive": 3,
 					"migrated_active": 0,
 					"do_not_migrate": 8,
 					"unlinked": 23,
@@ -135,7 +135,7 @@
 				{
 					"zone": "iad-private-cor-zone-3",
 					"count": 24,
-					"migrated_inactive": 3,
+					"migrated_inactive": 2,
 					"migrated_active": 0,
 					"do_not_migrate": 8,
 					"unlinked": 15,
@@ -148,7 +148,7 @@
 				{
 					"zone": "phx-private-cor-zone-1",
 					"count": 151,
-					"migrated_inactive": 92,
+					"migrated_inactive": 64,
 					"migrated_active": 7,
 					"do_not_migrate": 18,
 					"unlinked": 80,
@@ -157,7 +157,7 @@
 				{
 					"zone": "phx-private-prd-zone-1",
 					"count": 1449,
-					"migrated_inactive": 784,
+					"migrated_inactive": 519,
 					"migrated_active": 10,
 					"do_not_migrate": 703,
 					"unlinked": 439,
@@ -165,17 +165,17 @@
 				},
 				{
 					"zone": "phx-private-prd-zone-2",
-					"count": 1135,
-					"migrated_inactive": 636,
-					"migrated_active": 5,
-					"do_not_migrate": 525,
+					"count": 1134,
+					"migrated_inactive": 420,
+					"migrated_active": 6,
+					"do_not_migrate": 524,
 					"unlinked": 373,
-					"to_be_migrated": 232
+					"to_be_migrated": 231
 				},
 				{
 					"zone": "phx-private-prd-zone-3",
 					"count": 1248,
-					"migrated_inactive": 605,
+					"migrated_inactive": 389,
 					"migrated_active": 40,
 					"do_not_migrate": 686,
 					"unlinked": 335,
@@ -184,7 +184,7 @@
 				{
 					"zone": "phx-private-cor-zone-2",
 					"count": 268,
-					"migrated_inactive": 143,
+					"migrated_inactive": 100,
 					"migrated_active": 14,
 					"do_not_migrate": 65,
 					"unlinked": 126,
@@ -193,7 +193,7 @@
 				{
 					"zone": "phx-private-cor-zone-3",
 					"count": 180,
-					"migrated_inactive": 114,
+					"migrated_inactive": 72,
 					"migrated_active": 10,
 					"do_not_migrate": 21,
 					"unlinked": 91,
@@ -202,7 +202,7 @@
 				{
 					"zone": "phx-private-mgt-zone-2",
 					"count": 86,
-					"migrated_inactive": 65,
+					"migrated_inactive": 46,
 					"migrated_active": 0,
 					"do_not_migrate": 9,
 					"unlinked": 54,
@@ -211,7 +211,7 @@
 				{
 					"zone": "phx-private-mgt-zone-1",
 					"count": 98,
-					"migrated_inactive": 65,
+					"migrated_inactive": 48,
 					"migrated_active": 0,
 					"do_not_migrate": 15,
 					"unlinked": 58,
@@ -220,7 +220,7 @@
 				{
 					"zone": "phx-private-mgt-zone-3",
 					"count": 84,
-					"migrated_inactive": 60,
+					"migrated_inactive": 45,
 					"migrated_active": 0,
 					"do_not_migrate": 11,
 					"unlinked": 40,
@@ -233,7 +233,7 @@
 				{
 					"zone": "sin-private-mgt-zone-1",
 					"count": 4,
-					"migrated_inactive": 8,
+					"migrated_inactive": 6,
 					"migrated_active": 0,
 					"do_not_migrate": 1,
 					"unlinked": 2,
@@ -261,5 +261,4 @@
 		}
 	]
 }
-
 ]
