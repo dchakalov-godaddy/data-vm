@@ -128,6 +128,107 @@
         }
       ]
     },
+     {
+			"phx_private": [
+				{
+					"zone": "phx-private-cor-zone-1",
+					"count": 151,
+					"migrated": 7,
+					"do_not_migrate": 18,
+					"unlinked": 80,
+					"to_be_migrated": 46
+				},
+				{
+					"zone": "phx-private-prd-zone-1",
+					"count": 1449,
+					"migrated": 10,
+					"do_not_migrate": 703,
+					"unlinked": 439,
+					"to_be_migrated": 297
+				},
+				{
+					"zone": "phx-private-prd-zone-2",
+					"count": 1135,
+					"migrated": 5,
+					"do_not_migrate": 525,
+					"unlinked": 373,
+					"to_be_migrated": 232
+				},
+				{
+					"zone": "phx-private-prd-zone-3",
+					"count": 1248,
+					"migrated": 40,
+					"do_not_migrate": 686,
+					"unlinked": 335,
+					"to_be_migrated": 187
+				},
+				{
+					"zone": "phx-private-gen-zone-3",
+					"count": 31,
+					"migrated": 4,
+					"do_not_migrate": 14,
+					"unlinked": 14,
+					"to_be_migrated": -1
+				},
+				{
+					"zone": "phx-private-gen-zone-2",
+					"count": 26,
+					"migrated": 2,
+					"do_not_migrate": 4,
+					"unlinked": 20,
+					"to_be_migrated": 0
+				},
+				{
+					"zone": "phx-private-gen-zone-1",
+					"count": 44,
+					"migrated": 5,
+					"do_not_migrate": 19,
+					"unlinked": 21,
+					"to_be_migrated": -1
+				},
+				{
+					"zone": "phx-private-cor-zone-2",
+					"count": 268,
+					"migrated": 14,
+					"do_not_migrate": 65,
+					"unlinked": 126,
+					"to_be_migrated": 63
+				},
+				{
+					"zone": "phx-private-cor-zone-3",
+					"count": 180,
+					"migrated": 10,
+					"do_not_migrate": 21,
+					"unlinked": 91,
+					"to_be_migrated": 58
+				},
+				{
+					"zone": "phx-private-mgt-zone-2",
+					"count": 86,
+					"migrated": 0,
+					"do_not_migrate": 9,
+					"unlinked": 54,
+					"to_be_migrated": 23
+				},
+				{
+					"zone": "phx-private-mgt-zone-1",
+					"count": 98,
+					"migrated": 0,
+					"do_not_migrate": 15,
+					"unlinked": 58,
+					"to_be_migrated": 25
+				},
+				{
+					"zone": "phx-private-mgt-zone-3",
+					"count": 84,
+					"migrated": 0,
+					"do_not_migrate": 11,
+					"unlinked": 40,
+					"to_be_migrated": 33
+				}
+			]
+		}
+    ,
     {
       "sin_private": [
         {

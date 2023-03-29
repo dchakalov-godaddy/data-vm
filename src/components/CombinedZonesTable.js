@@ -62,7 +62,7 @@ export default function CombinedZonesTable({ data, type }) {
 				<button variant="contained" color="primary" className="export-btn">
 					<CSVLink
 						data={fullData}
-						filename={`full-subnet-list`}
+						filename={`full-zones-list`}
 						style={{ textDecoration: "none", color: "#fff" }}
 					>
 						<img className="excel-button-logo" src="/excel-logo.png" alt=""></img>
