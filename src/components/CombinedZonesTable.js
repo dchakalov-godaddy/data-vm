@@ -29,7 +29,8 @@ export default function CombinedZonesTable({ data, type }) {
 			fullData.push({
 				zone: subnet.zone,
 				count: subnet.count,
-				migrated: subnet["migrated"],
+				migrated_inactive: subnet["migrated_inactive"],
+				migrated_active: subnet["migrated_active"],
 				do_not_migrate: subnet["do_not_migrate"],
 				...(subnet.unlinked && { unlinked: subnet.unlinked }),
 				to_be_migrated: subnet.to_be_migrated,
