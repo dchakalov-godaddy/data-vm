@@ -15,7 +15,7 @@ export default function Zones() {
     
     return (
 		<div className="main-section">
-			<h2 className="page-heading">VMs PER SUBNET</h2>
+			<h2 className="page-heading">COUNT PER AVAILABILITY ZONE</h2>
 			<Tabs
 				className="mb-3"
 				defaultActiveKey={initialKey}
