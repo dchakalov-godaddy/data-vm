@@ -33,5 +33,49 @@
       "sin_private": []
     }
   ]
+},
+{
+	"2023-03-29": [
+		{
+			"ams_private": [
+				{
+					"name": "velia-jenkins-nodes",
+					"id": "71fde4229523479e914a66669380f44d",
+					"owning_group": "org-velianetinternetdienste",
+					"set_dst_project": "c581e9ca9e994f28a3247d5a0b1f1058"
+				}
+			]
+		},
+		{
+			"iad_private": [
+				{
+					"name": "openstack",
+					"id": "5c91f9cf667c4fa480133ee9f1ca49d2",
+					"owning_group": "DEV-Private Cloud",
+					"set_dst_project": "openstack-a2"
+				},
+				{
+					"name": "daddy-bots",
+					"id": "80740d1504ec4bd1ad26ad04882105a5",
+					"owning_group": "DEV-Private Cloud",
+					"set_dst_project": "daddy-bots"
+				}
+			]
+		},
+		{
+			"phx_private": [
+				{
+					"name": "daddy-bots",
+					"id": "a575a1a2c8744ab599525197d10f5278",
+					"owning_group": "DEV-Private Cloud",
+					"set_dst_project": "daddy-bots"
+				}
+			]
+		},
+		{
+			"sin_private": []
+		}
+	]
 }
+
 ]
