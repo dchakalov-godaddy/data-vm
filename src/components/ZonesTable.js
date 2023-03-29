@@ -6,7 +6,7 @@ export default function ZonesTable({ data, type }) {
 
 	let cloudData = data[cloudName];
 
-	let theadData = ["zone", "count", "migrated", "do_not_migrate", "to_be_migrated"];
+	let theadData = ["zone", "count", "migrated", "do_not_migrate", 'unlinked',"to_be_migrated"];
 	let subnetNames = [];
 
 	let subnetShowObj = {};

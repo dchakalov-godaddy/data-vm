@@ -35,6 +35,7 @@ export default function CombinedSubnetsTable({ data, type }) {
 				count: subnet.count,
 				"migrated": subnet["migrated"],
 				'do_not_migrate': subnet['do_not_migrate'],
+				...(subnet.unlinked && {'unlinked': subnet.unlinked}),
 				to_be_migrated: subnet.to_be_migrated,
 				...(subnet.zones && {'zones': subnet.zones.toString()}),
 				cloud: subnet.cloud,
