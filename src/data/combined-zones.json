@@ -488,24 +488,6 @@
 					"do_not_migrate": 10,
 					"unlinked": 39,
 					"to_be_migrated": 32
-				},
-				{
-					"zone": "phx-private-prd-zone-1,phx-private-prd-zone-2,phx-private-prd-zone-3",
-					"count": 0,
-					"migrated_inactive": 0,
-					"migrated_active": 0,
-					"do_not_migrate": 0,
-					"unlinked": 0,
-					"to_be_migrated": 0
-				},
-				{
-					"zone": "phx-private-prd-zone-3,phx-private-prd-zone-2,phx-private-prd-zone-1,",
-					"count": 0,
-					"migrated_inactive": 0,
-					"migrated_active": 0,
-					"do_not_migrate": 0,
-					"unlinked": 0,
-					"to_be_migrated": 0
 				}
 			]
 		},
