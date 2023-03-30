@@ -5778,36 +5778,6 @@
 						"to_be_migrated": 3,
 						"hypervisors": 8,
 						"zones": ["iad-private-mgt-zone-1"]
-					},
-					{
-						"subnet": "198.71.249.0/25",
-						"name": "198_71_249_0_25_lbaas",
-						"subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8",
-						"network_zone": "lbaas-iad-private-prd-public",
-						"count": 0,
-						"active": 0,
-						"migrated_active": 0,
-						"migrated_inactive": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
-					},
-					{
-						"subnet": "10.26.72.128/25",
-						"name": "10_26_72_128_25_lbaas",
-						"subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60",
-						"network_zone": "lbaas-iad-private-prd-private",
-						"count": 0,
-						"active": 0,
-						"migrated_active": 0,
-						"migrated_inactive": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
 					}
 				]
 			},
