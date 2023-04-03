@@ -1321,659 +1321,6 @@
 		]
 	},
 	{
-		"2023-03-09": [
-			{
-				"ams_private": [
-					{
-						"total_usage": "15094.4G",
-						"subnet": "10.36.20.0/22",
-						"name": "10_36_20_0_22_vlan200",
-						"subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0",
-						"network_zone": "n3prd_ams_private_002_003_dssb0112-01",
-
-						"count": 200,
-						"active": 175,
-						"migrated": 23,
-						"to_be_migrated": 177,
-						"hypervisors": 46
-					},
-					{
-						"total_usage": "6487.9G",
-						"subnet": "10.36.28.0/22",
-						"name": "10_36_28_0_22_vlan201",
-						"subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
-						"network_zone": "n3prd_ams_private_004_assb0404_01",
-
-						"count": 84,
-						"active": 74,
-						"migrated": 10,
-						"to_be_migrated": 74,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "2125.7G",
-						"subnet": "10.30.8.0/22",
-						"name": "10_30_8_0_22_vlan11",
-						"subnet_id": "17597ea9-b562-486f-882f-938440538afb",
-						"network_zone": "n3mgt_ams_private_005_006_007_assb0421_01",
-
-						"count": 37,
-						"active": 23,
-						"migrated": 13,
-						"to_be_migrated": 24,
-						"hypervisors": 18
-					},
-					{
-						"total_usage": "1065.4G",
-						"subnet": "10.30.5.0/24",
-						"name": "10_30_5_0_24_vlan10",
-						"subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
-						"network_zone": "n3mgt_ams_private_001_lfassb0109-01",
-
-						"count": 21,
-						"active": 12,
-						"migrated": 4,
-						"to_be_migrated": 17,
-						"hypervisors": 6
-					}
-				]
-			},
-			{
-				"phx_private": [
-					{
-						"total_usage": "30913.7G",
-						"subnet": "10.32.56.0/22",
-						"name": "10_32_56_0_22_vlan215",
-						"subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a",
-						"network_zone": "p3prd_phx_private_015_lfassi1018_01",
-
-						"count": 476,
-						"active": 389,
-						"migrated": 53,
-						"to_be_migrated": 423,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "31221.2G",
-						"subnet": "10.36.156.0/22",
-						"name": "10_36_156_0_22_vlan233",
-						"subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025",
-						"network_zone": "p3prd_phx_private_lfassi0504_01_vlan233",
-
-						"count": 475,
-						"active": 366,
-						"migrated": 53,
-						"to_be_migrated": 422,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "28601.0G",
-						"subnet": "10.32.64.0/22",
-						"name": "10_32_64_0_22_vlan217",
-						"subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24",
-						"network_zone": "p3prd_phx_private_012_lfassi0901_01",
-
-						"count": 465,
-						"active": 337,
-						"migrated": 68,
-						"to_be_migrated": 397,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "27054.6G",
-						"subnet": "10.32.60.0/22",
-						"name": "10_32_60_0_22_vlan216",
-						"subnet_id": "805544d0-b634-4367-815c-75588f5e46a2",
-						"network_zone": "p3prd_phx_private_013_lfassi1116_01",
-
-						"count": 464,
-						"active": 348,
-						"migrated": 59,
-						"to_be_migrated": 405,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "27209.8G",
-						"subnet": "10.32.52.0/22",
-						"name": "10_32_52_0_22_vlan214",
-						"subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198",
-						"network_zone": "p3prd_phx_private_014_lfassi1001_01",
-
-						"count": 450,
-						"active": 338,
-						"migrated": 57,
-						"to_be_migrated": 393,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "25714.4G",
-						"subnet": "10.39.128.0/22",
-						"name": "10_39_128_0_22_vlan127",
-						"subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc",
-						"network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127",
-
-						"count": 357,
-						"active": 280,
-						"migrated": 50,
-						"to_be_migrated": 307,
-						"hypervisors": 67
-					},
-					{
-						"total_usage": "23299.7G",
-						"subnet": "10.33.176.0/22",
-						"name": "10_33_176_0_22_vlan118",
-						"subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f",
-						"network_zone": "p3cor_phx_private_018_lfassi0904_01",
-
-						"count": 334,
-						"active": 246,
-						"migrated": 44,
-						"to_be_migrated": 290,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "17614.1G",
-						"subnet": "10.33.168.0/22",
-						"name": "10_33_168_0_22_vlan116",
-						"subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277",
-						"network_zone": "p3cor_phx_private_017_lfassi0918_01",
-
-						"count": 256,
-						"active": 189,
-						"migrated": 42,
-						"to_be_migrated": 214,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "15596.6G",
-						"subnet": "10.37.88.0/22",
-						"name": "10_37_88_0_22_vlan243",
-						"subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243",
-
-						"count": 253,
-						"active": 203,
-						"migrated": 26,
-						"to_be_migrated": 227,
-						"hypervisors": 72
-					},
-					{
-						"total_usage": "15716.1G",
-						"subnet": "10.37.96.0/22",
-						"name": "10_37_96_0_22_vlan247",
-						"subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247",
-
-						"count": 240,
-						"active": 194,
-						"migrated": 25,
-						"to_be_migrated": 215,
-						"hypervisors": 70
-					},
-					{
-						"total_usage": "14929.1G",
-						"subnet": "10.37.100.0/22",
-						"name": "10_37_100_0_22_vlan248",
-						"subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248",
-
-						"count": 240,
-						"active": 186,
-						"migrated": 29,
-						"to_be_migrated": 211,
-						"hypervisors": 68
-					},
-					{
-						"total_usage": "14402.4G",
-						"subnet": "10.37.76.0/22",
-						"name": "10_37_76_0_22_vlan238",
-						"subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan238",
-
-						"count": 239,
-						"active": 184,
-						"migrated": 33,
-						"to_be_migrated": 206,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "15424.9G",
-						"subnet": "10.36.184.0/22",
-						"name": "10_36_184_0_22_vlan237",
-						"subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan237",
-
-						"count": 232,
-						"active": 184,
-						"migrated": 26,
-						"to_be_migrated": 206,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "14148.0G",
-						"subnet": "10.32.116.0/22",
-						"name": "10_32_116_0_22_vlan245",
-						"subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245",
-
-						"count": 231,
-						"active": 190,
-						"migrated": 22,
-						"to_be_migrated": 209,
-						"hypervisors": 67
-					},
-					{
-						"total_usage": "14255.4G",
-						"subnet": "10.36.188.0/22",
-						"name": "10_36_188_0_22_vlan240",
-						"subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan240",
-
-						"count": 229,
-						"active": 184,
-						"migrated": 22,
-						"to_be_migrated": 207,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "14200.9G",
-						"subnet": "10.37.116.0/22",
-						"name": "10_37_116_0_22_vlan252",
-						"subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252",
-
-						"count": 228,
-						"active": 179,
-						"migrated": 30,
-						"to_be_migrated": 198,
-						"hypervisors": 68
-					},
-					{
-						"total_usage": "13380.8G",
-						"subnet": "10.37.112.0/22",
-						"name": "10_37_112_0_22_vlan249",
-						"subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249",
-
-						"count": 216,
-						"active": 181,
-						"migrated": 31,
-						"to_be_migrated": 185,
-						"hypervisors": 66
-					},
-					{
-						"total_usage": "13985.4G",
-						"subnet": "10.36.180.0/22",
-						"name": "10_36_180_0_22_vlan236",
-						"subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan236",
-
-						"count": 216,
-						"active": 166,
-						"migrated": 24,
-						"to_be_migrated": 192,
-						"hypervisors": 47
-					},
-					{
-						"total_usage": "13757.0G",
-						"subnet": "10.37.104.0/22",
-						"name": "10_37_104_0_22_vlan250",
-						"subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250",
-
-						"count": 213,
-						"active": 163,
-						"migrated": 26,
-						"to_be_migrated": 187,
-						"hypervisors": 71
-					},
-					{
-						"total_usage": "14063.1G",
-						"subnet": "10.37.92.0/22",
-						"name": "10_37_92_0_22_vlan244",
-						"subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244",
-
-						"count": 211,
-						"active": 168,
-						"migrated": 17,
-						"to_be_migrated": 194,
-						"hypervisors": 66
-					},
-					{
-						"total_usage": "11371.7G",
-						"subnet": "10.32.44.0/22",
-						"name": "10_32_44_0_22_vlan211",
-						"subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01",
-
-						"count": 206,
-						"active": 179,
-						"migrated": 13,
-						"to_be_migrated": 193,
-						"hypervisors": 42
-					},
-					{
-						"total_usage": "12036.7G",
-						"subnet": "10.37.108.0/22",
-						"name": "10_37_108_0_22_vlan251",
-						"subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251",
-
-						"count": 204,
-						"active": 157,
-						"migrated": 21,
-						"to_be_migrated": 183,
-						"hypervisors": 68
-					},
-					{
-						"total_usage": "14750.5G",
-						"subnet": "10.47.4.0/22",
-						"name": "10_47_4_0_22_vlan211",
-						"subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211",
-
-						"count": 184,
-						"active": 145,
-						"migrated": 28,
-						"to_be_migrated": 156,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "8945.1G",
-						"subnet": "10.33.104.0/22",
-						"name": "10_33_104_0_22_vlan4",
-						"subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975",
-						"network_zone": "p3mgt_phx_private_019_assi0902_01",
-
-						"count": 171,
-						"active": 117,
-						"migrated": 34,
-						"to_be_migrated": 137,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "8510.2G",
-						"subnet": "10.33.100.0/22",
-						"name": "10_33_100_0_22_vlan3",
-						"subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948",
-						"network_zone": "p3mgt_phx_private_016_assi0917_01",
-
-						"count": 157,
-						"active": 113,
-						"migrated": 30,
-						"to_be_migrated": 127,
-						"hypervisors": 23
-					},
-					{
-						"total_usage": "8693.3G",
-						"subnet": "10.33.108.0/22",
-						"name": "10_33_108_0_22_vlan5",
-						"subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e",
-						"network_zone": "p3mgt_phx_private_020_assi0616_01",
-
-						"count": 153,
-						"active": 112,
-						"migrated": 30,
-						"to_be_migrated": 123,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "12279.7G",
-						"subnet": "10.33.132.0/22",
-						"name": "10_33_132_0_22_vlan101",
-						"subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d",
-						"network_zone": "p3cor_phx_private_011_lfassi0212-01",
-
-						"count": 136,
-						"active": 104,
-						"migrated": 14,
-						"to_be_migrated": 122,
-						"hypervisors": 43
-					},
-					{
-						"total_usage": "8185.8G",
-						"subnet": "10.32.40.0/22",
-						"name": "10_32_40_0_22_vlan210",
-						"subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01",
-
-						"count": 132,
-						"active": 112,
-						"migrated": 14,
-						"to_be_migrated": 118,
-						"hypervisors": 46
-					},
-					{
-						"total_usage": "7210.8G",
-						"subnet": "10.47.0.0/22",
-						"name": "10_47_0_0_22_vlan203",
-						"subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203",
-
-						"count": 129,
-						"active": 108,
-						"migrated": 17,
-						"to_be_migrated": 112,
-						"hypervisors": 25
-					},
-					{
-						"total_usage": "4833.8G",
-						"subnet": "10.47.8.0/22",
-						"name": "10_47_8_0_22_vlan212",
-						"subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212",
-
-						"count": 63,
-						"active": 52,
-						"migrated": 10,
-						"to_be_migrated": 53,
-						"hypervisors": 34
-					},
-					{
-						"total_usage": "2979.9G",
-						"subnet": "10.32.10.0/23",
-						"name": "10_32_10_0_23_vlan202",
-						"subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01",
-
-						"count": 61,
-						"active": 46,
-						"migrated": 6,
-						"to_be_migrated": 55,
-						"hypervisors": 25
-					},
-					{
-						"total_usage": "2347.5G",
-						"subnet": "10.22.180.0/22",
-						"name": "10_22_180_0_22_vlan499",
-						"subnet_id": "880512c5-8009-4674-91b7-076522a4e13c",
-						"network_zone": "p3gen2_phx_private_003_lfassf0501_07",
-
-						"count": 43,
-						"active": 27,
-						"migrated": 1,
-						"to_be_migrated": 42,
-						"hypervisors": 27
-					},
-					{
-						"total_usage": "3416.3G",
-						"subnet": "10.33.130.0/23",
-						"name": "10_33_130_0_23_vlan100",
-						"subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b",
-						"network_zone": "p3cor_phx_private_007_lfassi0118_01",
-
-						"count": 40,
-						"active": 28,
-						"migrated": 5,
-						"to_be_migrated": 35,
-						"hypervisors": 14
-					},
-					{
-						"total_usage": "1787.7G",
-						"subnet": "10.22.188.0/22",
-						"name": "10_22_188_0_22_vlan499",
-						"subnet_id": "b7e0e9f0-621f-4ffb-a90b-3114fadf37a9",
-						"network_zone": "p3gen2_phx_private_005_lfassg0128_01",
-
-						"count": 39,
-						"active": 28,
-						"migrated": 2,
-						"to_be_migrated": 37,
-						"hypervisors": 27
-					},
-					{
-						"total_usage": "2068.6G",
-						"subnet": "10.22.252.0/22",
-						"name": "10_22_252_0_22_vlan499",
-						"subnet_id": "81a2ac1b-81aa-460c-8fbf-faf9e28fcc5d",
-						"network_zone": "p3gen2_phx_private_lfassf0501_06",
-
-						"count": 38,
-						"active": 25,
-						"migrated": 0,
-						"to_be_migrated": 38,
-						"hypervisors": 26
-					},
-					{
-						"total_usage": "1827.0G",
-						"subnet": "10.22.248.0/22",
-						"name": "10_22_248_0_22_vlan499",
-						"subnet_id": "f1297681-3856-4ec5-b2ae-16d1c300809e",
-						"network_zone": "p3gen2_phx_private_lfassf0501_05",
-
-						"count": 34,
-						"active": 26,
-						"migrated": 2,
-						"to_be_migrated": 32,
-						"hypervisors": 22
-					},
-					{
-						"total_usage": "1411.0G",
-						"subnet": "10.33.82.0/23",
-						"name": "10_33_82_0_23_vlan2",
-						"subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d",
-						"network_zone": "p3mgt_phx_private_008_assi0101_01",
-
-						"count": 25,
-						"active": 17,
-						"migrated": 5,
-						"to_be_migrated": 20,
-						"hypervisors": 9
-					},
-					{
-						"total_usage": "1115.1G",
-						"subnet": "10.22.184.0/22",
-						"name": "10_22_184_0_22_vlan499",
-						"subnet_id": "61e51ce0-e483-4b6f-9042-36bd97d42170",
-						"network_zone": "p3gen2_phx_private_004_lfassf0501_08",
-
-						"count": 20,
-						"active": 13,
-						"migrated": 1,
-						"to_be_migrated": 19,
-						"hypervisors": 15
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "10.32.136.128/25",
-						"name": "10_32_136_128_25_lbaas",
-						"subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade",
-						"network_zone": "lbaas-phx-private-prd-private",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "208.109.192.128/25",
-						"name": "208_109_192_128_25_lbaas",
-						"subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd",
-						"network_zone": "lbaas-phx-private-prd-public",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					}
-				]
-			},
-			{
-				"sin_private": [
-					{
-						"total_usage": "7100.2G",
-						"subnet": "10.30.200.0/22",
-						"name": "10_30_200_0_22_vlan232",
-						"subnet_id": "79763c15-0514-4dd2-b4dd-ef4845bde971",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan232",
-
-						"count": 98,
-						"active": 97,
-						"migrated": 1,
-						"to_be_migrated": 97,
-						"hypervisors": 63
-					},
-					{
-						"total_usage": "8309.0G",
-						"subnet": "10.30.204.0/22",
-						"name": "10_30_204_0_22_vlan233",
-						"subnet_id": "2f86dc5a-5b4c-4513-a7cb-605e352016d4",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan233",
-
-						"count": 51,
-						"active": 51,
-						"migrated": 1,
-						"to_be_migrated": 50,
-						"hypervisors": 37
-					},
-					{
-						"total_usage": "1108.0G",
-						"subnet": "10.30.64.0/22",
-						"name": "10_30_64_0_22_vlan234",
-						"subnet_id": "5d20b7fa-369a-4660-a82f-2b276f83fb7f",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan234",
-
-						"count": 25,
-						"active": 25,
-						"migrated": 0,
-						"to_be_migrated": 25,
-						"hypervisors": 19
-					},
-					{
-						"total_usage": "1324.5G",
-						"subnet": "10.30.144.0/22",
-						"name": "10_30_144_0_22_vlan3",
-						"subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3",
-
-						"count": 24,
-						"active": 17,
-						"migrated": 7,
-						"to_be_migrated": 17,
-						"hypervisors": 11
-					},
-					{
-						"total_usage": "760.0G",
-						"subnet": "10.30.140.0/22",
-						"name": "10_30_140_0_22_vlan2",
-						"subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2",
-
-						"count": 13,
-						"active": 7,
-						"migrated": 6,
-						"to_be_migrated": 7,
-						"hypervisors": 4
-					}
-				]
-			}
-		]
-	},
-	{
 		"2023-03-14": [
 			{
 				"ams_private": [
@@ -2819,921 +2166,6 @@
 						"active": 7,
 						"migrated": 5,
 						"to_be_migrated": 8,
-						"hypervisors": 4
-					}
-				]
-			}
-		]
-	},
-	{
-		"2023-03-23": [
-			{
-				"phx_private": [
-					{
-						"total_usage": "30621.0G",
-						"subnet": "10.36.156.0/22",
-						"name": "10_36_156_0_22_vlan233",
-						"subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025",
-						"network_zone": "p3prd_phx_private_lfassi0504_01_vlan233",
-
-						"count": 460,
-						"active": 328,
-						"migrated": 83,
-						"do_not_migrate": 141,
-						"to_be_migrated": 236,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "29958.5G",
-						"subnet": "10.32.56.0/22",
-						"name": "10_32_56_0_22_vlan215",
-						"subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a",
-						"network_zone": "p3prd_phx_private_015_lfassi1018_01",
-
-						"count": 459,
-						"active": 347,
-						"migrated": 85,
-						"do_not_migrate": 140,
-						"to_be_migrated": 234,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "27716.2G",
-						"subnet": "10.32.64.0/22",
-						"name": "10_32_64_0_22_vlan217",
-						"subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24",
-						"network_zone": "p3prd_phx_private_012_lfassi0901_01",
-
-						"count": 453,
-						"active": 296,
-						"migrated": 97,
-						"do_not_migrate": 144,
-						"to_be_migrated": 212,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "26330.3G",
-						"subnet": "10.32.60.0/22",
-						"name": "10_32_60_0_22_vlan216",
-						"subnet_id": "805544d0-b634-4367-815c-75588f5e46a2",
-						"network_zone": "p3prd_phx_private_013_lfassi1116_01",
-
-						"count": 446,
-						"active": 311,
-						"migrated": 83,
-						"do_not_migrate": 107,
-						"to_be_migrated": 256,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "26358.9G",
-						"subnet": "10.32.52.0/22",
-						"name": "10_32_52_0_22_vlan214",
-						"subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198",
-						"network_zone": "p3prd_phx_private_014_lfassi1001_01",
-
-						"count": 434,
-						"active": 299,
-						"migrated": 89,
-						"do_not_migrate": 109,
-						"to_be_migrated": 236,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "23667.4G",
-						"subnet": "10.39.128.0/22",
-						"name": "10_39_128_0_22_vlan127",
-						"subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc",
-						"network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127",
-
-						"count": 321,
-						"active": 228,
-						"migrated": 80,
-						"do_not_migrate": 115,
-						"to_be_migrated": 126,
-						"hypervisors": 66
-					},
-					{
-						"total_usage": "22690.4G",
-						"subnet": "10.33.176.0/22",
-						"name": "10_33_176_0_22_vlan118",
-						"subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f",
-						"network_zone": "p3cor_phx_private_018_lfassi0904_01",
-
-						"count": 313,
-						"active": 200,
-						"migrated": 81,
-						"do_not_migrate": 64,
-						"to_be_migrated": 168,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "15629.0G",
-						"subnet": "10.37.88.0/22",
-						"name": "10_37_88_0_22_vlan243",
-						"subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243",
-
-						"count": 250,
-						"active": 177,
-						"migrated": 49,
-						"do_not_migrate": 67,
-						"to_be_migrated": 134,
-						"hypervisors": 72
-					},
-					{
-						"total_usage": "14827.5G",
-						"subnet": "10.37.100.0/22",
-						"name": "10_37_100_0_22_vlan248",
-						"subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248",
-
-						"count": 235,
-						"active": 175,
-						"migrated": 38,
-						"do_not_migrate": 63,
-						"to_be_migrated": 134,
-						"hypervisors": 68
-					},
-					{
-						"total_usage": "15460.3G",
-						"subnet": "10.37.96.0/22",
-						"name": "10_37_96_0_22_vlan247",
-						"subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247",
-
-						"count": 234,
-						"active": 180,
-						"migrated": 36,
-						"do_not_migrate": 57,
-						"to_be_migrated": 141,
-						"hypervisors": 69
-					},
-					{
-						"total_usage": "14152.0G",
-						"subnet": "10.37.76.0/22",
-						"name": "10_37_76_0_22_vlan238",
-						"subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan238",
-
-						"count": 231,
-						"active": 164,
-						"migrated": 46,
-						"do_not_migrate": 67,
-						"to_be_migrated": 118,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "15399.3G",
-						"subnet": "10.36.184.0/22",
-						"name": "10_36_184_0_22_vlan237",
-						"subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan237",
-
-						"count": 229,
-						"active": 163,
-						"migrated": 45,
-						"do_not_migrate": 55,
-						"to_be_migrated": 129,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "16373.6G",
-						"subnet": "10.33.168.0/22",
-						"name": "10_33_168_0_22_vlan116",
-						"subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277",
-						"network_zone": "p3cor_phx_private_017_lfassi0918_01",
-
-						"count": 227,
-						"active": 153,
-						"migrated": 59,
-						"do_not_migrate": 71,
-						"to_be_migrated": 97,
-						"hypervisors": 44
-					},
-					{
-						"total_usage": "14005.1G",
-						"subnet": "10.32.116.0/22",
-						"name": "10_32_116_0_22_vlan245",
-						"subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245",
-
-						"count": 225,
-						"active": 159,
-						"migrated": 51,
-						"do_not_migrate": 70,
-						"to_be_migrated": 104,
-						"hypervisors": 67
-					},
-					{
-						"total_usage": "14102.6G",
-						"subnet": "10.37.116.0/22",
-						"name": "10_37_116_0_22_vlan252",
-						"subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252",
-
-						"count": 225,
-						"active": 155,
-						"migrated": 48,
-						"do_not_migrate": 78,
-						"to_be_migrated": 99,
-						"hypervisors": 68
-					},
-					{
-						"total_usage": "13894.1G",
-						"subnet": "10.36.188.0/22",
-						"name": "10_36_188_0_22_vlan240",
-						"subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan240",
-
-						"count": 223,
-						"active": 154,
-						"migrated": 45,
-						"do_not_migrate": 67,
-						"to_be_migrated": 111,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "13804.5G",
-						"subnet": "10.36.180.0/22",
-						"name": "10_36_180_0_22_vlan236",
-						"subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan236",
-
-						"count": 213,
-						"active": 144,
-						"migrated": 43,
-						"do_not_migrate": 65,
-						"to_be_migrated": 105,
-						"hypervisors": 47
-					},
-					{
-						"total_usage": "13166.5G",
-						"subnet": "10.37.112.0/22",
-						"name": "10_37_112_0_22_vlan249",
-						"subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249",
-
-						"count": 209,
-						"active": 161,
-						"migrated": 42,
-						"do_not_migrate": 74,
-						"to_be_migrated": 93,
-						"hypervisors": 66
-					},
-					{
-						"total_usage": "13494.1G",
-						"subnet": "10.37.104.0/22",
-						"name": "10_37_104_0_22_vlan250",
-						"subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250",
-
-						"count": 208,
-						"active": 149,
-						"migrated": 36,
-						"do_not_migrate": 58,
-						"to_be_migrated": 114,
-						"hypervisors": 70
-					},
-					{
-						"total_usage": "13869.1G",
-						"subnet": "10.37.92.0/22",
-						"name": "10_37_92_0_22_vlan244",
-						"subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244",
-
-						"count": 205,
-						"active": 154,
-						"migrated": 29,
-						"do_not_migrate": 51,
-						"to_be_migrated": 125,
-						"hypervisors": 66
-					},
-					{
-						"total_usage": "11321.0G",
-						"subnet": "10.32.44.0/22",
-						"name": "10_32_44_0_22_vlan211",
-						"subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01",
-
-						"count": 204,
-						"active": 158,
-						"migrated": 34,
-						"do_not_migrate": 42,
-						"to_be_migrated": 128,
-						"hypervisors": 42
-					},
-					{
-						"total_usage": "11925.1G",
-						"subnet": "10.37.108.0/22",
-						"name": "10_37_108_0_22_vlan251",
-						"subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251",
-
-						"count": 198,
-						"active": 137,
-						"migrated": 37,
-						"do_not_migrate": 56,
-						"to_be_migrated": 105,
-						"hypervisors": 67
-					},
-					{
-						"total_usage": "14756.6G",
-						"subnet": "10.47.4.0/22",
-						"name": "10_47_4_0_22_vlan211",
-						"subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211",
-
-						"count": 183,
-						"active": 127,
-						"migrated": 42,
-						"do_not_migrate": 37,
-						"to_be_migrated": 104,
-						"hypervisors": 48
-					},
-					{
-						"total_usage": "8112.4G",
-						"subnet": "10.33.104.0/22",
-						"name": "10_33_104_0_22_vlan4",
-						"subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975",
-						"network_zone": "p3mgt_phx_private_019_assi0902_01",
-
-						"count": 158,
-						"active": 99,
-						"migrated": 42,
-						"do_not_migrate": 31,
-						"to_be_migrated": 85,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "8433.8G",
-						"subnet": "10.33.100.0/22",
-						"name": "10_33_100_0_22_vlan3",
-						"subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948",
-						"network_zone": "p3mgt_phx_private_016_assi0917_01",
-
-						"count": 155,
-						"active": 99,
-						"migrated": 43,
-						"do_not_migrate": 39,
-						"to_be_migrated": 73,
-						"hypervisors": 23
-					},
-					{
-						"total_usage": "8661.3G",
-						"subnet": "10.33.108.0/22",
-						"name": "10_33_108_0_22_vlan5",
-						"subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e",
-						"network_zone": "p3mgt_phx_private_020_assi0616_01",
-
-						"count": 151,
-						"active": 98,
-						"migrated": 39,
-						"do_not_migrate": 27,
-						"to_be_migrated": 85,
-						"hypervisors": 23
-					},
-					{
-						"total_usage": "7962.3G",
-						"subnet": "10.32.40.0/22",
-						"name": "10_32_40_0_22_vlan210",
-						"subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01",
-
-						"count": 129,
-						"active": 95,
-						"migrated": 28,
-						"do_not_migrate": 22,
-						"to_be_migrated": 79,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "7277.9G",
-						"subnet": "10.47.0.0/22",
-						"name": "10_47_0_0_22_vlan203",
-						"subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203",
-
-						"count": 128,
-						"active": 98,
-						"migrated": 25,
-						"do_not_migrate": 36,
-						"to_be_migrated": 67,
-						"hypervisors": 25
-					},
-					{
-						"total_usage": "10660.0G",
-						"subnet": "10.33.132.0/22",
-						"name": "10_33_132_0_22_vlan101",
-						"subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d",
-						"network_zone": "p3cor_phx_private_011_lfassi0212-01",
-
-						"count": 114,
-						"active": 77,
-						"migrated": 28,
-						"do_not_migrate": 31,
-						"to_be_migrated": 55,
-						"hypervisors": 43
-					},
-					{
-						"total_usage": "4795.0G",
-						"subnet": "10.47.8.0/22",
-						"name": "10_47_8_0_22_vlan212",
-						"subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212",
-
-						"count": 62,
-						"active": 50,
-						"migrated": 11,
-						"do_not_migrate": 12,
-						"to_be_migrated": 39,
-						"hypervisors": 34
-					},
-					{
-						"total_usage": "2870.1G",
-						"subnet": "10.32.10.0/23",
-						"name": "10_32_10_0_23_vlan202",
-						"subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01",
-
-						"count": 57,
-						"active": 39,
-						"migrated": 12,
-						"do_not_migrate": 22,
-						"to_be_migrated": 23,
-						"hypervisors": 25
-					},
-					{
-						"total_usage": "1581.0G",
-						"subnet": "10.22.180.0/22",
-						"name": "10_22_180_0_22_vlan499",
-						"subnet_id": "880512c5-8009-4674-91b7-076522a4e13c",
-						"network_zone": "p3gen2_phx_private_003_lfassf0501_07",
-
-						"count": 38,
-						"active": 24,
-						"migrated": 1,
-						"do_not_migrate": 16,
-						"to_be_migrated": 21,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "1626.1G",
-						"subnet": "10.22.188.0/22",
-						"name": "10_22_188_0_22_vlan499",
-						"subnet_id": "b7e0e9f0-621f-4ffb-a90b-3114fadf37a9",
-						"network_zone": "p3gen2_phx_private_005_lfassg0128_01",
-
-						"count": 37,
-						"active": 26,
-						"migrated": 3,
-						"do_not_migrate": 6,
-						"to_be_migrated": 28,
-						"hypervisors": 26
-					},
-					{
-						"total_usage": "1719.0G",
-						"subnet": "10.22.252.0/22",
-						"name": "10_22_252_0_22_vlan499",
-						"subnet_id": "81a2ac1b-81aa-460c-8fbf-faf9e28fcc5d",
-						"network_zone": "p3gen2_phx_private_lfassf0501_06",
-
-						"count": 35,
-						"active": 25,
-						"migrated": 2,
-						"do_not_migrate": 12,
-						"to_be_migrated": 21,
-						"hypervisors": 25
-					},
-					{
-						"total_usage": "3173.6G",
-						"subnet": "10.33.130.0/23",
-						"name": "10_33_130_0_23_vlan100",
-						"subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b",
-						"network_zone": "p3cor_phx_private_007_lfassi0118_01",
-
-						"count": 32,
-						"active": 13,
-						"migrated": 14,
-						"do_not_migrate": 6,
-						"to_be_migrated": 12,
-						"hypervisors": 13
-					},
-					{
-						"total_usage": "1599.0G",
-						"subnet": "10.22.248.0/22",
-						"name": "10_22_248_0_22_vlan499",
-						"subnet_id": "f1297681-3856-4ec5-b2ae-16d1c300809e",
-						"network_zone": "p3gen2_phx_private_lfassf0501_05",
-
-						"count": 31,
-						"active": 24,
-						"migrated": 2,
-						"do_not_migrate": 7,
-						"to_be_migrated": 22,
-						"hypervisors": 21
-					},
-					{
-						"total_usage": "1348.0G",
-						"subnet": "10.33.82.0/23",
-						"name": "10_33_82_0_23_vlan2",
-						"subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d",
-						"network_zone": "p3mgt_phx_private_008_assi0101_01",
-
-						"count": 23,
-						"active": 16,
-						"migrated": 4,
-						"do_not_migrate": 5,
-						"to_be_migrated": 14,
-						"hypervisors": 9
-					},
-					{
-						"total_usage": "636.1G",
-						"subnet": "10.22.184.0/22",
-						"name": "10_22_184_0_22_vlan499",
-						"subnet_id": "61e51ce0-e483-4b6f-9042-36bd97d42170",
-						"network_zone": "p3gen2_phx_private_004_lfassf0501_08",
-
-						"count": 16,
-						"active": 10,
-						"migrated": 1,
-						"do_not_migrate": 4,
-						"to_be_migrated": 11,
-						"hypervisors": 14
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "10.32.136.128/25",
-						"name": "10_32_136_128_25_lbaas",
-						"subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade",
-						"network_zone": "lbaas-phx-private-prd-private",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "208.109.192.128/25",
-						"name": "208_109_192_128_25_lbaas",
-						"subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd",
-						"network_zone": "lbaas-phx-private-prd-public",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					}
-				]
-			},
-			{
-				"ams_private": [
-					{
-						"total_usage": "12915.5G",
-						"subnet": "10.36.20.0/22",
-						"name": "10_36_20_0_22_vlan200",
-						"subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0",
-						"network_zone": "n3prd_ams_private_002_003_dssb0112-01",
-
-						"count": 174,
-						"active": 108,
-						"migrated": 58,
-						"do_not_migrate": 1,
-						"to_be_migrated": 115,
-						"hypervisors": 45
-					},
-					{
-						"total_usage": "5623.9G",
-						"subnet": "10.36.28.0/22",
-						"name": "10_36_28_0_22_vlan201",
-						"subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
-						"network_zone": "n3prd_ams_private_004_assb0404_01",
-
-						"count": 72,
-						"active": 47,
-						"migrated": 25,
-						"do_not_migrate": 2,
-						"to_be_migrated": 45,
-						"hypervisors": 24
-					},
-					{
-						"total_usage": "2031.7G",
-						"subnet": "10.30.8.0/22",
-						"name": "10_30_8_0_22_vlan11",
-						"subnet_id": "17597ea9-b562-486f-882f-938440538afb",
-						"network_zone": "n3mgt_ams_private_005_006_007_assb0421_01",
-
-						"count": 36,
-						"active": 18,
-						"migrated": 18,
-						"do_not_migrate": 14,
-						"to_be_migrated": 4,
-						"hypervisors": 17
-					},
-					{
-						"total_usage": "993.7G",
-						"subnet": "10.30.5.0/24",
-						"name": "10_30_5_0_24_vlan10",
-						"subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
-						"network_zone": "n3mgt_ams_private_001_lfassb0109-01",
-
-						"count": 20,
-						"active": 9,
-						"migrated": 6,
-						"do_not_migrate": 3,
-						"to_be_migrated": 11,
-						"hypervisors": 6
-					}
-				]
-			},
-			{
-				"iad_private": [
-					{
-						"total_usage": "23287.4G",
-						"subnet": "10.26.52.0/22",
-						"name": "10_26_52_0_22_vlan215",
-						"subnet_id": "60a0bfa8-c284-4082-8fc5-cd447aac2eae",
-						"network_zone": "a2prd_iad_private_006_lfassa0610-01",
-
-						"count": 269,
-						"active": 208,
-						"migrated": 29,
-						"do_not_migrate": 52,
-						"to_be_migrated": 188,
-						"hypervisors": 85
-					},
-					{
-						"total_usage": "23341.1G",
-						"subnet": "10.26.40.0/22",
-						"name": "10_26_40_0_22_vlan212",
-						"subnet_id": "07434b4e-f387-415b-9507-c9444fc16899",
-						"network_zone": "a2prd_iad_private_005_lfassa0406-01",
-
-						"count": 268,
-						"active": 199,
-						"migrated": 35,
-						"do_not_migrate": 49,
-						"to_be_migrated": 184,
-						"hypervisors": 86
-					},
-					{
-						"total_usage": "19679.8G",
-						"subnet": "10.26.56.0/22",
-						"name": "10_26_56_0_22_vlan216",
-						"subnet_id": "8391e720-73d9-4b3a-8b40-f3b5ec4c8b47",
-						"network_zone": "a2prd_iad_private_008_lfassa0507-01",
-
-						"count": 232,
-						"active": 186,
-						"migrated": 18,
-						"do_not_migrate": 42,
-						"to_be_migrated": 172,
-						"hypervisors": 87
-					},
-					{
-						"total_usage": "4008.0G",
-						"subnet": "10.38.10.0/23",
-						"name": "10_38_10_0_23_vlan100",
-						"subnet_id": "3566abd5-6391-4267-bd84-bb8d86e3acab",
-						"network_zone": "a2cor_iad_private_009_assa0616_01",
-
-						"count": 79,
-						"active": 72,
-						"migrated": 3,
-						"do_not_migrate": 25,
-						"to_be_migrated": 51,
-						"hypervisors": 18
-					},
-					{
-						"total_usage": "1846.0G",
-						"subnet": "10.27.104.0/22",
-						"name": "10_27_104_0_22_vlan15",
-						"subnet_id": "f3630aeb-1e84-419b-96a2-035dcc0b58c9",
-						"network_zone": "a2mgt_iad_private_007_lfassa0510-01",
-
-						"count": 32,
-						"active": 22,
-						"migrated": 9,
-						"do_not_migrate": 8,
-						"to_be_migrated": 15,
-						"hypervisors": 12
-					},
-					{
-						"total_usage": "1957.0G",
-						"subnet": "10.27.74.192/26",
-						"name": "10_27_74_192_26_vlan10",
-						"subnet_id": "c1243f52-adbc-4aad-b835-cc3927161c9f",
-						"network_zone": "a2mgt_iad_private_004_lfassa0210-01",
-
-						"count": 30,
-						"active": 30,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"to_be_migrated": 30,
-						"hypervisors": 3
-					},
-					{
-						"total_usage": "2199.0G",
-						"subnet": "10.26.14.0/23",
-						"name": "10_26_14_0_23_vlan204",
-						"subnet_id": "b3532a15-4a5c-4da3-b914-dd2404759c4d",
-						"network_zone": "a2prd_iad_private_003_lfassa0412-01",
-
-						"count": 28,
-						"active": 22,
-						"migrated": 5,
-						"do_not_migrate": 2,
-						"to_be_migrated": 21,
-						"hypervisors": 8
-					},
-					{
-						"total_usage": "1682.5G",
-						"subnet": "10.38.32.0/22",
-						"name": "10_38_32_0_22_vlan101",
-						"subnet_id": "ff1ccd6a-03bf-4972-b278-b5203bee91c8",
-						"network_zone": "a2cor_iad_private_011_assa0907_01",
-
-						"count": 27,
-						"active": 24,
-						"migrated": 2,
-						"do_not_migrate": 10,
-						"to_be_migrated": 15,
-						"hypervisors": 12
-					},
-					{
-						"total_usage": "938.0G",
-						"subnet": "10.28.68.0/22",
-						"name": "10_28_68_0_22_vlan17",
-						"subnet_id": "e7ea5380-40c0-4709-a07f-c457eed8e86b",
-						"network_zone": "a2mgt_iad_private_012_013_dssa0908_01_vlan17",
-
-						"count": 19,
-						"active": 13,
-						"migrated": 6,
-						"do_not_migrate": 5,
-						"to_be_migrated": 8,
-						"hypervisors": 10
-					},
-					{
-						"total_usage": "1320.0G",
-						"subnet": "10.28.76.0/22",
-						"name": "10_28_76_0_22_vlan18",
-						"subnet_id": "2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0",
-						"network_zone": "a2mgt_iad_private_013_assa0913_01_vlan18",
-
-						"count": 19,
-						"active": 8,
-						"migrated": 11,
-						"do_not_migrate": 7,
-						"to_be_migrated": 1,
-						"hypervisors": 7
-					},
-					{
-						"total_usage": "910.0G",
-						"subnet": "10.26.10.0/23",
-						"name": "10_26_10_0_23_vlan211",
-						"subnet_id": "127ddaed-ec36-46d4-9b49-fb9a3dc870c9",
-						"network_zone": "a2prd_iad_private_002_lfassa0410-01",
-
-						"count": 19,
-						"active": 13,
-						"migrated": 1,
-						"do_not_migrate": 4,
-						"to_be_migrated": 14,
-						"hypervisors": 4
-					},
-					{
-						"total_usage": "672.0G",
-						"subnet": "10.28.66.0/23",
-						"name": "10_28_66_0_23_vlan16",
-						"subnet_id": "d449d70c-9c68-4b03-95a9-2f76300aa0da",
-						"network_zone": "a2mgt_iad_private_012_assa0908_01_vlan16",
-
-						"count": 13,
-						"active": 8,
-						"migrated": 5,
-						"do_not_migrate": 2,
-						"to_be_migrated": 6,
-						"hypervisors": 8
-					},
-					{
-						"total_usage": "293.6G",
-						"subnet": "10.26.2.0/23",
-						"name": "10_26_2_0_23_vlan200",
-						"subnet_id": "0450fe19-5e7d-493e-9314-7a2a4136e7ac",
-						"network_zone": "a2prd_iad_private_001_lfassa0208-01",
-
-						"count": 8,
-						"active": 7,
-						"migrated": 1,
-						"do_not_migrate": 2,
-						"to_be_migrated": 5,
-						"hypervisors": 4
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "198.71.249.0/25",
-						"name": "198_71_249_0_25_lbaas",
-						"subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8",
-						"network_zone": "lbaas-iad-private-prd-public",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "10.26.72.128/25",
-						"name": "10_26_72_128_25_lbaas",
-						"subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60",
-						"network_zone": "lbaas-iad-private-prd-private",
-
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0
-					}
-				]
-			},
-			{
-				"sin_private": [
-					{
-						"total_usage": "6376.2G",
-						"subnet": "10.30.200.0/22",
-						"name": "10_30_200_0_22_vlan232",
-						"subnet_id": "79763c15-0514-4dd2-b4dd-ef4845bde971",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan232",
-
-						"count": 84,
-						"active": 82,
-						"migrated": 1,
-						"do_not_migrate": 0,
-						"to_be_migrated": 83,
-						"hypervisors": 58
-					},
-					{
-						"total_usage": "8147.0G",
-						"subnet": "10.30.204.0/22",
-						"name": "10_30_204_0_22_vlan233",
-						"subnet_id": "2f86dc5a-5b4c-4513-a7cb-605e352016d4",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan233",
-
-						"count": 47,
-						"active": 46,
-						"migrated": 1,
-						"do_not_migrate": 0,
-						"to_be_migrated": 46,
-						"hypervisors": 33
-					},
-					{
-						"total_usage": "1327.5G",
-						"subnet": "10.30.144.0/22",
-						"name": "10_30_144_0_22_vlan3",
-						"subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3",
-
-						"count": 24,
-						"active": 13,
-						"migrated": 11,
-						"do_not_migrate": 6,
-						"to_be_migrated": 7,
-						"hypervisors": 11
-					},
-					{
-						"total_usage": "991.0G",
-						"subnet": "10.30.64.0/22",
-						"name": "10_30_64_0_22_vlan234",
-						"subnet_id": "5d20b7fa-369a-4660-a82f-2b276f83fb7f",
-						"network_zone": "sg2prd_sin_private_dssa0207_01_vlan234",
-
-						"count": 18,
-						"active": 14,
-						"migrated": 1,
-						"do_not_migrate": 0,
-						"to_be_migrated": 17,
-						"hypervisors": 15
-					},
-					{
-						"total_usage": "761.0G",
-						"subnet": "10.30.140.0/22",
-						"name": "10_30_140_0_22_vlan2",
-						"subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2",
-						"count": 13,
-						"active": 5,
-						"migrated": 7,
-						"do_not_migrate": 3,
-						"to_be_migrated": 3,
 						"hypervisors": 4
 					}
 				]
@@ -4649,866 +3081,6 @@
 						"migrated": 6,
 						"do_not_migrate": 3,
 						"to_be_migrated": 4,
-						"hypervisors": 4,
-						"zones": ["sin-private-mgt-zone-1"]
-					}
-				]
-			}
-		]
-	},
-	{
-		"2023-03-29": [
-			{
-				"ams_private": [
-					{
-						"total_usage": "10163.9G",
-						"subnet": "10.36.20.0/22",
-						"name": "10_36_20_0_22_vlan200",
-						"subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0",
-						"network_zone": "n3prd_ams_private_002_003_dssb0112-01",
-						"count": 173,
-						"active": 99,
-						"migrated": 0,
-						"do_not_migrate": 11,
-						"unlinked": 52,
-						"to_be_migrated": 36,
-						"hypervisors": 45,
-						"zones": ["ams-private-prd-zone-1", "ams-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "4504.9G",
-						"subnet": "10.36.28.0/22",
-						"name": "10_36_28_0_22_vlan201",
-						"subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
-						"network_zone": "n3prd_ams_private_004_assb0404_01",
-						"count": 72,
-						"active": 44,
-						"migrated": 1,
-						"do_not_migrate": 5,
-						"unlinked": 25,
-						"to_be_migrated": 13,
-						"hypervisors": 24,
-						"zones": ["ams-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "661.7G",
-						"subnet": "10.30.8.0/22",
-						"name": "10_30_8_0_22_vlan11",
-						"subnet_id": "17597ea9-b562-486f-882f-938440538afb",
-						"network_zone": "n3mgt_ams_private_005_006_007_assb0421_01",
-						"count": 35,
-						"active": 17,
-						"migrated": 0,
-						"do_not_migrate": 3,
-						"unlinked": 9,
-						"to_be_migrated": 5,
-						"hypervisors": 17,
-						"zones": ["ams-private-mgt-zone-1", "ams-private-mgt-zone-3", "ams-private-mgt-zone-2"]
-					},
-					{
-						"total_usage": "220.3G",
-						"subnet": "10.30.5.0/24",
-						"name": "10_30_5_0_24_vlan10",
-						"subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
-						"network_zone": "n3mgt_ams_private_001_lfassb0109-01",
-						"count": 19,
-						"active": 8,
-						"migrated": 0,
-						"do_not_migrate": 2,
-						"unlinked": 5,
-						"to_be_migrated": 1,
-						"hypervisors": 6,
-						"zones": ["ams-private-mgt-zone-1"]
-					}
-				]
-			},
-			{
-				"iad_private": [
-					{
-						"total_usage": "19005.7G",
-						"subnet": "10.26.52.0/22",
-						"name": "10_26_52_0_22_vlan215",
-						"subnet_id": "60a0bfa8-c284-4082-8fc5-cd447aac2eae",
-						"network_zone": "a2prd_iad_private_006_lfassa0610-01",
-						"count": 270,
-						"active": 197,
-						"migrated": 0,
-						"do_not_migrate": 52,
-						"unlinked": 90,
-						"to_be_migrated": 55,
-						"hypervisors": 88,
-						"zones": ["iad-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "18113.8G",
-						"subnet": "10.26.40.0/22",
-						"name": "10_26_40_0_22_vlan212",
-						"subnet_id": "07434b4e-f387-415b-9507-c9444fc16899",
-						"network_zone": "a2prd_iad_private_005_lfassa0406-01",
-						"count": 270,
-						"active": 188,
-						"migrated": 0,
-						"do_not_migrate": 47,
-						"unlinked": 85,
-						"to_be_migrated": 56,
-						"hypervisors": 85,
-						"zones": ["iad-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "15727.9G",
-						"subnet": "10.26.56.0/22",
-						"name": "10_26_56_0_22_vlan216",
-						"subnet_id": "8391e720-73d9-4b3a-8b40-f3b5ec4c8b47",
-						"network_zone": "a2prd_iad_private_008_lfassa0507-01",
-						"count": 218,
-						"active": 168,
-						"migrated": 0,
-						"do_not_migrate": 43,
-						"unlinked": 85,
-						"to_be_migrated": 40,
-						"hypervisors": 83,
-						"zones": ["iad-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "3616.0G",
-						"subnet": "10.38.10.0/23",
-						"name": "10_38_10_0_23_vlan100",
-						"subnet_id": "3566abd5-6391-4267-bd84-bb8d86e3acab",
-						"network_zone": "a2cor_iad_private_009_assa0616_01",
-						"count": 79,
-						"active": 70,
-						"migrated": 0,
-						"do_not_migrate": 21,
-						"unlinked": 48,
-						"to_be_migrated": 1,
-						"hypervisors": 18,
-						"zones": ["iad-private-cor-zone-1", "iad-private-cor-zone-2"]
-					},
-					{
-						"total_usage": "1140.0G",
-						"subnet": "10.27.104.0/22",
-						"name": "10_27_104_0_22_vlan15",
-						"subnet_id": "f3630aeb-1e84-419b-96a2-035dcc0b58c9",
-						"network_zone": "a2mgt_iad_private_007_lfassa0510-01",
-						"count": 30,
-						"active": 20,
-						"migrated": 0,
-						"do_not_migrate": 3,
-						"unlinked": 13,
-						"to_be_migrated": 4,
-						"hypervisors": 12,
-						"zones": ["iad-private-mgt-zone-2"]
-					},
-					{
-						"total_usage": "1910.0G",
-						"subnet": "10.27.74.192/26",
-						"name": "10_27_74_192_26_vlan10",
-						"subnet_id": "c1243f52-adbc-4aad-b835-cc3927161c9f",
-						"network_zone": "a2mgt_iad_private_004_lfassa0210-01",
-						"count": 30,
-						"active": 29,
-						"migrated": 0,
-						"do_not_migrate": 29,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 3,
-						"zones": ["iad-private-mgt-zone-1"]
-					},
-					{
-						"total_usage": "1978.0G",
-						"subnet": "10.26.14.0/23",
-						"name": "10_26_14_0_23_vlan204",
-						"subnet_id": "b3532a15-4a5c-4da3-b914-dd2404759c4d",
-						"network_zone": "a2prd_iad_private_003_lfassa0412-01",
-						"count": 28,
-						"active": 22,
-						"migrated": 0,
-						"do_not_migrate": 7,
-						"unlinked": 6,
-						"to_be_migrated": 9,
-						"hypervisors": 8,
-						"zones": ["iad-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "1206.0G",
-						"subnet": "10.38.32.0/22",
-						"name": "10_38_32_0_22_vlan101",
-						"subnet_id": "ff1ccd6a-03bf-4972-b278-b5203bee91c8",
-						"network_zone": "a2cor_iad_private_011_assa0907_01",
-						"count": 27,
-						"active": 24,
-						"migrated": 0,
-						"do_not_migrate": 8,
-						"unlinked": 15,
-						"to_be_migrated": 1,
-						"hypervisors": 12,
-						"zones": ["iad-private-cor-zone-3"]
-					},
-					{
-						"total_usage": "642.0G",
-						"subnet": "10.28.76.0/22",
-						"name": "10_28_76_0_22_vlan18",
-						"subnet_id": "2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0",
-						"network_zone": "a2mgt_iad_private_013_assa0913_01_vlan18",
-						"count": 19,
-						"active": 8,
-						"migrated": 0,
-						"do_not_migrate": 1,
-						"unlinked": 4,
-						"to_be_migrated": 3,
-						"hypervisors": 7,
-						"zones": ["iad-private-mgt-zone-3"]
-					},
-					{
-						"total_usage": "655.9G",
-						"subnet": "10.26.10.0/23",
-						"name": "10_26_10_0_23_vlan211",
-						"subnet_id": "127ddaed-ec36-46d4-9b49-fb9a3dc870c9",
-						"network_zone": "a2prd_iad_private_002_lfassa0410-01",
-						"count": 19,
-						"active": 14,
-						"migrated": 0,
-						"do_not_migrate": 6,
-						"unlinked": 6,
-						"to_be_migrated": 2,
-						"hypervisors": 4,
-						"zones": ["iad-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "508.0G",
-						"subnet": "10.28.68.0/22",
-						"name": "10_28_68_0_22_vlan17",
-						"subnet_id": "e7ea5380-40c0-4709-a07f-c457eed8e86b",
-						"network_zone": "a2mgt_iad_private_012_013_dssa0908_01_vlan17",
-						"count": 17,
-						"active": 10,
-						"migrated": 0,
-						"do_not_migrate": 2,
-						"unlinked": 6,
-						"to_be_migrated": 2,
-						"hypervisors": 9,
-						"zones": ["iad-private-mgt-zone-1", "iad-private-mgt-zone-3"]
-					},
-					{
-						"total_usage": "267.4G",
-						"subnet": "10.26.2.0/23",
-						"name": "10_26_2_0_23_vlan200",
-						"subnet_id": "0450fe19-5e7d-493e-9314-7a2a4136e7ac",
-						"network_zone": "a2prd_iad_private_001_lfassa0208-01",
-						"count": 13,
-						"active": 12,
-						"migrated": 0,
-						"do_not_migrate": 4,
-						"unlinked": 7,
-						"to_be_migrated": 1,
-						"hypervisors": 4,
-						"zones": ["iad-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "393.0G",
-						"subnet": "10.28.66.0/23",
-						"name": "10_28_66_0_23_vlan16",
-						"subnet_id": "d449d70c-9c68-4b03-95a9-2f76300aa0da",
-						"network_zone": "a2mgt_iad_private_012_assa0908_01_vlan16",
-						"count": 12,
-						"active": 7,
-						"migrated": 0,
-						"do_not_migrate": 1,
-						"unlinked": 2,
-						"to_be_migrated": 4,
-						"hypervisors": 8,
-						"zones": ["iad-private-mgt-zone-1"]
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "198.71.249.0/25",
-						"name": "198_71_249_0_25_lbaas",
-						"subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8",
-						"network_zone": "lbaas-iad-private-prd-public",
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "10.26.72.128/25",
-						"name": "10_26_72_128_25_lbaas",
-						"subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60",
-						"network_zone": "lbaas-iad-private-prd-private",
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
-					}
-				]
-			},
-			{
-				"phx_private": [
-					{
-						"total_usage": "20599.4G",
-						"subnet": "10.36.156.0/22",
-						"name": "10_36_156_0_22_vlan233",
-						"subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025",
-						"network_zone": "p3prd_phx_private_lfassi0504_01_vlan233",
-						"count": 454,
-						"active": 309,
-						"migrated": 6,
-						"do_not_migrate": 154,
-						"unlinked": 85,
-						"to_be_migrated": 64,
-						"hypervisors": 48,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "19658.0G",
-						"subnet": "10.32.56.0/22",
-						"name": "10_32_56_0_22_vlan215",
-						"subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a",
-						"network_zone": "p3prd_phx_private_015_lfassi1018_01",
-						"count": 444,
-						"active": 317,
-						"migrated": 10,
-						"do_not_migrate": 184,
-						"unlinked": 94,
-						"to_be_migrated": 29,
-						"hypervisors": 48,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "16463.6G",
-						"subnet": "10.32.64.0/22",
-						"name": "10_32_64_0_22_vlan217",
-						"subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24",
-						"network_zone": "p3prd_phx_private_012_lfassi0901_01",
-						"count": 437,
-						"active": 274,
-						"migrated": 0,
-						"do_not_migrate": 148,
-						"unlinked": 68,
-						"to_be_migrated": 58,
-						"hypervisors": 44,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "16406.2G",
-						"subnet": "10.32.60.0/22",
-						"name": "10_32_60_0_22_vlan216",
-						"subnet_id": "805544d0-b634-4367-815c-75588f5e46a2",
-						"network_zone": "p3prd_phx_private_013_lfassi1116_01",
-						"count": 436,
-						"active": 276,
-						"migrated": 1,
-						"do_not_migrate": 130,
-						"unlinked": 92,
-						"to_be_migrated": 53,
-						"hypervisors": 44,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "17012.8G",
-						"subnet": "10.32.52.0/22",
-						"name": "10_32_52_0_22_vlan214",
-						"subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198",
-						"network_zone": "p3prd_phx_private_014_lfassi1001_01",
-						"count": 418,
-						"active": 276,
-						"migrated": 1,
-						"do_not_migrate": 139,
-						"unlinked": 96,
-						"to_be_migrated": 40,
-						"hypervisors": 48,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "15298.9G",
-						"subnet": "10.39.128.0/22",
-						"name": "10_39_128_0_22_vlan127",
-						"subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc",
-						"network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127",
-						"count": 301,
-						"active": 200,
-						"migrated": 10,
-						"do_not_migrate": 56,
-						"unlinked": 88,
-						"to_be_migrated": 46,
-						"hypervisors": 66,
-						"zones": ["phx-private-cor-zone-2"]
-					},
-					{
-						"total_usage": "13087.7G",
-						"subnet": "10.33.176.0/22",
-						"name": "10_33_176_0_22_vlan118",
-						"subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f",
-						"network_zone": "p3cor_phx_private_018_lfassi0904_01",
-						"count": 294,
-						"active": 180,
-						"migrated": 9,
-						"do_not_migrate": 21,
-						"unlinked": 91,
-						"to_be_migrated": 59,
-						"hypervisors": 45,
-						"zones": ["phx-private-cor-zone-3"]
-					},
-					{
-						"total_usage": "10041.7G",
-						"subnet": "10.37.88.0/22",
-						"name": "10_37_88_0_22_vlan243",
-						"subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243",
-						"count": 246,
-						"active": 165,
-						"migrated": 0,
-						"do_not_migrate": 77,
-						"unlinked": 59,
-						"to_be_migrated": 29,
-						"hypervisors": 72,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "10043.7G",
-						"subnet": "10.37.100.0/22",
-						"name": "10_37_100_0_22_vlan248",
-						"subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248",
-						"count": 230,
-						"active": 159,
-						"migrated": 1,
-						"do_not_migrate": 80,
-						"unlinked": 53,
-						"to_be_migrated": 25,
-						"hypervisors": 67,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "8424.6G",
-						"subnet": "10.37.76.0/22",
-						"name": "10_37_76_0_22_vlan238",
-						"subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan238",
-						"count": 224,
-						"active": 141,
-						"migrated": 0,
-						"do_not_migrate": 65,
-						"unlinked": 43,
-						"to_be_migrated": 33,
-						"hypervisors": 44,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "9826.9G",
-						"subnet": "10.32.116.0/22",
-						"name": "10_32_116_0_22_vlan245",
-						"subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245",
-						"count": 223,
-						"active": 144,
-						"migrated": 5,
-						"do_not_migrate": 75,
-						"unlinked": 40,
-						"to_be_migrated": 24,
-						"hypervisors": 67,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "10167.9G",
-						"subnet": "10.37.96.0/22",
-						"name": "10_37_96_0_22_vlan247",
-						"subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9",
-						"network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247",
-						"count": 223,
-						"active": 156,
-						"migrated": 1,
-						"do_not_migrate": 70,
-						"unlinked": 45,
-						"to_be_migrated": 40,
-						"hypervisors": 69,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "9519.3G",
-						"subnet": "10.36.184.0/22",
-						"name": "10_36_184_0_22_vlan237",
-						"subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f",
-						"network_zone": "p3prd_phx_private_lfassi0505_01_vlan237",
-						"count": 222,
-						"active": 145,
-						"migrated": 1,
-						"do_not_migrate": 56,
-						"unlinked": 45,
-						"to_be_migrated": 43,
-						"hypervisors": 44,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "8858.0G",
-						"subnet": "10.37.116.0/22",
-						"name": "10_37_116_0_22_vlan252",
-						"subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252",
-						"count": 220,
-						"active": 140,
-						"migrated": 6,
-						"do_not_migrate": 77,
-						"unlinked": 38,
-						"to_be_migrated": 19,
-						"hypervisors": 68,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "10597.5G",
-						"subnet": "10.33.168.0/22",
-						"name": "10_33_168_0_22_vlan116",
-						"subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277",
-						"network_zone": "p3cor_phx_private_017_lfassi0918_01",
-						"count": 212,
-						"active": 139,
-						"migrated": 7,
-						"do_not_migrate": 17,
-						"unlinked": 70,
-						"to_be_migrated": 45,
-						"hypervisors": 44,
-						"zones": ["phx-private-cor-zone-1"]
-					},
-					{
-						"total_usage": "8462.0G",
-						"subnet": "10.36.188.0/22",
-						"name": "10_36_188_0_22_vlan240",
-						"subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan240",
-						"count": 212,
-						"active": 134,
-						"migrated": 0,
-						"do_not_migrate": 50,
-						"unlinked": 47,
-						"to_be_migrated": 37,
-						"hypervisors": 45,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "8517.9G",
-						"subnet": "10.36.180.0/22",
-						"name": "10_36_180_0_22_vlan236",
-						"subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d",
-						"network_zone": "p3prd_phx_private_lfassi0506_01_vlan236",
-						"count": 209,
-						"active": 130,
-						"migrated": 1,
-						"do_not_migrate": 64,
-						"unlinked": 36,
-						"to_be_migrated": 29,
-						"hypervisors": 47,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "9188.0G",
-						"subnet": "10.37.112.0/22",
-						"name": "10_37_112_0_22_vlan249",
-						"subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146",
-						"network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249",
-						"count": 206,
-						"active": 150,
-						"migrated": 10,
-						"do_not_migrate": 79,
-						"unlinked": 44,
-						"to_be_migrated": 17,
-						"hypervisors": 65,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "9289.0G",
-						"subnet": "10.37.104.0/22",
-						"name": "10_37_104_0_22_vlan250",
-						"subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250",
-						"count": 203,
-						"active": 133,
-						"migrated": 1,
-						"do_not_migrate": 69,
-						"unlinked": 37,
-						"to_be_migrated": 26,
-						"hypervisors": 70,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "7082.8G",
-						"subnet": "10.32.44.0/22",
-						"name": "10_32_44_0_22_vlan211",
-						"subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01",
-						"count": 202,
-						"active": 139,
-						"migrated": 1,
-						"do_not_migrate": 90,
-						"unlinked": 26,
-						"to_be_migrated": 22,
-						"hypervisors": 42,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "9308.0G",
-						"subnet": "10.37.92.0/22",
-						"name": "10_37_92_0_22_vlan244",
-						"subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244",
-						"count": 200,
-						"active": 133,
-						"migrated": 1,
-						"do_not_migrate": 62,
-						"unlinked": 44,
-						"to_be_migrated": 26,
-						"hypervisors": 66,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "7680.6G",
-						"subnet": "10.37.108.0/22",
-						"name": "10_37_108_0_22_vlan251",
-						"subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4",
-						"network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251",
-						"count": 187,
-						"active": 121,
-						"migrated": 0,
-						"do_not_migrate": 52,
-						"unlinked": 45,
-						"to_be_migrated": 24,
-						"hypervisors": 66,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "8944.4G",
-						"subnet": "10.47.4.0/22",
-						"name": "10_47_4_0_22_vlan211",
-						"subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211",
-						"count": 183,
-						"active": 120,
-						"migrated": 1,
-						"do_not_migrate": 51,
-						"unlinked": 42,
-						"to_be_migrated": 26,
-						"hypervisors": 48,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "4793.0G",
-						"subnet": "10.33.104.0/22",
-						"name": "10_33_104_0_22_vlan4",
-						"subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975",
-						"network_zone": "p3mgt_phx_private_019_assi0902_01",
-						"count": 150,
-						"active": 86,
-						"migrated": 0,
-						"do_not_migrate": 9,
-						"unlinked": 54,
-						"to_be_migrated": 23,
-						"hypervisors": 24,
-						"zones": ["phx-private-mgt-zone-2"]
-					},
-					{
-						"total_usage": "4481.6G",
-						"subnet": "10.33.108.0/22",
-						"name": "10_33_108_0_22_vlan5",
-						"subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e",
-						"network_zone": "p3mgt_phx_private_020_assi0616_01",
-						"count": 144,
-						"active": 84,
-						"migrated": 0,
-						"do_not_migrate": 11,
-						"unlinked": 40,
-						"to_be_migrated": 33,
-						"hypervisors": 23,
-						"zones": ["phx-private-mgt-zone-3"]
-					},
-					{
-						"total_usage": "4807.7G",
-						"subnet": "10.33.100.0/22",
-						"name": "10_33_100_0_22_vlan3",
-						"subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948",
-						"network_zone": "p3mgt_phx_private_016_assi0917_01",
-						"count": 141,
-						"active": 83,
-						"migrated": 0,
-						"do_not_migrate": 13,
-						"unlinked": 48,
-						"to_be_migrated": 22,
-						"hypervisors": 23,
-						"zones": ["phx-private-mgt-zone-1"]
-					},
-					{
-						"total_usage": "4770.1G",
-						"subnet": "10.47.0.0/22",
-						"name": "10_47_0_0_22_vlan203",
-						"subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203",
-						"count": 129,
-						"active": 95,
-						"migrated": 5,
-						"do_not_migrate": 53,
-						"unlinked": 28,
-						"to_be_migrated": 9,
-						"hypervisors": 25,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "5347.2G",
-						"subnet": "10.32.40.0/22",
-						"name": "10_32_40_0_22_vlan210",
-						"subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54",
-						"network_zone": "p3prd_phx_private_009_lfassi0207-01",
-						"count": 128,
-						"active": 88,
-						"migrated": 0,
-						"do_not_migrate": 38,
-						"unlinked": 26,
-						"to_be_migrated": 24,
-						"hypervisors": 45,
-						"zones": ["phx-private-prd-zone-2"]
-					},
-					{
-						"total_usage": "6401.0G",
-						"subnet": "10.33.132.0/22",
-						"name": "10_33_132_0_22_vlan101",
-						"subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d",
-						"network_zone": "p3cor_phx_private_011_lfassi0212-01",
-						"count": 107,
-						"active": 68,
-						"migrated": 4,
-						"do_not_migrate": 9,
-						"unlinked": 38,
-						"to_be_migrated": 17,
-						"hypervisors": 42,
-						"zones": ["phx-private-cor-zone-2"]
-					},
-					{
-						"total_usage": "3899.9G",
-						"subnet": "10.47.8.0/22",
-						"name": "10_47_8_0_22_vlan212",
-						"subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196",
-						"network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212",
-						"count": 62,
-						"active": 48,
-						"migrated": 1,
-						"do_not_migrate": 26,
-						"unlinked": 8,
-						"to_be_migrated": 13,
-						"hypervisors": 34,
-						"zones": ["phx-private-prd-zone-3"]
-					},
-					{
-						"total_usage": "1922.1G",
-						"subnet": "10.32.10.0/23",
-						"name": "10_32_10_0_23_vlan202",
-						"subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da",
-						"network_zone": "p3prd_phx_private_006_lfassi0116_01",
-						"count": 56,
-						"active": 39,
-						"migrated": 1,
-						"do_not_migrate": 24,
-						"unlinked": 7,
-						"to_be_migrated": 7,
-						"hypervisors": 25,
-						"zones": ["phx-private-prd-zone-1"]
-					},
-					{
-						"total_usage": "1247.7G",
-						"subnet": "10.33.130.0/23",
-						"name": "10_33_130_0_23_vlan100",
-						"subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b",
-						"network_zone": "p3cor_phx_private_007_lfassi0118_01",
-						"count": 31,
-						"active": 12,
-						"migrated": 0,
-						"do_not_migrate": 1,
-						"unlinked": 10,
-						"to_be_migrated": 1,
-						"hypervisors": 13,
-						"zones": ["phx-private-cor-zone-1"]
-					},
-					{
-						"total_usage": "1139.0G",
-						"subnet": "10.33.82.0/23",
-						"name": "10_33_82_0_23_vlan2",
-						"subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d",
-						"network_zone": "p3mgt_phx_private_008_assi0101_01",
-						"count": 22,
-						"active": 15,
-						"migrated": 0,
-						"do_not_migrate": 3,
-						"unlinked": 10,
-						"to_be_migrated": 2,
-						"hypervisors": 9,
-						"zones": ["phx-private-mgt-zone-1"]
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "10.32.136.128/25",
-						"name": "10_32_136_128_25_lbaas",
-						"subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade",
-						"network_zone": "lbaas-phx-private-prd-private",
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
-					},
-					{
-						"total_usage": "0.0G",
-						"subnet": "208.109.192.128/25",
-						"name": "208_109_192_128_25_lbaas",
-						"subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd",
-						"network_zone": "lbaas-phx-private-prd-public",
-						"count": 0,
-						"active": 0,
-						"migrated": 0,
-						"do_not_migrate": 0,
-						"unlinked": 0,
-						"to_be_migrated": 0,
-						"hypervisors": 0,
-						"zones": []
-					}
-				]
-			},
-			{
-				"sin_private": [
-					{
-						"total_usage": "606.9G",
-						"subnet": "10.30.144.0/22",
-						"name": "10_30_144_0_22_vlan3",
-						"subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3",
-						"count": 23,
-						"active": 12,
-						"migrated": 0,
-						"do_not_migrate": 2,
-						"unlinked": 9,
-						"to_be_migrated": 1,
-						"hypervisors": 11,
-						"zones": ["sin-private-mgt-zone-3", "sin-private-mgt-zone-2"]
-					},
-					{
-						"total_usage": "118.0G",
-						"subnet": "10.30.140.0/22",
-						"name": "10_30_140_0_22_vlan2",
-						"subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44",
-						"network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2",
-						"count": 12,
-						"active": 4,
-						"migrated": 0,
-						"do_not_migrate": 1,
-						"unlinked": 2,
-						"to_be_migrated": 1,
 						"hypervisors": 4,
 						"zones": ["sin-private-mgt-zone-1"]
 					}
@@ -7146,7 +4718,976 @@
 		}
 	]
 }
-
 ,
-{ "2023-04-03": [ { "ams_private": [ { "subnet": "10.36.20.0/22", "name": "10_36_20_0_22_vlan200", "subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0", "network_zone": "n3prd_ams_private_002_003_dssb0112-01", "count": 170, "active": 95, "migrated_active": 0, "migrated_inactive": 65, "do_not_migrate": 12, "unlinked": 6, "to_be_migrated": 77, "hypervisors": 45, "zones": [ "ams-private-prd-zone-1", "ams-private-prd-zone-2" ] }, { "subnet": "10.36.28.0/22", "name": "10_36_28_0_22_vlan201", "subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6", "network_zone": "n3prd_ams_private_004_assb0404_01", "count": 71, "active": 44, "migrated_active": 1, "migrated_inactive": 26, "do_not_migrate": 6, "unlinked": 3, "to_be_migrated": 35, "hypervisors": 24, "zones": [ "ams-private-prd-zone-3" ] }, { "subnet": "10.30.8.0/22", "name": "10_30_8_0_22_vlan11", "subnet_id": "17597ea9-b562-486f-882f-938440538afb", "network_zone": "n3mgt_ams_private_005_006_007_assb0421_01", "count": 32, "active": 12, "migrated_active": 0, "migrated_inactive": 19, "do_not_migrate": 4, "unlinked": 4, "to_be_migrated": 4, "hypervisors": 16, "zones": [ "ams-private-mgt-zone-1", "ams-private-mgt-zone-3", "ams-private-mgt-zone-2" ] }, { "subnet": "10.30.5.0/24", "name": "10_30_5_0_24_vlan10", "subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2", "network_zone": "n3mgt_ams_private_001_lfassb0109-01", "count": 18, "active": 7, "migrated_active": 0, "migrated_inactive": 5, "do_not_migrate": 3, "unlinked": 3, "to_be_migrated": 1, "hypervisors": 6, "zones": [ "ams-private-mgt-zone-1" ] } ] }, { "iad_private": [ { "subnet": "10.26.52.0/22", "name": "10_26_52_0_22_vlan215", "subnet_id": "60a0bfa8-c284-4082-8fc5-cd447aac2eae", "network_zone": "a2prd_iad_private_006_lfassa0610-01", "count": 256, "active": 177, "migrated_active": 0, "migrated_inactive": 37, "do_not_migrate": 61, "unlinked": 18, "to_be_migrated": 98, "hypervisors": 91, "zones": [ "iad-private-prd-zone-2" ] }, { "subnet": "10.26.40.0/22", "name": "10_26_40_0_22_vlan212", "subnet_id": "07434b4e-f387-415b-9507-c9444fc16899", "network_zone": "a2prd_iad_private_005_lfassa0406-01", "count": 255, "active": 166, "migrated_active": 0, "migrated_inactive": 45, "do_not_migrate": 48, "unlinked": 19, "to_be_migrated": 99, "hypervisors": 91, "zones": [ "iad-private-prd-zone-1" ] }, { "subnet": "10.26.56.0/22", "name": "10_26_56_0_22_vlan216", "subnet_id": "8391e720-73d9-4b3a-8b40-f3b5ec4c8b47", "network_zone": "a2prd_iad_private_008_lfassa0507-01", "count": 210, "active": 155, "migrated_active": 0, "migrated_inactive": 26, "do_not_migrate": 55, "unlinked": 16, "to_be_migrated": 84, "hypervisors": 87, "zones": [ "iad-private-prd-zone-3" ] }, { "subnet": "10.38.10.0/23", "name": "10_38_10_0_23_vlan100", "subnet_id": "3566abd5-6391-4267-bd84-bb8d86e3acab", "network_zone": "a2cor_iad_private_009_assa0616_01", "count": 79, "active": 61, "migrated_active": 0, "migrated_inactive": 3, "do_not_migrate": 21, "unlinked": 34, "to_be_migrated": 6, "hypervisors": 18, "zones": [ "iad-private-cor-zone-1", "iad-private-cor-zone-2" ] }, { "subnet": "10.27.104.0/22", "name": "10_27_104_0_22_vlan15", "subnet_id": "f3630aeb-1e84-419b-96a2-035dcc0b58c9", "network_zone": "a2mgt_iad_private_007_lfassa0510-01", "count": 30, "active": 18, "migrated_active": 0, "migrated_inactive": 11, "do_not_migrate": 4, "unlinked": 4, "to_be_migrated": 10, "hypervisors": 12, "zones": [ "iad-private-mgt-zone-2" ] }, { "subnet": "10.27.74.192/26", "name": "10_27_74_192_26_vlan10", "subnet_id": "c1243f52-adbc-4aad-b835-cc3927161c9f", "network_zone": "a2mgt_iad_private_004_lfassa0210-01", "count": 30, "active": 29, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 29, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 3, "zones": [ "iad-private-mgt-zone-1" ] }, { "subnet": "10.26.14.0/23", "name": "10_26_14_0_23_vlan204", "subnet_id": "b3532a15-4a5c-4da3-b914-dd2404759c4d", "network_zone": "a2prd_iad_private_003_lfassa0412-01", "count": 27, "active": 21, "migrated_active": 0, "migrated_inactive": 5, "do_not_migrate": 7, "unlinked": 3, "to_be_migrated": 11, "hypervisors": 8, "zones": [ "iad-private-prd-zone-3" ] }, { "subnet": "10.38.32.0/22", "name": "10_38_32_0_22_vlan101", "subnet_id": "ff1ccd6a-03bf-4972-b278-b5203bee91c8", "network_zone": "a2cor_iad_private_011_assa0907_01", "count": 27, "active": 21, "migrated_active": 0, "migrated_inactive": 2, "do_not_migrate": 8, "unlinked": 9, "to_be_migrated": 4, "hypervisors": 12, "zones": [ "iad-private-cor-zone-3" ] }, { "subnet": "10.28.76.0/22", "name": "10_28_76_0_22_vlan18", "subnet_id": "2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0", "network_zone": "a2mgt_iad_private_013_assa0913_01_vlan18", "count": 19, "active": 7, "migrated_active": 0, "migrated_inactive": 12, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 6, "hypervisors": 7, "zones": [ "iad-private-mgt-zone-3" ] }, { "subnet": "10.26.10.0/23", "name": "10_26_10_0_23_vlan211", "subnet_id": "127ddaed-ec36-46d4-9b49-fb9a3dc870c9", "network_zone": "a2prd_iad_private_002_lfassa0410-01", "count": 18, "active": 13, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 6, "unlinked": 1, "to_be_migrated": 6, "hypervisors": 4, "zones": [ "iad-private-prd-zone-2" ] }, { "subnet": "10.28.68.0/22", "name": "10_28_68_0_22_vlan17", "subnet_id": "e7ea5380-40c0-4709-a07f-c457eed8e86b", "network_zone": "a2mgt_iad_private_012_013_dssa0908_01_vlan17", "count": 17, "active": 10, "migrated_active": 0, "migrated_inactive": 7, "do_not_migrate": 2, "unlinked": 1, "to_be_migrated": 7, "hypervisors": 9, "zones": [ "iad-private-mgt-zone-1", "iad-private-mgt-zone-3" ] }, { "subnet": "10.28.66.0/23", "name": "10_28_66_0_23_vlan16", "subnet_id": "d449d70c-9c68-4b03-95a9-2f76300aa0da", "network_zone": "a2mgt_iad_private_012_assa0908_01_vlan16", "count": 12, "active": 5, "migrated_active": 0, "migrated_inactive": 7, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 4, "hypervisors": 8, "zones": [ "iad-private-mgt-zone-1" ] }, { "subnet": "10.26.2.0/23", "name": "10_26_2_0_23_vlan200", "subnet_id": "0450fe19-5e7d-493e-9314-7a2a4136e7ac", "network_zone": "a2prd_iad_private_001_lfassa0208-01", "count": 7, "active": 6, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 4, "unlinked": 0, "to_be_migrated": 2, "hypervisors": 4, "zones": [ "iad-private-prd-zone-1" ] }, { "subnet": "10.26.72.128/25", "name": "10_26_72_128_25_lbaas", "subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60", "network_zone": "lbaas-iad-private-prd-private", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] }, { "subnet": "198.71.249.0/25", "name": "198_71_249_0_25_lbaas", "subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8", "network_zone": "lbaas-iad-private-prd-public", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] } ] }, { "phx_private": [ { "subnet": "10.32.56.0/22", "name": "10_32_56_0_22_vlan215", "subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a", "network_zone": "p3prd_phx_private_015_lfassi1018_01", "count": 438, "active": 289, "migrated_active": 8, "migrated_inactive": 109, "do_not_migrate": 181, "unlinked": 27, "to_be_migrated": 81, "hypervisors": 48, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.36.156.0/22", "name": "10_36_156_0_22_vlan233", "subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025", "network_zone": "p3prd_phx_private_lfassi0504_01_vlan233", "count": 436, "active": 278, "migrated_active": 0, "migrated_inactive": 102, "do_not_migrate": 147, "unlinked": 17, "to_be_migrated": 114, "hypervisors": 48, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.64.0/22", "name": "10_32_64_0_22_vlan217", "subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24", "network_zone": "p3prd_phx_private_012_lfassi0901_01", "count": 430, "active": 252, "migrated_active": 1, "migrated_inactive": 121, "do_not_migrate": 153, "unlinked": 15, "to_be_migrated": 84, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.60.0/22", "name": "10_32_60_0_22_vlan216", "subnet_id": "805544d0-b634-4367-815c-75588f5e46a2", "network_zone": "p3prd_phx_private_013_lfassi1116_01", "count": 422, "active": 254, "migrated_active": 1, "migrated_inactive": 111, "do_not_migrate": 135, "unlinked": 26, "to_be_migrated": 93, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.52.0/22", "name": "10_32_52_0_22_vlan214", "subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198", "network_zone": "p3prd_phx_private_014_lfassi1001_01", "count": 411, "active": 257, "migrated_active": 1, "migrated_inactive": 113, "do_not_migrate": 142, "unlinked": 21, "to_be_migrated": 94, "hypervisors": 48, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.39.128.0/22", "name": "10_39_128_0_22_vlan127", "subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc", "network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127", "count": 288, "active": 162, "migrated_active": 9, "migrated_inactive": 99, "do_not_migrate": 63, "unlinked": 32, "to_be_migrated": 67, "hypervisors": 66, "zones": [ "phx-private-cor-zone-2" ] }, { "subnet": "10.33.176.0/22", "name": "10_33_176_0_22_vlan118", "subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f", "network_zone": "p3cor_phx_private_018_lfassi0904_01", "count": 285, "active": 151, "migrated_active": 9, "migrated_inactive": 85, "do_not_migrate": 27, "unlinked": 28, "to_be_migrated": 96, "hypervisors": 45, "zones": [ "phx-private-cor-zone-3" ] }, { "subnet": "10.37.88.0/22", "name": "10_37_88_0_22_vlan243", "subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243", "count": 244, "active": 150, "migrated_active": 0, "migrated_inactive": 65, "do_not_migrate": 78, "unlinked": 16, "to_be_migrated": 56, "hypervisors": 72, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.100.0/22", "name": "10_37_100_0_22_vlan248", "subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248", "count": 225, "active": 140, "migrated_active": 1, "migrated_inactive": 62, "do_not_migrate": 83, "unlinked": 19, "to_be_migrated": 38, "hypervisors": 67, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.76.0/22", "name": "10_37_76_0_22_vlan238", "subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4", "network_zone": "p3prd_phx_private_lfassi0505_01_vlan238", "count": 219, "active": 130, "migrated_active": 0, "migrated_inactive": 66, "do_not_migrate": 71, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.96.0/22", "name": "10_37_96_0_22_vlan247", "subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247", "count": 218, "active": 145, "migrated_active": 1, "migrated_inactive": 56, "do_not_migrate": 72, "unlinked": 18, "to_be_migrated": 55, "hypervisors": 69, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.116.0/22", "name": "10_32_116_0_22_vlan245", "subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245", "count": 218, "active": 130, "migrated_active": 1, "migrated_inactive": 60, "do_not_migrate": 69, "unlinked": 13, "to_be_migrated": 48, "hypervisors": 67, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.36.184.0/22", "name": "10_36_184_0_22_vlan237", "subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f", "network_zone": "p3prd_phx_private_lfassi0505_01_vlan237", "count": 214, "active": 133, "migrated_active": 1, "migrated_inactive": 59, "do_not_migrate": 54, "unlinked": 12, "to_be_migrated": 67, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.116.0/22", "name": "10_37_116_0_22_vlan252", "subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252", "count": 211, "active": 125, "migrated_active": 3, "migrated_inactive": 60, "do_not_migrate": 73, "unlinked": 12, "to_be_migrated": 40, "hypervisors": 67, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.33.168.0/22", "name": "10_33_168_0_22_vlan116", "subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277", "network_zone": "p3cor_phx_private_017_lfassi0918_01", "count": 206, "active": 124, "migrated_active": 7, "migrated_inactive": 60, "do_not_migrate": 20, "unlinked": 33, "to_be_migrated": 71, "hypervisors": 44, "zones": [ "phx-private-cor-zone-1" ] }, { "subnet": "10.36.180.0/22", "name": "10_36_180_0_22_vlan236", "subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d", "network_zone": "p3prd_phx_private_lfassi0506_01_vlan236", "count": 204, "active": 125, "migrated_active": 1, "migrated_inactive": 49, "do_not_migrate": 69, "unlinked": 10, "to_be_migrated": 46, "hypervisors": 47, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.36.188.0/22", "name": "10_36_188_0_22_vlan240", "subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe", "network_zone": "p3prd_phx_private_lfassi0506_01_vlan240", "count": 204, "active": 125, "migrated_active": 0, "migrated_inactive": 57, "do_not_migrate": 51, "unlinked": 11, "to_be_migrated": 63, "hypervisors": 45, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.104.0/22", "name": "10_37_104_0_22_vlan250", "subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250", "count": 201, "active": 115, "migrated_active": 2, "migrated_inactive": 53, "do_not_migrate": 67, "unlinked": 17, "to_be_migrated": 31, "hypervisors": 70, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.112.0/22", "name": "10_37_112_0_22_vlan249", "subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249", "count": 200, "active": 134, "migrated_active": 3, "migrated_inactive": 51, "do_not_migrate": 72, "unlinked": 17, "to_be_migrated": 45, "hypervisors": 65, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.44.0/22", "name": "10_32_44_0_22_vlan211", "subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6", "network_zone": "p3prd_phx_private_010_lfassi0213-01", "count": 194, "active": 129, "migrated_active": 2, "migrated_inactive": 50, "do_not_migrate": 90, "unlinked": 5, "to_be_migrated": 34, "hypervisors": 42, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.37.92.0/22", "name": "10_37_92_0_22_vlan244", "subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244", "count": 190, "active": 118, "migrated_active": 1, "migrated_inactive": 47, "do_not_migrate": 59, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 65, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.47.4.0/22", "name": "10_47_4_0_22_vlan211", "subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13", "network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211", "count": 183, "active": 114, "migrated_active": 1, "migrated_inactive": 54, "do_not_migrate": 51, "unlinked": 17, "to_be_migrated": 46, "hypervisors": 48, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.108.0/22", "name": "10_37_108_0_22_vlan251", "subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251", "count": 177, "active": 108, "migrated_active": 0, "migrated_inactive": 47, "do_not_migrate": 51, "unlinked": 13, "to_be_migrated": 44, "hypervisors": 65, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.33.104.0/22", "name": "10_33_104_0_22_vlan4", "subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975", "network_zone": "p3mgt_phx_private_019_assi0902_01", "count": 143, "active": 77, "migrated_active": 0, "migrated_inactive": 51, "do_not_migrate": 8, "unlinked": 19, "to_be_migrated": 50, "hypervisors": 24, "zones": [ "phx-private-mgt-zone-2" ] }, { "subnet": "10.33.108.0/22", "name": "10_33_108_0_22_vlan5", "subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e", "network_zone": "p3mgt_phx_private_020_assi0616_01", "count": 140, "active": 78, "migrated_active": 0, "migrated_inactive": 49, "do_not_migrate": 10, "unlinked": 15, "to_be_migrated": 53, "hypervisors": 23, "zones": [ "phx-private-mgt-zone-3" ] }, { "subnet": "10.33.100.0/22", "name": "10_33_100_0_22_vlan3", "subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948", "network_zone": "p3mgt_phx_private_016_assi0917_01", "count": 136, "active": 71, "migrated_active": 0, "migrated_inactive": 49, "do_not_migrate": 12, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 23, "zones": [ "phx-private-mgt-zone-1" ] }, { "subnet": "10.47.0.0/22", "name": "10_47_0_0_22_vlan203", "subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a", "network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203", "count": 127, "active": 90, "migrated_active": 4, "migrated_inactive": 29, "do_not_migrate": 59, "unlinked": 8, "to_be_migrated": 23, "hypervisors": 25, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.40.0/22", "name": "10_32_40_0_22_vlan210", "subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54", "network_zone": "p3prd_phx_private_009_lfassi0207-01", "count": 121, "active": 81, "migrated_active": 1, "migrated_inactive": 33, "do_not_migrate": 38, "unlinked": 6, "to_be_migrated": 37, "hypervisors": 44, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.33.132.0/22", "name": "10_33_132_0_22_vlan101", "subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d", "network_zone": "p3cor_phx_private_011_lfassi0212-01", "count": 100, "active": 57, "migrated_active": 3, "migrated_inactive": 25, "do_not_migrate": 16, "unlinked": 18, "to_be_migrated": 23, "hypervisors": 41, "zones": [ "phx-private-cor-zone-2" ] }, { "subnet": "10.47.8.0/22", "name": "10_47_8_0_22_vlan212", "subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196", "network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212", "count": 60, "active": 44, "migrated_active": 0, "migrated_inactive": 14, "do_not_migrate": 25, "unlinked": 3, "to_be_migrated": 16, "hypervisors": 33, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.10.0/23", "name": "10_32_10_0_23_vlan202", "subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da", "network_zone": "p3prd_phx_private_006_lfassi0116_01", "count": 56, "active": 38, "migrated_active": 1, "migrated_inactive": 12, "do_not_migrate": 28, "unlinked": 1, "to_be_migrated": 9, "hypervisors": 25, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.33.130.0/23", "name": "10_33_130_0_23_vlan100", "subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b", "network_zone": "p3cor_phx_private_007_lfassi0118_01", "count": 29, "active": 11, "migrated_active": 0, "migrated_inactive": 12, "do_not_migrate": 2, "unlinked": 5, "to_be_migrated": 4, "hypervisors": 13, "zones": [ "phx-private-cor-zone-1" ] }, { "subnet": "10.33.82.0/23", "name": "10_33_82_0_23_vlan2", "subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d", "network_zone": "p3mgt_phx_private_008_assi0101_01", "count": 20, "active": 14, "migrated_active": 0, "migrated_inactive": 4, "do_not_migrate": 3, "unlinked": 1, "to_be_migrated": 10, "hypervisors": 8, "zones": [ "phx-private-mgt-zone-1" ] }, { "subnet": "10.32.136.128/25", "name": "10_32_136_128_25_lbaas", "subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade", "network_zone": "lbaas-phx-private-prd-private", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] }, { "subnet": "208.109.192.128/25", "name": "208_109_192_128_25_lbaas", "subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd", "network_zone": "lbaas-phx-private-prd-public", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] } ] }, { "sin_private": [ { "subnet": "10.30.144.0/22", "name": "10_30_144_0_22_vlan3", "subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2", "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3", "count": 22, "active": 10, "migrated_active": 0, "migrated_inactive": 11, "do_not_migrate": 3, "unlinked": 3, "to_be_migrated": 4, "hypervisors": 10, "zones": [ "sin-private-mgt-zone-3", "sin-private-mgt-zone-2" ] }, { "subnet": "10.30.140.0/22", "name": "10_30_140_0_22_vlan2", "subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44", "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2", "count": 11, "active": 3, "migrated_active": 0, "migrated_inactive": 6, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 2, "hypervisors": 4, "zones": [ "sin-private-mgt-zone-1" ] } ] } ] } { "2023-04-03": [ { "ams_private": [ { "subnet": "10.36.20.0/22", "name": "10_36_20_0_22_vlan200", "subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0", "network_zone": "n3prd_ams_private_002_003_dssb0112-01", "count": 170, "active": 95, "migrated_active": 0, "migrated_inactive": 65, "do_not_migrate": 12, "unlinked": 6, "to_be_migrated": 77, "hypervisors": 45, "zones": [ "ams-private-prd-zone-1", "ams-private-prd-zone-2" ] }, { "subnet": "10.36.28.0/22", "name": "10_36_28_0_22_vlan201", "subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6", "network_zone": "n3prd_ams_private_004_assb0404_01", "count": 71, "active": 44, "migrated_active": 1, "migrated_inactive": 26, "do_not_migrate": 6, "unlinked": 3, "to_be_migrated": 35, "hypervisors": 24, "zones": [ "ams-private-prd-zone-3" ] }, { "subnet": "10.30.8.0/22", "name": "10_30_8_0_22_vlan11", "subnet_id": "17597ea9-b562-486f-882f-938440538afb", "network_zone": "n3mgt_ams_private_005_006_007_assb0421_01", "count": 32, "active": 12, "migrated_active": 0, "migrated_inactive": 19, "do_not_migrate": 4, "unlinked": 4, "to_be_migrated": 4, "hypervisors": 16, "zones": [ "ams-private-mgt-zone-1", "ams-private-mgt-zone-3", "ams-private-mgt-zone-2" ] }, { "subnet": "10.30.5.0/24", "name": "10_30_5_0_24_vlan10", "subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2", "network_zone": "n3mgt_ams_private_001_lfassb0109-01", "count": 18, "active": 7, "migrated_active": 0, "migrated_inactive": 5, "do_not_migrate": 3, "unlinked": 3, "to_be_migrated": 1, "hypervisors": 6, "zones": [ "ams-private-mgt-zone-1" ] } ] }, { "iad_private": [ { "subnet": "10.26.52.0/22", "name": "10_26_52_0_22_vlan215", "subnet_id": "60a0bfa8-c284-4082-8fc5-cd447aac2eae", "network_zone": "a2prd_iad_private_006_lfassa0610-01", "count": 249, "active": 170, "migrated_active": 0, "migrated_inactive": 37, "do_not_migrate": 54, "unlinked": 18, "to_be_migrated": 98, "hypervisors": 89, "zones": [ "iad-private-prd-zone-2" ] }, { "subnet": "10.26.40.0/22", "name": "10_26_40_0_22_vlan212", "subnet_id": "07434b4e-f387-415b-9507-c9444fc16899", "network_zone": "a2prd_iad_private_005_lfassa0406-01", "count": 248, "active": 159, "migrated_active": 0, "migrated_inactive": 45, "do_not_migrate": 41, "unlinked": 19, "to_be_migrated": 99, "hypervisors": 87, "zones": [ "iad-private-prd-zone-1" ] }, { "subnet": "10.26.56.0/22", "name": "10_26_56_0_22_vlan216", "subnet_id": "8391e720-73d9-4b3a-8b40-f3b5ec4c8b47", "network_zone": "a2prd_iad_private_008_lfassa0507-01", "count": 210, "active": 154, "migrated_active": 0, "migrated_inactive": 26, "do_not_migrate": 54, "unlinked": 16, "to_be_migrated": 84, "hypervisors": 88, "zones": [ "iad-private-prd-zone-3" ] }, { "subnet": "10.38.10.0/23", "name": "10_38_10_0_23_vlan100", "subnet_id": "3566abd5-6391-4267-bd84-bb8d86e3acab", "network_zone": "a2cor_iad_private_009_assa0616_01", "count": 79, "active": 61, "migrated_active": 0, "migrated_inactive": 3, "do_not_migrate": 21, "unlinked": 34, "to_be_migrated": 6, "hypervisors": 18, "zones": [ "iad-private-cor-zone-1", "iad-private-cor-zone-2" ] }, { "subnet": "10.27.104.0/22", "name": "10_27_104_0_22_vlan15", "subnet_id": "f3630aeb-1e84-419b-96a2-035dcc0b58c9", "network_zone": "a2mgt_iad_private_007_lfassa0510-01", "count": 30, "active": 18, "migrated_active": 0, "migrated_inactive": 11, "do_not_migrate": 4, "unlinked": 4, "to_be_migrated": 10, "hypervisors": 12, "zones": [ "iad-private-mgt-zone-2" ] }, { "subnet": "10.27.74.192/26", "name": "10_27_74_192_26_vlan10", "subnet_id": "c1243f52-adbc-4aad-b835-cc3927161c9f", "network_zone": "a2mgt_iad_private_004_lfassa0210-01", "count": 30, "active": 29, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 29, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 3, "zones": [ "iad-private-mgt-zone-1" ] }, { "subnet": "10.26.14.0/23", "name": "10_26_14_0_23_vlan204", "subnet_id": "b3532a15-4a5c-4da3-b914-dd2404759c4d", "network_zone": "a2prd_iad_private_003_lfassa0412-01", "count": 27, "active": 21, "migrated_active": 0, "migrated_inactive": 5, "do_not_migrate": 7, "unlinked": 3, "to_be_migrated": 11, "hypervisors": 8, "zones": [ "iad-private-prd-zone-3" ] }, { "subnet": "10.38.32.0/22", "name": "10_38_32_0_22_vlan101", "subnet_id": "ff1ccd6a-03bf-4972-b278-b5203bee91c8", "network_zone": "a2cor_iad_private_011_assa0907_01", "count": 27, "active": 21, "migrated_active": 0, "migrated_inactive": 2, "do_not_migrate": 8, "unlinked": 9, "to_be_migrated": 4, "hypervisors": 12, "zones": [ "iad-private-cor-zone-3" ] }, { "subnet": "10.28.76.0/22", "name": "10_28_76_0_22_vlan18", "subnet_id": "2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0", "network_zone": "a2mgt_iad_private_013_assa0913_01_vlan18", "count": 19, "active": 7, "migrated_active": 0, "migrated_inactive": 12, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 6, "hypervisors": 7, "zones": [ "iad-private-mgt-zone-3" ] }, { "subnet": "10.26.10.0/23", "name": "10_26_10_0_23_vlan211", "subnet_id": "127ddaed-ec36-46d4-9b49-fb9a3dc870c9", "network_zone": "a2prd_iad_private_002_lfassa0410-01", "count": 18, "active": 13, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 6, "unlinked": 1, "to_be_migrated": 6, "hypervisors": 4, "zones": [ "iad-private-prd-zone-2" ] }, { "subnet": "10.28.68.0/22", "name": "10_28_68_0_22_vlan17", "subnet_id": "e7ea5380-40c0-4709-a07f-c457eed8e86b", "network_zone": "a2mgt_iad_private_012_013_dssa0908_01_vlan17", "count": 17, "active": 10, "migrated_active": 0, "migrated_inactive": 7, "do_not_migrate": 2, "unlinked": 1, "to_be_migrated": 7, "hypervisors": 9, "zones": [ "iad-private-mgt-zone-1", "iad-private-mgt-zone-3" ] }, { "subnet": "10.28.66.0/23", "name": "10_28_66_0_23_vlan16", "subnet_id": "d449d70c-9c68-4b03-95a9-2f76300aa0da", "network_zone": "a2mgt_iad_private_012_assa0908_01_vlan16", "count": 12, "active": 5, "migrated_active": 0, "migrated_inactive": 7, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 4, "hypervisors": 8, "zones": [ "iad-private-mgt-zone-1" ] }, { "subnet": "10.26.2.0/23", "name": "10_26_2_0_23_vlan200", "subnet_id": "0450fe19-5e7d-493e-9314-7a2a4136e7ac", "network_zone": "a2prd_iad_private_001_lfassa0208-01", "count": 7, "active": 6, "migrated_active": 0, "migrated_inactive": 1, "do_not_migrate": 4, "unlinked": 0, "to_be_migrated": 2, "hypervisors": 4, "zones": [ "iad-private-prd-zone-1" ] }, { "subnet": "198.71.249.0/25", "name": "198_71_249_0_25_lbaas", "subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8", "network_zone": "lbaas-iad-private-prd-public", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] }, { "subnet": "10.26.72.128/25", "name": "10_26_72_128_25_lbaas", "subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60", "network_zone": "lbaas-iad-private-prd-private", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] } ] }, { "phx_private": [ { "subnet": "10.32.56.0/22", "name": "10_32_56_0_22_vlan215", "subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a", "network_zone": "p3prd_phx_private_015_lfassi1018_01", "count": 438, "active": 288, "migrated_active": 7, "migrated_inactive": 110, "do_not_migrate": 180, "unlinked": 27, "to_be_migrated": 81, "hypervisors": 48, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.36.156.0/22", "name": "10_36_156_0_22_vlan233", "subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025", "network_zone": "p3prd_phx_private_lfassi0504_01_vlan233", "count": 436, "active": 277, "migrated_active": 0, "migrated_inactive": 103, "do_not_migrate": 146, "unlinked": 17, "to_be_migrated": 114, "hypervisors": 48, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.64.0/22", "name": "10_32_64_0_22_vlan217", "subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24", "network_zone": "p3prd_phx_private_012_lfassi0901_01", "count": 430, "active": 252, "migrated_active": 1, "migrated_inactive": 121, "do_not_migrate": 153, "unlinked": 15, "to_be_migrated": 84, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.60.0/22", "name": "10_32_60_0_22_vlan216", "subnet_id": "805544d0-b634-4367-815c-75588f5e46a2", "network_zone": "p3prd_phx_private_013_lfassi1116_01", "count": 422, "active": 254, "migrated_active": 1, "migrated_inactive": 111, "do_not_migrate": 135, "unlinked": 26, "to_be_migrated": 93, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.52.0/22", "name": "10_32_52_0_22_vlan214", "subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198", "network_zone": "p3prd_phx_private_014_lfassi1001_01", "count": 411, "active": 257, "migrated_active": 1, "migrated_inactive": 113, "do_not_migrate": 142, "unlinked": 21, "to_be_migrated": 94, "hypervisors": 48, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.39.128.0/22", "name": "10_39_128_0_22_vlan127", "subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc", "network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127", "count": 288, "active": 162, "migrated_active": 9, "migrated_inactive": 99, "do_not_migrate": 63, "unlinked": 32, "to_be_migrated": 67, "hypervisors": 66, "zones": [ "phx-private-cor-zone-2" ] }, { "subnet": "10.33.176.0/22", "name": "10_33_176_0_22_vlan118", "subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f", "network_zone": "p3cor_phx_private_018_lfassi0904_01", "count": 285, "active": 151, "migrated_active": 9, "migrated_inactive": 85, "do_not_migrate": 27, "unlinked": 28, "to_be_migrated": 96, "hypervisors": 45, "zones": [ "phx-private-cor-zone-3" ] }, { "subnet": "10.37.88.0/22", "name": "10_37_88_0_22_vlan243", "subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243", "count": 244, "active": 150, "migrated_active": 0, "migrated_inactive": 65, "do_not_migrate": 78, "unlinked": 16, "to_be_migrated": 56, "hypervisors": 72, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.100.0/22", "name": "10_37_100_0_22_vlan248", "subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248", "count": 225, "active": 139, "migrated_active": 1, "migrated_inactive": 63, "do_not_migrate": 82, "unlinked": 19, "to_be_migrated": 38, "hypervisors": 67, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.76.0/22", "name": "10_37_76_0_22_vlan238", "subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4", "network_zone": "p3prd_phx_private_lfassi0505_01_vlan238", "count": 219, "active": 130, "migrated_active": 0, "migrated_inactive": 66, "do_not_migrate": 71, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.96.0/22", "name": "10_37_96_0_22_vlan247", "subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9", "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247", "count": 218, "active": 145, "migrated_active": 1, "migrated_inactive": 56, "do_not_migrate": 72, "unlinked": 18, "to_be_migrated": 55, "hypervisors": 69, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.116.0/22", "name": "10_32_116_0_22_vlan245", "subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245", "count": 218, "active": 129, "migrated_active": 1, "migrated_inactive": 61, "do_not_migrate": 68, "unlinked": 13, "to_be_migrated": 48, "hypervisors": 67, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.36.184.0/22", "name": "10_36_184_0_22_vlan237", "subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f", "network_zone": "p3prd_phx_private_lfassi0505_01_vlan237", "count": 214, "active": 133, "migrated_active": 1, "migrated_inactive": 59, "do_not_migrate": 54, "unlinked": 12, "to_be_migrated": 67, "hypervisors": 44, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.37.116.0/22", "name": "10_37_116_0_22_vlan252", "subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252", "count": 211, "active": 125, "migrated_active": 3, "migrated_inactive": 60, "do_not_migrate": 73, "unlinked": 12, "to_be_migrated": 40, "hypervisors": 67, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.33.168.0/22", "name": "10_33_168_0_22_vlan116", "subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277", "network_zone": "p3cor_phx_private_017_lfassi0918_01", "count": 206, "active": 124, "migrated_active": 8, "migrated_inactive": 60, "do_not_migrate": 20, "unlinked": 33, "to_be_migrated": 71, "hypervisors": 44, "zones": [ "phx-private-cor-zone-1" ] }, { "subnet": "10.36.188.0/22", "name": "10_36_188_0_22_vlan240", "subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe", "network_zone": "p3prd_phx_private_lfassi0506_01_vlan240", "count": 204, "active": 125, "migrated_active": 0, "migrated_inactive": 57, "do_not_migrate": 51, "unlinked": 11, "to_be_migrated": 63, "hypervisors": 45, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.36.180.0/22", "name": "10_36_180_0_22_vlan236", "subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d", "network_zone": "p3prd_phx_private_lfassi0506_01_vlan236", "count": 204, "active": 125, "migrated_active": 1, "migrated_inactive": 49, "do_not_migrate": 69, "unlinked": 10, "to_be_migrated": 46, "hypervisors": 47, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.104.0/22", "name": "10_37_104_0_22_vlan250", "subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250", "count": 201, "active": 113, "migrated_active": 1, "migrated_inactive": 55, "do_not_migrate": 65, "unlinked": 17, "to_be_migrated": 31, "hypervisors": 70, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.112.0/22", "name": "10_37_112_0_22_vlan249", "subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146", "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249", "count": 200, "active": 134, "migrated_active": 3, "migrated_inactive": 51, "do_not_migrate": 72, "unlinked": 17, "to_be_migrated": 45, "hypervisors": 65, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.44.0/22", "name": "10_32_44_0_22_vlan211", "subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6", "network_zone": "p3prd_phx_private_010_lfassi0213-01", "count": 194, "active": 128, "migrated_active": 1, "migrated_inactive": 51, "do_not_migrate": 89, "unlinked": 5, "to_be_migrated": 34, "hypervisors": 42, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.37.92.0/22", "name": "10_37_92_0_22_vlan244", "subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244", "count": 190, "active": 118, "migrated_active": 1, "migrated_inactive": 47, "do_not_migrate": 59, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 65, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.47.4.0/22", "name": "10_47_4_0_22_vlan211", "subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13", "network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211", "count": 183, "active": 114, "migrated_active": 1, "migrated_inactive": 54, "do_not_migrate": 51, "unlinked": 17, "to_be_migrated": 46, "hypervisors": 48, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.37.108.0/22", "name": "10_37_108_0_22_vlan251", "subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4", "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251", "count": 177, "active": 108, "migrated_active": 0, "migrated_inactive": 47, "do_not_migrate": 51, "unlinked": 13, "to_be_migrated": 44, "hypervisors": 65, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.33.104.0/22", "name": "10_33_104_0_22_vlan4", "subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975", "network_zone": "p3mgt_phx_private_019_assi0902_01", "count": 143, "active": 77, "migrated_active": 0, "migrated_inactive": 51, "do_not_migrate": 8, "unlinked": 19, "to_be_migrated": 50, "hypervisors": 24, "zones": [ "phx-private-mgt-zone-2" ] }, { "subnet": "10.33.108.0/22", "name": "10_33_108_0_22_vlan5", "subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e", "network_zone": "p3mgt_phx_private_020_assi0616_01", "count": 140, "active": 78, "migrated_active": 0, "migrated_inactive": 49, "do_not_migrate": 10, "unlinked": 15, "to_be_migrated": 53, "hypervisors": 23, "zones": [ "phx-private-mgt-zone-3" ] }, { "subnet": "10.33.100.0/22", "name": "10_33_100_0_22_vlan3", "subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948", "network_zone": "p3mgt_phx_private_016_assi0917_01", "count": 136, "active": 71, "migrated_active": 0, "migrated_inactive": 49, "do_not_migrate": 12, "unlinked": 10, "to_be_migrated": 49, "hypervisors": 23, "zones": [ "phx-private-mgt-zone-1" ] }, { "subnet": "10.47.0.0/22", "name": "10_47_0_0_22_vlan203", "subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a", "network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203", "count": 127, "active": 90, "migrated_active": 4, "migrated_inactive": 29, "do_not_migrate": 59, "unlinked": 8, "to_be_migrated": 23, "hypervisors": 25, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.32.40.0/22", "name": "10_32_40_0_22_vlan210", "subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54", "network_zone": "p3prd_phx_private_009_lfassi0207-01", "count": 121, "active": 81, "migrated_active": 1, "migrated_inactive": 33, "do_not_migrate": 38, "unlinked": 6, "to_be_migrated": 37, "hypervisors": 44, "zones": [ "phx-private-prd-zone-2" ] }, { "subnet": "10.33.132.0/22", "name": "10_33_132_0_22_vlan101", "subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d", "network_zone": "p3cor_phx_private_011_lfassi0212-01", "count": 100, "active": 57, "migrated_active": 3, "migrated_inactive": 25, "do_not_migrate": 16, "unlinked": 18, "to_be_migrated": 23, "hypervisors": 41, "zones": [ "phx-private-cor-zone-2" ] }, { "subnet": "10.47.8.0/22", "name": "10_47_8_0_22_vlan212", "subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196", "network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212", "count": 60, "active": 44, "migrated_active": 0, "migrated_inactive": 14, "do_not_migrate": 25, "unlinked": 3, "to_be_migrated": 16, "hypervisors": 33, "zones": [ "phx-private-prd-zone-3" ] }, { "subnet": "10.32.10.0/23", "name": "10_32_10_0_23_vlan202", "subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da", "network_zone": "p3prd_phx_private_006_lfassi0116_01", "count": 56, "active": 38, "migrated_active": 1, "migrated_inactive": 12, "do_not_migrate": 28, "unlinked": 1, "to_be_migrated": 9, "hypervisors": 25, "zones": [ "phx-private-prd-zone-1" ] }, { "subnet": "10.33.130.0/23", "name": "10_33_130_0_23_vlan100", "subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b", "network_zone": "p3cor_phx_private_007_lfassi0118_01", "count": 29, "active": 11, "migrated_active": 0, "migrated_inactive": 12, "do_not_migrate": 2, "unlinked": 5, "to_be_migrated": 4, "hypervisors": 13, "zones": [ "phx-private-cor-zone-1" ] }, { "subnet": "10.33.82.0/23", "name": "10_33_82_0_23_vlan2", "subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d", "network_zone": "p3mgt_phx_private_008_assi0101_01", "count": 20, "active": 14, "migrated_active": 0, "migrated_inactive": 4, "do_not_migrate": 3, "unlinked": 1, "to_be_migrated": 10, "hypervisors": 8, "zones": [ "phx-private-mgt-zone-1" ] }, { "subnet": "208.109.192.128/25", "name": "208_109_192_128_25_lbaas", "subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd", "network_zone": "lbaas-phx-private-prd-public", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] }, { "subnet": "10.32.136.128/25", "name": "10_32_136_128_25_lbaas", "subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade", "network_zone": "lbaas-phx-private-prd-private", "count": 0, "active": 0, "migrated_active": 0, "migrated_inactive": 0, "do_not_migrate": 0, "unlinked": 0, "to_be_migrated": 0, "hypervisors": 0, "zones": [] } ] }, { "sin_private": [ { "subnet": "10.30.144.0/22", "name": "10_30_144_0_22_vlan3", "subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2", "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3", "count": 22, "active": 10, "migrated_active": 0, "migrated_inactive": 11, "do_not_migrate": 3, "unlinked": 3, "to_be_migrated": 4, "hypervisors": 10, "zones": [ "sin-private-mgt-zone-3", "sin-private-mgt-zone-2" ] }, { "subnet": "10.30.140.0/22", "name": "10_30_140_0_22_vlan2", "subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44", "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2", "count": 11, "active": 3, "migrated_active": 0, "migrated_inactive": 6, "do_not_migrate": 1, "unlinked": 0, "to_be_migrated": 2, "hypervisors": 4, "zones": [ "sin-private-mgt-zone-1" ] } ] } ] }
+{
+  "2023-04-03": [
+    {
+      "ams_private": [
+        {
+          "subnet": "10.36.20.0/22",
+          "name": "10_36_20_0_22_vlan200",
+          "subnet_id": "a4432946-fe51-44ab-a076-a9e254c85bf0",
+          "network_zone": "n3prd_ams_private_002_003_dssb0112-01",
+          "count": 170,
+          "active": 95,
+          "migrated_active": 0,
+          "migrated_inactive": 65,
+          "do_not_migrate": 12,
+          "unlinked": 6,
+          "to_be_migrated": 77,
+          "hypervisors": 45,
+          "zones": [
+            "ams-private-prd-zone-1",
+            "ams-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.36.28.0/22",
+          "name": "10_36_28_0_22_vlan201",
+          "subnet_id": "f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
+          "network_zone": "n3prd_ams_private_004_assb0404_01",
+          "count": 71,
+          "active": 44,
+          "migrated_active": 1,
+          "migrated_inactive": 26,
+          "do_not_migrate": 6,
+          "unlinked": 3,
+          "to_be_migrated": 35,
+          "hypervisors": 24,
+          "zones": [
+            "ams-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.30.8.0/22",
+          "name": "10_30_8_0_22_vlan11",
+          "subnet_id": "17597ea9-b562-486f-882f-938440538afb",
+          "network_zone": "n3mgt_ams_private_005_006_007_assb0421_01",
+          "count": 32,
+          "active": 12,
+          "migrated_active": 0,
+          "migrated_inactive": 19,
+          "do_not_migrate": 4,
+          "unlinked": 4,
+          "to_be_migrated": 4,
+          "hypervisors": 16,
+          "zones": [
+            "ams-private-mgt-zone-1",
+            "ams-private-mgt-zone-3",
+            "ams-private-mgt-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.30.5.0/24",
+          "name": "10_30_5_0_24_vlan10",
+          "subnet_id": "5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
+          "network_zone": "n3mgt_ams_private_001_lfassb0109-01",
+          "count": 18,
+          "active": 7,
+          "migrated_active": 0,
+          "migrated_inactive": 5,
+          "do_not_migrate": 3,
+          "unlinked": 3,
+          "to_be_migrated": 1,
+          "hypervisors": 6,
+          "zones": [
+            "ams-private-mgt-zone-1"
+          ]
+        }
+      ]
+    },
+    {
+      "iad_private": [
+        {
+          "subnet": "10.26.52.0/22",
+          "name": "10_26_52_0_22_vlan215",
+          "subnet_id": "60a0bfa8-c284-4082-8fc5-cd447aac2eae",
+          "network_zone": "a2prd_iad_private_006_lfassa0610-01",
+          "count": 249,
+          "active": 170,
+          "migrated_active": 0,
+          "migrated_inactive": 37,
+          "do_not_migrate": 54,
+          "unlinked": 18,
+          "to_be_migrated": 98,
+          "hypervisors": 89,
+          "zones": [
+            "iad-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.26.40.0/22",
+          "name": "10_26_40_0_22_vlan212",
+          "subnet_id": "07434b4e-f387-415b-9507-c9444fc16899",
+          "network_zone": "a2prd_iad_private_005_lfassa0406-01",
+          "count": 248,
+          "active": 159,
+          "migrated_active": 0,
+          "migrated_inactive": 45,
+          "do_not_migrate": 41,
+          "unlinked": 19,
+          "to_be_migrated": 99,
+          "hypervisors": 87,
+          "zones": [
+            "iad-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.26.56.0/22",
+          "name": "10_26_56_0_22_vlan216",
+          "subnet_id": "8391e720-73d9-4b3a-8b40-f3b5ec4c8b47",
+          "network_zone": "a2prd_iad_private_008_lfassa0507-01",
+          "count": 210,
+          "active": 154,
+          "migrated_active": 0,
+          "migrated_inactive": 26,
+          "do_not_migrate": 54,
+          "unlinked": 16,
+          "to_be_migrated": 84,
+          "hypervisors": 88,
+          "zones": [
+            "iad-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.38.10.0/23",
+          "name": "10_38_10_0_23_vlan100",
+          "subnet_id": "3566abd5-6391-4267-bd84-bb8d86e3acab",
+          "network_zone": "a2cor_iad_private_009_assa0616_01",
+          "count": 79,
+          "active": 61,
+          "migrated_active": 0,
+          "migrated_inactive": 3,
+          "do_not_migrate": 21,
+          "unlinked": 34,
+          "to_be_migrated": 6,
+          "hypervisors": 18,
+          "zones": [
+            "iad-private-cor-zone-1",
+            "iad-private-cor-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.27.104.0/22",
+          "name": "10_27_104_0_22_vlan15",
+          "subnet_id": "f3630aeb-1e84-419b-96a2-035dcc0b58c9",
+          "network_zone": "a2mgt_iad_private_007_lfassa0510-01",
+          "count": 30,
+          "active": 18,
+          "migrated_active": 0,
+          "migrated_inactive": 11,
+          "do_not_migrate": 4,
+          "unlinked": 4,
+          "to_be_migrated": 10,
+          "hypervisors": 12,
+          "zones": [
+            "iad-private-mgt-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.27.74.192/26",
+          "name": "10_27_74_192_26_vlan10",
+          "subnet_id": "c1243f52-adbc-4aad-b835-cc3927161c9f",
+          "network_zone": "a2mgt_iad_private_004_lfassa0210-01",
+          "count": 30,
+          "active": 29,
+          "migrated_active": 0,
+          "migrated_inactive": 1,
+          "do_not_migrate": 29,
+          "unlinked": 0,
+          "to_be_migrated": 0,
+          "hypervisors": 3,
+          "zones": [
+            "iad-private-mgt-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.26.14.0/23",
+          "name": "10_26_14_0_23_vlan204",
+          "subnet_id": "b3532a15-4a5c-4da3-b914-dd2404759c4d",
+          "network_zone": "a2prd_iad_private_003_lfassa0412-01",
+          "count": 27,
+          "active": 21,
+          "migrated_active": 0,
+          "migrated_inactive": 5,
+          "do_not_migrate": 7,
+          "unlinked": 3,
+          "to_be_migrated": 11,
+          "hypervisors": 8,
+          "zones": [
+            "iad-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.38.32.0/22",
+          "name": "10_38_32_0_22_vlan101",
+          "subnet_id": "ff1ccd6a-03bf-4972-b278-b5203bee91c8",
+          "network_zone": "a2cor_iad_private_011_assa0907_01",
+          "count": 27,
+          "active": 21,
+          "migrated_active": 0,
+          "migrated_inactive": 2,
+          "do_not_migrate": 8,
+          "unlinked": 9,
+          "to_be_migrated": 4,
+          "hypervisors": 12,
+          "zones": [
+            "iad-private-cor-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.28.76.0/22",
+          "name": "10_28_76_0_22_vlan18",
+          "subnet_id": "2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0",
+          "network_zone": "a2mgt_iad_private_013_assa0913_01_vlan18",
+          "count": 19,
+          "active": 7,
+          "migrated_active": 0,
+          "migrated_inactive": 12,
+          "do_not_migrate": 1,
+          "unlinked": 0,
+          "to_be_migrated": 6,
+          "hypervisors": 7,
+          "zones": [
+            "iad-private-mgt-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.26.10.0/23",
+          "name": "10_26_10_0_23_vlan211",
+          "subnet_id": "127ddaed-ec36-46d4-9b49-fb9a3dc870c9",
+          "network_zone": "a2prd_iad_private_002_lfassa0410-01",
+          "count": 18,
+          "active": 13,
+          "migrated_active": 0,
+          "migrated_inactive": 1,
+          "do_not_migrate": 6,
+          "unlinked": 1,
+          "to_be_migrated": 6,
+          "hypervisors": 4,
+          "zones": [
+            "iad-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.28.68.0/22",
+          "name": "10_28_68_0_22_vlan17",
+          "subnet_id": "e7ea5380-40c0-4709-a07f-c457eed8e86b",
+          "network_zone": "a2mgt_iad_private_012_013_dssa0908_01_vlan17",
+          "count": 17,
+          "active": 10,
+          "migrated_active": 0,
+          "migrated_inactive": 7,
+          "do_not_migrate": 2,
+          "unlinked": 1,
+          "to_be_migrated": 7,
+          "hypervisors": 9,
+          "zones": [
+            "iad-private-mgt-zone-1",
+            "iad-private-mgt-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.28.66.0/23",
+          "name": "10_28_66_0_23_vlan16",
+          "subnet_id": "d449d70c-9c68-4b03-95a9-2f76300aa0da",
+          "network_zone": "a2mgt_iad_private_012_assa0908_01_vlan16",
+          "count": 12,
+          "active": 5,
+          "migrated_active": 0,
+          "migrated_inactive": 7,
+          "do_not_migrate": 1,
+          "unlinked": 0,
+          "to_be_migrated": 4,
+          "hypervisors": 8,
+          "zones": [
+            "iad-private-mgt-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.26.2.0/23",
+          "name": "10_26_2_0_23_vlan200",
+          "subnet_id": "0450fe19-5e7d-493e-9314-7a2a4136e7ac",
+          "network_zone": "a2prd_iad_private_001_lfassa0208-01",
+          "count": 7,
+          "active": 6,
+          "migrated_active": 0,
+          "migrated_inactive": 1,
+          "do_not_migrate": 4,
+          "unlinked": 0,
+          "to_be_migrated": 2,
+          "hypervisors": 4,
+          "zones": [
+            "iad-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "198.71.249.0/25",
+          "name": "198_71_249_0_25_lbaas",
+          "subnet_id": "27b32063-bc1e-4927-b512-f35c0cda95d8",
+          "network_zone": "lbaas-iad-private-prd-public",
+          "count": 0,
+          "active": 0,
+          "migrated_active": 0,
+          "migrated_inactive": 0,
+          "do_not_migrate": 0,
+          "unlinked": 0,
+          "to_be_migrated": 0,
+          "hypervisors": 0,
+          "zones": []
+        },
+        {
+          "subnet": "10.26.72.128/25",
+          "name": "10_26_72_128_25_lbaas",
+          "subnet_id": "637d18ec-2f39-4651-88b1-e0c37554de60",
+          "network_zone": "lbaas-iad-private-prd-private",
+          "count": 0,
+          "active": 0,
+          "migrated_active": 0,
+          "migrated_inactive": 0,
+          "do_not_migrate": 0,
+          "unlinked": 0,
+          "to_be_migrated": 0,
+          "hypervisors": 0,
+          "zones": []
+        }
+      ]
+    },
+    {
+      "phx_private": [
+        {
+          "subnet": "10.32.56.0/22",
+          "name": "10_32_56_0_22_vlan215",
+          "subnet_id": "333391cc-95e3-4d9f-ad57-4d69e6d3776a",
+          "network_zone": "p3prd_phx_private_015_lfassi1018_01",
+          "count": 438,
+          "active": 288,
+          "migrated_active": 7,
+          "migrated_inactive": 110,
+          "do_not_migrate": 180,
+          "unlinked": 27,
+          "to_be_migrated": 81,
+          "hypervisors": 48,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.36.156.0/22",
+          "name": "10_36_156_0_22_vlan233",
+          "subnet_id": "672ff2cf-e86a-45eb-a558-68ca09be1025",
+          "network_zone": "p3prd_phx_private_lfassi0504_01_vlan233",
+          "count": 436,
+          "active": 277,
+          "migrated_active": 0,
+          "migrated_inactive": 103,
+          "do_not_migrate": 146,
+          "unlinked": 17,
+          "to_be_migrated": 114,
+          "hypervisors": 48,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.32.64.0/22",
+          "name": "10_32_64_0_22_vlan217",
+          "subnet_id": "28c0d04c-355e-4477-bf01-c66ea9fe0d24",
+          "network_zone": "p3prd_phx_private_012_lfassi0901_01",
+          "count": 430,
+          "active": 252,
+          "migrated_active": 1,
+          "migrated_inactive": 121,
+          "do_not_migrate": 153,
+          "unlinked": 15,
+          "to_be_migrated": 84,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.32.60.0/22",
+          "name": "10_32_60_0_22_vlan216",
+          "subnet_id": "805544d0-b634-4367-815c-75588f5e46a2",
+          "network_zone": "p3prd_phx_private_013_lfassi1116_01",
+          "count": 422,
+          "active": 254,
+          "migrated_active": 1,
+          "migrated_inactive": 111,
+          "do_not_migrate": 135,
+          "unlinked": 26,
+          "to_be_migrated": 93,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.32.52.0/22",
+          "name": "10_32_52_0_22_vlan214",
+          "subnet_id": "b2f6adf3-9008-4483-8c18-35388dc17198",
+          "network_zone": "p3prd_phx_private_014_lfassi1001_01",
+          "count": 411,
+          "active": 257,
+          "migrated_active": 1,
+          "migrated_inactive": 113,
+          "do_not_migrate": 142,
+          "unlinked": 21,
+          "to_be_migrated": 94,
+          "hypervisors": 48,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.39.128.0/22",
+          "name": "10_39_128_0_22_vlan127",
+          "subnet_id": "1041234a-5577-4734-a57e-85bbcbf36bdc",
+          "network_zone": "p3cor_phx_private_027_lfassj0204_01_vlan127",
+          "count": 288,
+          "active": 162,
+          "migrated_active": 9,
+          "migrated_inactive": 99,
+          "do_not_migrate": 63,
+          "unlinked": 32,
+          "to_be_migrated": 67,
+          "hypervisors": 66,
+          "zones": [
+            "phx-private-cor-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.33.176.0/22",
+          "name": "10_33_176_0_22_vlan118",
+          "subnet_id": "a13ddcdf-06ff-4965-af27-6ed328cca26f",
+          "network_zone": "p3cor_phx_private_018_lfassi0904_01",
+          "count": 285,
+          "active": 151,
+          "migrated_active": 9,
+          "migrated_inactive": 85,
+          "do_not_migrate": 27,
+          "unlinked": 28,
+          "to_be_migrated": 96,
+          "hypervisors": 45,
+          "zones": [
+            "phx-private-cor-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.37.88.0/22",
+          "name": "10_37_88_0_22_vlan243",
+          "subnet_id": "8e7eb837-2646-4344-81c3-ea62fa3f1207",
+          "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan243",
+          "count": 244,
+          "active": 150,
+          "migrated_active": 0,
+          "migrated_inactive": 65,
+          "do_not_migrate": 78,
+          "unlinked": 16,
+          "to_be_migrated": 56,
+          "hypervisors": 72,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.37.100.0/22",
+          "name": "10_37_100_0_22_vlan248",
+          "subnet_id": "1899e595-7be3-40b8-9e44-4bcee91974a2",
+          "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan248",
+          "count": 225,
+          "active": 139,
+          "migrated_active": 1,
+          "migrated_inactive": 63,
+          "do_not_migrate": 82,
+          "unlinked": 19,
+          "to_be_migrated": 38,
+          "hypervisors": 67,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.37.76.0/22",
+          "name": "10_37_76_0_22_vlan238",
+          "subnet_id": "4fb32db0-0da1-435b-96c6-b23ce78b37e4",
+          "network_zone": "p3prd_phx_private_lfassi0505_01_vlan238",
+          "count": 219,
+          "active": 130,
+          "migrated_active": 0,
+          "migrated_inactive": 66,
+          "do_not_migrate": 71,
+          "unlinked": 10,
+          "to_be_migrated": 49,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.37.96.0/22",
+          "name": "10_37_96_0_22_vlan247",
+          "subnet_id": "bb20b829-a408-4be8-ada9-dc5f650d7ce9",
+          "network_zone": "p3prd_phx_private_024_lfassj0201_01_vlan247",
+          "count": 218,
+          "active": 145,
+          "migrated_active": 1,
+          "migrated_inactive": 56,
+          "do_not_migrate": 72,
+          "unlinked": 18,
+          "to_be_migrated": 55,
+          "hypervisors": 69,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.32.116.0/22",
+          "name": "10_32_116_0_22_vlan245",
+          "subnet_id": "9f3d2bf3-e80a-4d9a-aee3-54186bc8958c",
+          "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan245",
+          "count": 218,
+          "active": 129,
+          "migrated_active": 1,
+          "migrated_inactive": 61,
+          "do_not_migrate": 68,
+          "unlinked": 13,
+          "to_be_migrated": 48,
+          "hypervisors": 67,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.36.184.0/22",
+          "name": "10_36_184_0_22_vlan237",
+          "subnet_id": "83c5719e-ee67-4247-a34a-b6f13dae020f",
+          "network_zone": "p3prd_phx_private_lfassi0505_01_vlan237",
+          "count": 214,
+          "active": 133,
+          "migrated_active": 1,
+          "migrated_inactive": 59,
+          "do_not_migrate": 54,
+          "unlinked": 12,
+          "to_be_migrated": 67,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.37.116.0/22",
+          "name": "10_37_116_0_22_vlan252",
+          "subnet_id": "8eebdb98-61ba-4971-8113-4b1eb44c33ce",
+          "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan252",
+          "count": 211,
+          "active": 125,
+          "migrated_active": 3,
+          "migrated_inactive": 60,
+          "do_not_migrate": 73,
+          "unlinked": 12,
+          "to_be_migrated": 40,
+          "hypervisors": 67,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.33.168.0/22",
+          "name": "10_33_168_0_22_vlan116",
+          "subnet_id": "e546be6b-2a20-4295-b6f6-da151b08b277",
+          "network_zone": "p3cor_phx_private_017_lfassi0918_01",
+          "count": 206,
+          "active": 124,
+          "migrated_active": 8,
+          "migrated_inactive": 60,
+          "do_not_migrate": 20,
+          "unlinked": 33,
+          "to_be_migrated": 71,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-cor-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.36.188.0/22",
+          "name": "10_36_188_0_22_vlan240",
+          "subnet_id": "a99df4e4-7a8d-45bb-84bb-c6550273a8fe",
+          "network_zone": "p3prd_phx_private_lfassi0506_01_vlan240",
+          "count": 204,
+          "active": 125,
+          "migrated_active": 0,
+          "migrated_inactive": 57,
+          "do_not_migrate": 51,
+          "unlinked": 11,
+          "to_be_migrated": 63,
+          "hypervisors": 45,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.36.180.0/22",
+          "name": "10_36_180_0_22_vlan236",
+          "subnet_id": "cad513ca-d850-4824-be1d-5d79117cb93d",
+          "network_zone": "p3prd_phx_private_lfassi0506_01_vlan236",
+          "count": 204,
+          "active": 125,
+          "migrated_active": 1,
+          "migrated_inactive": 49,
+          "do_not_migrate": 69,
+          "unlinked": 10,
+          "to_be_migrated": 46,
+          "hypervisors": 47,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.37.104.0/22",
+          "name": "10_37_104_0_22_vlan250",
+          "subnet_id": "54814087-97fd-4e8e-b128-4c296d483f75",
+          "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan250",
+          "count": 201,
+          "active": 113,
+          "migrated_active": 1,
+          "migrated_inactive": 55,
+          "do_not_migrate": 65,
+          "unlinked": 17,
+          "to_be_migrated": 31,
+          "hypervisors": 70,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.37.112.0/22",
+          "name": "10_37_112_0_22_vlan249",
+          "subnet_id": "88036ff1-58fb-42fa-adfa-166667ea3146",
+          "network_zone": "p3prd_phx_private_026_lfassj0203_01_vlan249",
+          "count": 200,
+          "active": 134,
+          "migrated_active": 3,
+          "migrated_inactive": 51,
+          "do_not_migrate": 72,
+          "unlinked": 17,
+          "to_be_migrated": 45,
+          "hypervisors": 65,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.32.44.0/22",
+          "name": "10_32_44_0_22_vlan211",
+          "subnet_id": "04bcbf6a-ab68-42b1-9889-b06cd5d9cca6",
+          "network_zone": "p3prd_phx_private_010_lfassi0213-01",
+          "count": 194,
+          "active": 128,
+          "migrated_active": 1,
+          "migrated_inactive": 51,
+          "do_not_migrate": 89,
+          "unlinked": 5,
+          "to_be_migrated": 34,
+          "hypervisors": 42,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.37.92.0/22",
+          "name": "10_37_92_0_22_vlan244",
+          "subnet_id": "bdee44be-5668-4f91-a05b-0a5306af6418",
+          "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan244",
+          "count": 190,
+          "active": 118,
+          "migrated_active": 1,
+          "migrated_inactive": 47,
+          "do_not_migrate": 59,
+          "unlinked": 10,
+          "to_be_migrated": 49,
+          "hypervisors": 65,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.47.4.0/22",
+          "name": "10_47_4_0_22_vlan211",
+          "subnet_id": "4374de6c-e8d1-4b68-931c-c690cb9d8f13",
+          "network_zone": "p3prd_phx_private_009_lfassi0207-01_vlan211",
+          "count": 183,
+          "active": 114,
+          "migrated_active": 1,
+          "migrated_inactive": 54,
+          "do_not_migrate": 51,
+          "unlinked": 17,
+          "to_be_migrated": 46,
+          "hypervisors": 48,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.37.108.0/22",
+          "name": "10_37_108_0_22_vlan251",
+          "subnet_id": "a0c47f09-29be-4f9b-b6a7-827df27ae2b4",
+          "network_zone": "p3prd_phx_private_025_lfassj0202_01_vlan251",
+          "count": 177,
+          "active": 108,
+          "migrated_active": 0,
+          "migrated_inactive": 47,
+          "do_not_migrate": 51,
+          "unlinked": 13,
+          "to_be_migrated": 44,
+          "hypervisors": 65,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.33.104.0/22",
+          "name": "10_33_104_0_22_vlan4",
+          "subnet_id": "e25c9f41-dc79-4056-af5a-23b887b5b975",
+          "network_zone": "p3mgt_phx_private_019_assi0902_01",
+          "count": 143,
+          "active": 77,
+          "migrated_active": 0,
+          "migrated_inactive": 51,
+          "do_not_migrate": 8,
+          "unlinked": 19,
+          "to_be_migrated": 50,
+          "hypervisors": 24,
+          "zones": [
+            "phx-private-mgt-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.33.108.0/22",
+          "name": "10_33_108_0_22_vlan5",
+          "subnet_id": "27db9ef3-ac2e-4bc7-8f64-fa53186cf82e",
+          "network_zone": "p3mgt_phx_private_020_assi0616_01",
+          "count": 140,
+          "active": 78,
+          "migrated_active": 0,
+          "migrated_inactive": 49,
+          "do_not_migrate": 10,
+          "unlinked": 15,
+          "to_be_migrated": 53,
+          "hypervisors": 23,
+          "zones": [
+            "phx-private-mgt-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.33.100.0/22",
+          "name": "10_33_100_0_22_vlan3",
+          "subnet_id": "60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948",
+          "network_zone": "p3mgt_phx_private_016_assi0917_01",
+          "count": 136,
+          "active": 71,
+          "migrated_active": 0,
+          "migrated_inactive": 49,
+          "do_not_migrate": 12,
+          "unlinked": 10,
+          "to_be_migrated": 49,
+          "hypervisors": 23,
+          "zones": [
+            "phx-private-mgt-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.47.0.0/22",
+          "name": "10_47_0_0_22_vlan203",
+          "subnet_id": "cc85b96d-bc65-4d4f-8059-cda35889751a",
+          "network_zone": "p3prd_phx_private_006_lfassi0116_01_vlan203",
+          "count": 127,
+          "active": 90,
+          "migrated_active": 4,
+          "migrated_inactive": 29,
+          "do_not_migrate": 59,
+          "unlinked": 8,
+          "to_be_migrated": 23,
+          "hypervisors": 25,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.32.40.0/22",
+          "name": "10_32_40_0_22_vlan210",
+          "subnet_id": "93a019b8-4325-48c8-9dca-0b56b6726a54",
+          "network_zone": "p3prd_phx_private_009_lfassi0207-01",
+          "count": 121,
+          "active": 81,
+          "migrated_active": 1,
+          "migrated_inactive": 33,
+          "do_not_migrate": 38,
+          "unlinked": 6,
+          "to_be_migrated": 37,
+          "hypervisors": 44,
+          "zones": [
+            "phx-private-prd-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.33.132.0/22",
+          "name": "10_33_132_0_22_vlan101",
+          "subnet_id": "9c6de95b-a2fd-4f39-a906-a01c3646652d",
+          "network_zone": "p3cor_phx_private_011_lfassi0212-01",
+          "count": 100,
+          "active": 57,
+          "migrated_active": 3,
+          "migrated_inactive": 25,
+          "do_not_migrate": 16,
+          "unlinked": 18,
+          "to_be_migrated": 23,
+          "hypervisors": 41,
+          "zones": [
+            "phx-private-cor-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.47.8.0/22",
+          "name": "10_47_8_0_22_vlan212",
+          "subnet_id": "2abd36ab-e728-40e5-8e32-9a94c56f4196",
+          "network_zone": "p3prd_phx_private_010_lfassi0213-01_vlan212",
+          "count": 60,
+          "active": 44,
+          "migrated_active": 0,
+          "migrated_inactive": 14,
+          "do_not_migrate": 25,
+          "unlinked": 3,
+          "to_be_migrated": 16,
+          "hypervisors": 33,
+          "zones": [
+            "phx-private-prd-zone-3"
+          ]
+        },
+        {
+          "subnet": "10.32.10.0/23",
+          "name": "10_32_10_0_23_vlan202",
+          "subnet_id": "036d0571-e0dc-4b32-8e7a-15b8e6fe50da",
+          "network_zone": "p3prd_phx_private_006_lfassi0116_01",
+          "count": 56,
+          "active": 38,
+          "migrated_active": 1,
+          "migrated_inactive": 12,
+          "do_not_migrate": 28,
+          "unlinked": 1,
+          "to_be_migrated": 9,
+          "hypervisors": 25,
+          "zones": [
+            "phx-private-prd-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.33.130.0/23",
+          "name": "10_33_130_0_23_vlan100",
+          "subnet_id": "250f420b-646a-47ff-b050-69185ffb7d4b",
+          "network_zone": "p3cor_phx_private_007_lfassi0118_01",
+          "count": 29,
+          "active": 11,
+          "migrated_active": 0,
+          "migrated_inactive": 12,
+          "do_not_migrate": 2,
+          "unlinked": 5,
+          "to_be_migrated": 4,
+          "hypervisors": 13,
+          "zones": [
+            "phx-private-cor-zone-1"
+          ]
+        },
+        {
+          "subnet": "10.33.82.0/23",
+          "name": "10_33_82_0_23_vlan2",
+          "subnet_id": "3aab4905-6e15-4b43-b6cf-a2e947616c1d",
+          "network_zone": "p3mgt_phx_private_008_assi0101_01",
+          "count": 20,
+          "active": 14,
+          "migrated_active": 0,
+          "migrated_inactive": 4,
+          "do_not_migrate": 3,
+          "unlinked": 1,
+          "to_be_migrated": 10,
+          "hypervisors": 8,
+          "zones": [
+            "phx-private-mgt-zone-1"
+          ]
+        },
+        {
+          "subnet": "208.109.192.128/25",
+          "name": "208_109_192_128_25_lbaas",
+          "subnet_id": "9a80b70b-5cb1-4384-bc42-2dc049b285bd",
+          "network_zone": "lbaas-phx-private-prd-public",
+          "count": 0,
+          "active": 0,
+          "migrated_active": 0,
+          "migrated_inactive": 0,
+          "do_not_migrate": 0,
+          "unlinked": 0,
+          "to_be_migrated": 0,
+          "hypervisors": 0,
+          "zones": []
+        },
+        {
+          "subnet": "10.32.136.128/25",
+          "name": "10_32_136_128_25_lbaas",
+          "subnet_id": "2f302ea7-f175-4173-944c-65db9f2f3ade",
+          "network_zone": "lbaas-phx-private-prd-private",
+          "count": 0,
+          "active": 0,
+          "migrated_active": 0,
+          "migrated_inactive": 0,
+          "do_not_migrate": 0,
+          "unlinked": 0,
+          "to_be_migrated": 0,
+          "hypervisors": 0,
+          "zones": []
+        }
+      ]
+    },
+    {
+      "sin_private": [
+        {
+          "subnet": "10.30.144.0/22",
+          "name": "10_30_144_0_22_vlan3",
+          "subnet_id": "6fff150c-d537-443e-9a6a-81136f3912f2",
+          "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan3",
+          "count": 22,
+          "active": 10,
+          "migrated_active": 0,
+          "migrated_inactive": 11,
+          "do_not_migrate": 3,
+          "unlinked": 3,
+          "to_be_migrated": 4,
+          "hypervisors": 10,
+          "zones": [
+            "sin-private-mgt-zone-3",
+            "sin-private-mgt-zone-2"
+          ]
+        },
+        {
+          "subnet": "10.30.140.0/22",
+          "name": "10_30_140_0_22_vlan2",
+          "subnet_id": "bbf3fd5d-4d6f-4319-b175-8207dd9cae44",
+          "network_zone": "sg2mgt_sin_private_dssa0209_01_vlan2",
+          "count": 11,
+          "active": 3,
+          "migrated_active": 0,
+          "migrated_inactive": 6,
+          "do_not_migrate": 1,
+          "unlinked": 0,
+          "to_be_migrated": 2,
+          "hypervisors": 4,
+          "zones": [
+            "sin-private-mgt-zone-1"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
 ]
