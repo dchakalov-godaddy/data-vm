@@ -76,6 +76,72 @@
 			"sin_private": []
 		}
 	]
+},
+{
+	"2023-04-06": [
+		{
+			"ams_private": [
+				{
+					"name": "wpaas-dev",
+					"id": "105a2e0c27674c5a8f308139eff50515",
+					"owning_group": "Dev-WordPress Platform",
+					"set_dst_project": "b59da7fa466a48929114553b2f56e60b"
+				},
+				{
+					"name": "velia-jenkins-nodes",
+					"id": "71fde4229523479e914a66669380f44d",
+					"owning_group": "org-velianetinternetdienste",
+					"set_dst_project": "c581e9ca9e994f28a3247d5a0b1f1058"
+				}
+			]
+		},
+		{
+			"iad_private": [
+				{
+					"name": "sailpoint-prod-a2",
+					"id": "a80b1433d85e4d8e826b7ff6cd79cdc3",
+					"owning_group": "DEV-Self Service Engineering",
+					"set_dst_project": "dea9c39b404a4a3bb9e0379e4aee0079"
+				}
+			]
+		},
+		{
+			"phx_private": [
+				{
+					"name": "Internal-cpanelProv",
+					"id": "00199b018ee44b1bb5c399cad2d4325e",
+					"owning_group": "DEV-cPanel Platform",
+					"set_dst_project": "Cpanel Provisioning Api"
+				},
+				{
+					"name": "cpanel-testing",
+					"id": "561db3f8a9d2403e9561e9fa6d652031",
+					"owning_group": "DEV-cPanel Platform",
+					"set_dst_project": "Cpanel Provisioning Api"
+				},
+				{
+					"name": "perf-wpt-user-prod",
+					"id": "8f0fcd366cff437097ff6d2eb8376713",
+					"owning_group": "ENG-Performance Engineering",
+					"set_dst_project": "c8edd86815ee4dc6940cce808bd570e4\t"
+				},
+				{
+					"name": "cPanelHosting",
+					"id": "bb1b49acef3a483582660f93f11c2b03",
+					"owning_group": "DEV-cPanel Platform",
+					"set_dst_project": "Cpanel Provisioning Api"
+				},
+				{
+					"name": "perf-wpt-batch-prod",
+					"id": "fd4cf36733494421a847091f0e96dfe1",
+					"owning_group": "DEV-Rigor-Platform",
+					"set_dst_project": "b689c83fa8a14af8bbf17b888353d180\t"
+				}
+			]
+		},
+		{
+			"sin_private": []
+		}
+	]
 }
-
 ]
