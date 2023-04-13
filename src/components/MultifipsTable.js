@@ -6,7 +6,7 @@ export default function MultifipsTable({ data, type }) {
 
 	let cloudData = data[cloudName];
 
-	let theadData = ["name", "id", "owning_group", "fips", 'port_ips'];
+	let theadData = ["name", "id", "owning_group", "fips"];
 
 	return (
 		<div className="table-section">
