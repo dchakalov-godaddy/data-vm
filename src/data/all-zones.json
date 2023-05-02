@@ -2734,8 +2734,982 @@
 			]
 		}
 	]
-}
+},
 
-,
+{
+	"2023-04-28": [
+		{
+			"ams_private": [
+				{
+					"subnet": "10.36.20.0/22 - a4432946-fe51-44ab-a076-a9e254c85bf0",
+					"zones": [
+						{
+							"zone": "ams-private-prd-zone-1",
+							"count": 48,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 6,
+							"unlinked": 4,
+							"to_be_migrated": 38
+						},
+						{
+							"zone": "ams-private-prd-zone-2",
+							"count": 41,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 5,
+							"unlinked": 1,
+							"to_be_migrated": 35
+						}
+					]
+				},
+				{
+					"subnet": "10.30.5.0/24 - 5951609f-221c-4fc8-93fa-6aa6fbe53fd2",
+					"zones": [
+						{
+							"zone": "ams-private-mgt-zone-1",
+							"count": 4,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 0,
+							"to_be_migrated": 1
+						}
+					]
+				},
+				{
+					"subnet": "10.36.28.0/22 - f3072f33-0bad-4f2d-9ed4-769a5cde8aa6",
+					"zones": [
+						{
+							"zone": "ams-private-prd-zone-3",
+							"count": 40,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 6,
+							"unlinked": 2,
+							"to_be_migrated": 32
+						}
+					]
+				},
+				{
+					"subnet": "10.30.8.0/22 - 17597ea9-b562-486f-882f-938440538afb",
+					"zones": [
+						{
+							"zone": "ams-private-mgt-zone-1",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 1,
+							"to_be_migrated": 2
+						},
+						{
+							"zone": "ams-private-mgt-zone-3",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 2
+						},
+						{
+							"zone": "ams-private-mgt-zone-2",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 2,
+							"unlinked": 1,
+							"to_be_migrated": 0
+						}
+					]
+				}
+			]
+		},
+		{
+			"iad_private": [
+				{
+					"subnet": "10.26.72.128/25 - 637d18ec-2f39-4651-88b1-e0c37554de60",
+					"zones": []
+				},
+				{
+					"subnet": "198.71.249.0/25 - 27b32063-bc1e-4927-b512-f35c0cda95d8",
+					"zones": []
+				},
+				{
+					"subnet": "10.28.66.0/23 - d449d70c-9c68-4b03-95a9-2f76300aa0da",
+					"zones": [
+						{
+							"zone": "iad-private-mgt-zone-1",
+							"count": 2,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 1
+						}
+					]
+				},
+				{
+					"subnet": "10.38.32.0/22 - ff1ccd6a-03bf-4972-b278-b5203bee91c8",
+					"zones": [
+						{
+							"zone": "iad-private-cor-zone-3",
+							"count": 4,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 0,
+							"to_be_migrated": 4
+						}
+					]
+				},
+				{
+					"subnet": "10.38.10.0/23 - 3566abd5-6391-4267-bd84-bb8d86e3acab",
+					"zones": [
+						{
+							"zone": "iad-private-cor-zone-1",
+							"count": 6,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 2,
+							"unlinked": 0,
+							"to_be_migrated": 4
+						},
+						{
+							"zone": "iad-private-cor-zone-2",
+							"count": 4,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 3
+						}
+					]
+				},
+				{
+					"subnet": "10.26.52.0/22 - 60a0bfa8-c284-4082-8fc5-cd447aac2eae",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-2",
+							"count": 123,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 28,
+							"unlinked": 6,
+							"to_be_migrated": 89
+						}
+					]
+				},
+				{
+					"subnet": "10.26.40.0/22 - 07434b4e-f387-415b-9507-c9444fc16899",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-1",
+							"count": 117,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 24,
+							"unlinked": 2,
+							"to_be_migrated": 91
+						}
+					]
+				},
+				{
+					"subnet": "10.27.104.0/22 - f3630aeb-1e84-419b-96a2-035dcc0b58c9",
+					"zones": [
+						{
+							"zone": "iad-private-mgt-zone-2",
+							"count": 10,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 0,
+							"to_be_migrated": 7
+						}
+					]
+				},
+				{
+					"subnet": "10.27.74.192/26 - c1243f52-adbc-4aad-b835-cc3927161c9f",
+					"zones": [
+						{
+							"zone": "iad-private-mgt-zone-1",
+							"count": 29,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 29,
+							"unlinked": 0,
+							"to_be_migrated": 0
+						}
+					]
+				},
+				{
+					"subnet": "10.28.76.0/22 - 2ec819e9-c9aa-4933-b4ab-8f20a09aa6b0",
+					"zones": [
+						{
+							"zone": "iad-private-mgt-zone-3",
+							"count": 4,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 3
+						}
+					]
+				},
+				{
+					"subnet": "10.28.68.0/22 - e7ea5380-40c0-4709-a07f-c457eed8e86b",
+					"zones": [
+						{
+							"zone": "iad-private-mgt-zone-1",
+							"count": 9,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 2,
+							"unlinked": 0,
+							"to_be_migrated": 7
+						},
+						{
+							"zone": "iad-private-mgt-zone-3",
+							"count": 1,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 0,
+							"to_be_migrated": 1
+						}
+					]
+				},
+				{
+					"subnet": "10.26.56.0/22 - 8391e720-73d9-4b3a-8b40-f3b5ec4c8b47",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-3",
+							"count": 107,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 27,
+							"unlinked": 2,
+							"to_be_migrated": 78
+						}
+					]
+				},
+				{
+					"subnet": "10.26.14.0/23 - b3532a15-4a5c-4da3-b914-dd2404759c4d",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-3",
+							"count": 16,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 6,
+							"unlinked": 0,
+							"to_be_migrated": 10
+						}
+					]
+				},
+				{
+					"subnet": "10.26.2.0/23 - 0450fe19-5e7d-493e-9314-7a2a4136e7ac",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-1",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 2,
+							"unlinked": 0,
+							"to_be_migrated": 1
+						}
+					]
+				},
+				{
+					"subnet": "10.26.10.0/23 - 127ddaed-ec36-46d4-9b49-fb9a3dc870c9",
+					"zones": [
+						{
+							"zone": "iad-private-prd-zone-2",
+							"count": 13,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 6,
+							"unlinked": 1,
+							"to_be_migrated": 6
+						}
+					]
+				}
+			]
+		},
+		{
+			"phx_private": [
+				{
+					"subnet": "10.32.136.128/25 - 2f302ea7-f175-4173-944c-65db9f2f3ade",
+					"zones": []
+				},
+				{
+					"subnet": "208.109.192.128/25 - 9a80b70b-5cb1-4384-bc42-2dc049b285bd",
+					"zones": []
+				},
+				{
+					"subnet": "10.32.64.0/22 - 28c0d04c-355e-4477-bf01-c66ea9fe0d24",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 209,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 131,
+							"unlinked": 7,
+							"to_be_migrated": 71
+						}
+					]
+				},
+				{
+					"subnet": "10.33.168.0/22 - e546be6b-2a20-4295-b6f6-da151b08b277",
+					"zones": [
+						{
+							"zone": "phx-private-cor-zone-1",
+							"count": 83,
+							"migrated_active": 5,
+							"migrated_inactive": 0,
+							"do_not_migrate": 16,
+							"unlinked": 11,
+							"to_be_migrated": 56
+						}
+					]
+				},
+				{
+					"subnet": "10.33.132.0/22 - 9c6de95b-a2fd-4f39-a906-a01c3646652d",
+					"zones": [
+						{
+							"zone": "phx-private-cor-zone-2",
+							"count": 40,
+							"migrated_active": 2,
+							"migrated_inactive": 0,
+							"do_not_migrate": 18,
+							"unlinked": 6,
+							"to_be_migrated": 16
+						}
+					]
+				},
+				{
+					"subnet": "10.32.40.0/22 - 93a019b8-4325-48c8-9dca-0b56b6726a54",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 62,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 26,
+							"unlinked": 4,
+							"to_be_migrated": 32
+						}
+					]
+				},
+				{
+					"subnet": "10.37.112.0/22 - 88036ff1-58fb-42fa-adfa-166667ea3146",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 115,
+							"migrated_active": 2,
+							"migrated_inactive": 0,
+							"do_not_migrate": 67,
+							"unlinked": 9,
+							"to_be_migrated": 39
+						}
+					]
+				},
+				{
+					"subnet": "10.33.130.0/23 - 250f420b-646a-47ff-b050-69185ffb7d4b",
+					"zones": [
+						{
+							"zone": "phx-private-cor-zone-1",
+							"count": 9,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 4,
+							"unlinked": 3,
+							"to_be_migrated": 2
+						}
+					]
+				},
+				{
+					"subnet": "10.33.100.0/22 - 60b32dc9-2cbb-4a3c-a6b6-cbcd07dbd948",
+					"zones": [
+						{
+							"zone": "phx-private-mgt-zone-1",
+							"count": 54,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 10,
+							"unlinked": 2,
+							"to_be_migrated": 42
+						}
+					]
+				},
+				{
+					"subnet": "10.37.88.0/22 - 8e7eb837-2646-4344-81c3-ea62fa3f1207",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 132,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 72,
+							"unlinked": 7,
+							"to_be_migrated": 53
+						}
+					]
+				},
+				{
+					"subnet": "10.37.76.0/22 - 4fb32db0-0da1-435b-96c6-b23ce78b37e4",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 112,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 61,
+							"unlinked": 6,
+							"to_be_migrated": 45
+						}
+					]
+				},
+				{
+					"subnet": "10.32.56.0/22 - 333391cc-95e3-4d9f-ad57-4d69e6d3776a",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 231,
+							"migrated_active": 4,
+							"migrated_inactive": 0,
+							"do_not_migrate": 147,
+							"unlinked": 10,
+							"to_be_migrated": 74
+						}
+					]
+				},
+				{
+					"subnet": "10.33.176.0/22 - a13ddcdf-06ff-4965-af27-6ed328cca26f",
+					"zones": [
+						{
+							"zone": "phx-private-cor-zone-3",
+							"count": 105,
+							"migrated_active": 6,
+							"migrated_inactive": 0,
+							"do_not_migrate": 25,
+							"unlinked": 13,
+							"to_be_migrated": 67
+						}
+					]
+				},
+				{
+					"subnet": "10.37.92.0/22 - bdee44be-5668-4f91-a05b-0a5306af6418",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 96,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 47,
+							"unlinked": 1,
+							"to_be_migrated": 48
+						}
+					]
+				},
+				{
+					"subnet": "10.32.44.0/22 - 04bcbf6a-ab68-42b1-9889-b06cd5d9cca6",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 109,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 80,
+							"unlinked": 2,
+							"to_be_migrated": 27
+						}
+					]
+				},
+				{
+					"subnet": "10.47.4.0/22 - 4374de6c-e8d1-4b68-931c-c690cb9d8f13",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 99,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 46,
+							"unlinked": 9,
+							"to_be_migrated": 44
+						}
+					]
+				},
+				{
+					"subnet": "10.36.184.0/22 - 83c5719e-ee67-4247-a34a-b6f13dae020f",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 110,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 42,
+							"unlinked": 6,
+							"to_be_migrated": 62
+						}
+					]
+				},
+				{
+					"subnet": "10.47.8.0/22 - 2abd36ab-e728-40e5-8e32-9a94c56f4196",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 39,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 22,
+							"unlinked": 1,
+							"to_be_migrated": 16
+						}
+					]
+				},
+				{
+					"subnet": "10.22.248.0/22 - f1297681-3856-4ec5-b2ae-16d1c300809e",
+					"zones": [
+						{
+							"zone": "phx-private-gen-zone-1",
+							"count": 11,
+							"migrated_active": 3,
+							"migrated_inactive": 0,
+							"do_not_migrate": 4,
+							"unlinked": 3,
+							"to_be_migrated": 4
+						}
+					]
+				},
+				{
+					"subnet": "10.32.116.0/22 - 9f3d2bf3-e80a-4d9a-aee3-54186bc8958c",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 110,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 57,
+							"unlinked": 8,
+							"to_be_migrated": 45
+						}
+					]
+				},
+				{
+					"subnet": "10.37.100.0/22 - 1899e595-7be3-40b8-9e44-4bcee91974a2",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 113,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 67,
+							"unlinked": 7,
+							"to_be_migrated": 39
+						}
+					]
+				},
+				{
+					"subnet": "10.36.180.0/22 - cad513ca-d850-4824-be1d-5d79117cb93d",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 106,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 58,
+							"unlinked": 6,
+							"to_be_migrated": 42
+						}
+					]
+				},
+				{
+					"subnet": "10.22.188.0/22 - b7e0e9f0-621f-4ffb-a90b-3114fadf37a9",
+					"zones": [
+						{
+							"zone": "phx-private-gen-zone-2",
+							"count": 20,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 12,
+							"to_be_migrated": 5
+						}
+					]
+				},
+				{
+					"subnet": "10.22.180.0/22 - 880512c5-8009-4674-91b7-076522a4e13c",
+					"zones": [
+						{
+							"zone": "phx-private-gen-zone-3",
+							"count": 10,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 4,
+							"unlinked": 5,
+							"to_be_migrated": 1
+						}
+					]
+				},
+				{
+					"subnet": "10.33.108.0/22 - 27db9ef3-ac2e-4bc7-8f64-fa53186cf82e",
+					"zones": [
+						{
+							"zone": "phx-private-mgt-zone-3",
+							"count": 54,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 7,
+							"unlinked": 0,
+							"to_be_migrated": 47
+						}
+					]
+				},
+				{
+					"subnet": "10.33.104.0/22 - e25c9f41-dc79-4056-af5a-23b887b5b975",
+					"zones": [
+						{
+							"zone": "phx-private-mgt-zone-2",
+							"count": 60,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 7,
+							"unlinked": 0,
+							"to_be_migrated": 53
+						}
+					]
+				},
+				{
+					"subnet": "10.32.60.0/22 - 805544d0-b634-4367-815c-75588f5e46a2",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 206,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 112,
+							"unlinked": 10,
+							"to_be_migrated": 84
+						}
+					]
+				},
+				{
+					"subnet": "10.22.184.0/22 - 61e51ce0-e483-4b6f-9042-36bd97d42170",
+					"zones": [
+						{
+							"zone": "phx-private-gen-zone-3",
+							"count": 3,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 2,
+							"to_be_migrated": 0
+						}
+					]
+				},
+				{
+					"subnet": "10.37.116.0/22 - 8eebdb98-61ba-4971-8113-4b1eb44c33ce",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 109,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 65,
+							"unlinked": 3,
+							"to_be_migrated": 41
+						}
+					]
+				},
+				{
+					"subnet": "10.37.104.0/22 - 54814087-97fd-4e8e-b128-4c296d483f75",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 91,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 55,
+							"unlinked": 6,
+							"to_be_migrated": 30
+						}
+					]
+				},
+				{
+					"subnet": "10.36.188.0/22 - a99df4e4-7a8d-45bb-84bb-c6550273a8fe",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 100,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 43,
+							"unlinked": 5,
+							"to_be_migrated": 52
+						}
+					]
+				},
+				{
+					"subnet": "10.39.128.0/22 - 1041234a-5577-4734-a57e-85bbcbf36bdc",
+					"zones": [
+						{
+							"zone": "phx-private-cor-zone-2",
+							"count": 118,
+							"migrated_active": 9,
+							"migrated_inactive": 0,
+							"do_not_migrate": 59,
+							"unlinked": 14,
+							"to_be_migrated": 45
+						}
+					]
+				},
+				{
+					"subnet": "10.32.52.0/22 - b2f6adf3-9008-4483-8c18-35388dc17198",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 216,
+							"migrated_active": 2,
+							"migrated_inactive": 0,
+							"do_not_migrate": 123,
+							"unlinked": 11,
+							"to_be_migrated": 82
+						}
+					]
+				},
+				{
+					"subnet": "10.37.108.0/22 - a0c47f09-29be-4f9b-b6a7-827df27ae2b4",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-2",
+							"count": 90,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 44,
+							"unlinked": 4,
+							"to_be_migrated": 42
+						}
+					]
+				},
+				{
+					"subnet": "10.36.156.0/22 - 672ff2cf-e86a-45eb-a558-68ca09be1025",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-3",
+							"count": 230,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 116,
+							"unlinked": 5,
+							"to_be_migrated": 109
+						}
+					]
+				},
+				{
+					"subnet": "10.47.0.0/22 - cc85b96d-bc65-4d4f-8059-cda35889751a",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 75,
+							"migrated_active": 4,
+							"migrated_inactive": 0,
+							"do_not_migrate": 54,
+							"unlinked": 3,
+							"to_be_migrated": 18
+						}
+					]
+				},
+				{
+					"subnet": "10.37.96.0/22 - bb20b829-a408-4be8-ada9-dc5f650d7ce9",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 119,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 69,
+							"unlinked": 5,
+							"to_be_migrated": 45
+						}
+					]
+				},
+				{
+					"subnet": "10.32.10.0/23 - 036d0571-e0dc-4b32-8e7a-15b8e6fe50da",
+					"zones": [
+						{
+							"zone": "phx-private-prd-zone-1",
+							"count": 32,
+							"migrated_active": 1,
+							"migrated_inactive": 0,
+							"do_not_migrate": 24,
+							"unlinked": 1,
+							"to_be_migrated": 7
+						}
+					]
+				},
+				{
+					"subnet": "10.33.82.0/23 - 3aab4905-6e15-4b43-b6cf-a2e947616c1d",
+					"zones": [
+						{
+							"zone": "phx-private-mgt-zone-1",
+							"count": 7,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 1,
+							"to_be_migrated": 3
+						}
+					]
+				},
+				{
+					"subnet": "10.22.252.0/22 - 81a2ac1b-81aa-460c-8fbf-faf9e28fcc5d",
+					"zones": [
+						{
+							"zone": "phx-private-gen-zone-1",
+							"count": 9,
+							"migrated_active": 3,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 4,
+							"to_be_migrated": 2
+						}
+					]
+				}
+			]
+		},
+		{
+			"sin_private": [
+				{
+					"subnet": "10.30.200.0/22 - 79763c15-0514-4dd2-b4dd-ef4845bde971",
+					"zones": [
+						{
+							"zone": "sin-private-prd-zone-3",
+							"count": 17,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 3,
+							"to_be_migrated": 14
+						},
+						{
+							"zone": "sin-private-prd-zone-2",
+							"count": 16,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 2,
+							"to_be_migrated": 14
+						},
+						{
+							"zone": "sin-private-prd-zone-1",
+							"count": 15,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 1,
+							"to_be_migrated": 14
+						}
+					]
+				},
+				{
+					"subnet": "10.30.140.0/22 - bbf3fd5d-4d6f-4319-b175-8207dd9cae44",
+					"zones": [
+						{
+							"zone": "sin-private-mgt-zone-1",
+							"count": 1,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 0
+						}
+					]
+				},
+				{
+					"subnet": "10.30.64.0/22 - 5d20b7fa-369a-4660-a82f-2b276f83fb7f",
+					"zones": [
+						{
+							"zone": "sin-private-prd-zone-2",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 2
+						},
+						{
+							"zone": "sin-private-prd-zone-1",
+							"count": 2,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 0,
+							"to_be_migrated": 2
+						}
+					]
+				},
+				{
+					"subnet": "10.30.144.0/22 - 6fff150c-d537-443e-9a6a-81136f3912f2",
+					"zones": [
+						{
+							"zone": "sin-private-mgt-zone-3",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 1,
+							"unlinked": 0,
+							"to_be_migrated": 2
+						},
+						{
+							"zone": "sin-private-mgt-zone-2",
+							"count": 3,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 0,
+							"unlinked": 1,
+							"to_be_migrated": 2
+						}
+					]
+				},
+				{
+					"subnet": "10.30.204.0/22 - 2f86dc5a-5b4c-4513-a7cb-605e352016d4",
+					"zones": [
+						{
+							"zone": "sin-private-prd-zone-3",
+							"count": 6,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 0,
+							"to_be_migrated": 3
+						},
+						{
+							"zone": "sin-private-prd-zone-1",
+							"count": 4,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 3,
+							"unlinked": 1,
+							"to_be_migrated": 0
+						},
+						{
+							"zone": "sin-private-prd-zone-2",
+							"count": 2,
+							"migrated_active": 0,
+							"migrated_inactive": 0,
+							"do_not_migrate": 2,
+							"unlinked": 0,
+							"to_be_migrated": 0
+						}
+					]
+				}
+			]
+		}
+	]
+}
 
 ]
