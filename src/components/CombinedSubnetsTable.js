@@ -37,7 +37,8 @@ export default function CombinedSubnetsTable({ data, type }) {
 				"migrated_active": subnet["migrated_active"],
 				"migrated_inactive": subnet["migrated_inactive"],
 				'do_not_migrate': subnet['do_not_migrate'],
-				...(subnet.unlinked && {'unlinked': subnet.unlinked}),
+				'unlinked': subnet['unlinked'],
+				// ...(subnet.unlinked && {'unlinked': subnet.unlinked}),
 				to_be_migrated: subnet.to_be_migrated,
 				...(subnet.zones && {'zones': subnet.zones.toString()}),
 				cloud: subnet.cloud,
@@ -88,7 +89,7 @@ export default function CombinedSubnetsTable({ data, type }) {
 							return (
 								<tr className="table-row" key={idx}>
 									{theadData.map((key, index) => {
-										return <td key={index}>{vm[key]}</td>;
+										return <td key={index}>{vm[key] === 0 ? "0" : vm[key]}</td>;
 									})}
 								</tr>
 							);

@@ -112,7 +112,7 @@ export default function Table({ data, type }) {
 															{row[key].split("_")[0].substring(2) || "None"}
 														</td>
 													) : (
-														<td key={index}>{row[key] || "None"}</td>
+														<td key={index}>{row[key] === 0 ? "0" : row[key]}</td>
 													);
 												})}
 											</tr>
