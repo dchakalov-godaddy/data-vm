@@ -7383,4 +7383,1580 @@
 
 ,
 { "2023-03-13": [ { "ams_private": [ { "hv": "n3plcldhv002-12.prod.ams3.gdg", "disk_usage": "9%", "ram_usage": "21%", "raid_punctures": "1" }, { "hv": "n3plcldhv002-11.prod.ams3.gdg", "disk_usage": "15%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "n3plcldhv002-09.prod.ams3.gdg", "disk_usage": "39%", "ram_usage": "54%", "raid_punctures": "2" }, { "hv": "n3plcldhv003-01.prod.ams3.gdg", "disk_usage": "36%", "ram_usage": "36%", "raid_punctures": "2" }, { "hv": "n3plcldhv003-09.prod.ams3.gdg", "disk_usage": "6%", "ram_usage": "20%", "raid_punctures": "2" }, { "hv": "n3plcldhv003-17.prod.ams3.gdg", "disk_usage": "13%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "n3plcldhv006-04.prod.ams3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "n3plcldhv004-03.prod.ams3.gdg", "disk_usage": "18%", "ram_usage": "35%", "raid_punctures": "1" }, { "hv": "n3plcldhv004-06.prod.ams3.gdg", "disk_usage": "41%", "ram_usage": "58%", "raid_punctures": "4" }, { "hv": "n3plcldhv004-08.prod.ams3.gdg", "disk_usage": "22%", "ram_usage": "27%", "raid_punctures": "1" } ] }, { "iad_private": [ { "hv": "a2plcldhv001-03.prod.iad2.gdg", "disk_usage": "6%", "ram_usage": "13%", "raid_punctures": "1" }, { "hv": "a2plcldhv007-09.prod.iad2.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "a2plcldhv007-22.prod.iad2.gdg", "disk_usage": "2%", "ram_usage": "7%", "raid_punctures": "1" }, { "hv": "a2plcldhv007-50.prod.iad2.gdg", "disk_usage": "2%", "ram_usage": "7%", "raid_punctures": "7" }, { "hv": "a2plcldhv006-10.prod.iad2.gdg", "disk_usage": "31%", "ram_usage": "55%", "raid_punctures": "1" }, { "hv": "a2plcldhv008-03.prod.iad2.gdg", "disk_usage": "10%", "ram_usage": "17%", "raid_punctures": "4" }, { "hv": "a2plcldhv008-06.prod.iad2.gdg", "disk_usage": "8%", "ram_usage": "18%", "raid_punctures": "1" }, { "hv": "a2plcldhv008-24.prod.iad2.gdg", "disk_usage": "13%", "ram_usage": "32%", "raid_punctures": "10883" }, { "hv": "a2plcldhv008-88.prod.iad2.gdg", "disk_usage": "36%", "ram_usage": "29%", "raid_punctures": "1" }, { "hv": "a2plcldhv005-02.prod.iad2.gdg", "disk_usage": "25%", "ram_usage": "23%", "raid_punctures": "1" }, { "hv": "a2plcldhv009-15.prod.iad2.gdg", "disk_usage": "12%", "ram_usage": "41%", "raid_punctures": "1" }, { "hv": "a2plcldhv009-21.prod.iad2.gdg", "disk_usage": "20%", "ram_usage": "30%", "raid_punctures": "1" }, { "hv": "a2plcldhv009-05.prod.iad2.gdg", "disk_usage": "12%", "ram_usage": "11%", "raid_punctures": "1" }, { "hv": "a2plcldhv009-19.prod.iad2.gdg", "disk_usage": "18%", "ram_usage": "53%", "raid_punctures": "3" }, { "hv": "a2plcldhv009-01.prod.iad2.gdg", "disk_usage": "22%", "ram_usage": "22%", "raid_punctures": "1" }, { "hv": "a2plcldhv013-31.prod.iad2.gdg", "disk_usage": "10%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "a2plcldhv013-40.prod.iad2.gdg", "disk_usage": "1%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "a2plcldhv012-01.prod.iad2.gdg", "disk_usage": "1%", "ram_usage": "7%", "raid_punctures": "1" } ] }, { "phx_private": [ { "hv": "p3plcldhv01-004.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-007.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "5%", "raid_punctures": "3" }, { "hv": "p3plcldhv01-003.prod.phx3.gdg", "disk_usage": "14%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-009.prod.phx3.gdg", "disk_usage": "22%", "ram_usage": "21%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-010.prod.phx3.gdg", "disk_usage": "25%", "ram_usage": "39%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-008.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-011.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-012.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-014.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-005.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-017.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-018.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-016.prod.phx3.gdg", "disk_usage": "8%", "ram_usage": "17%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-021.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-020.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "6%", "raid_punctures": "5" }, { "hv": "p3plcldhv01-022.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-023.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-013.prod.phx3.gdg", "disk_usage": "19%", "ram_usage": "35%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-019.prod.phx3.gdg", "disk_usage": "10%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-024.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-015.prod.phx3.gdg", "disk_usage": "5%", "ram_usage": "12%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-031.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-029.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-033.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-035.prod.phx3.gdg", "disk_usage": "16%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-025.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-030.prod.phx3.gdg", "disk_usage": "13%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-006.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-034.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-036.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-042.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-044.prod.phx3.gdg", "disk_usage": "6%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-037.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-038.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-039.prod.phx3.gdg", "disk_usage": "13%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-032.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-041.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-040.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-027.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "2" }, { "hv": "p3plcldhv01-028.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-003.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "2" }, { "hv": "p3plcldhv01-043.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "5%", "raid_punctures": "3" }, { "hv": "p3plcldhv02-004.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-007.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-006.prod.phx3.gdg", "disk_usage": "4%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-005.prod.phx3.gdg", "disk_usage": "6%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-008.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-009.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "23%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-011.prod.phx3.gdg", "disk_usage": "5%", "ram_usage": "12%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-012.prod.phx3.gdg", "disk_usage": "13%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-016.prod.phx3.gdg", "disk_usage": "4%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-013.prod.phx3.gdg", "disk_usage": "14%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-010.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-014.prod.phx3.gdg", "disk_usage": "6%", "ram_usage": "14%", "raid_punctures": "2" }, { "hv": "p3plcldhv02-019.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "9%", "raid_punctures": "2" }, { "hv": "p3plcldhv02-015.prod.phx3.gdg", "disk_usage": "8%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-017.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-018.prod.phx3.gdg", "disk_usage": "7%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-020.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-028.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-026.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-022.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-025.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "5%", "raid_punctures": "3" }, { "hv": "p3plcldhv02-021.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-027.prod.phx3.gdg", "disk_usage": "13%", "ram_usage": "22%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-023.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-024.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-029.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-030.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "2" }, { "hv": "p3plcldhv02-031.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "5%", "raid_punctures": "2" }, { "hv": "p3plcldhv02-032.prod.phx3.gdg", "disk_usage": "9%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-036.prod.phx3.gdg", "disk_usage": "15%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-041.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-043.prod.phx3.gdg", "disk_usage": "14%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-033.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "7%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-042.prod.phx3.gdg", "disk_usage": "19%", "ram_usage": "27%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-035.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-039.prod.phx3.gdg", "disk_usage": "14%", "ram_usage": "5%", "raid_punctures": "3" }, { "hv": "p3plcldhv02-038.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-037.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-044.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv005-07.prod.phx3.gdg", "disk_usage": "6%", "ram_usage": "7%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-040.prod.phx3.gdg", "disk_usage": "1%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-01.prod.phx3.gdg", "disk_usage": "44%", "ram_usage": "13%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-05.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "26%", "raid_punctures": "8" }, { "hv": "p3plcldhv003-02.prod.phx3.gdg", "disk_usage": "93%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-06.prod.phx3.gdg", "disk_usage": "92%", "ram_usage": "6%", "raid_punctures": "2" }, { "hv": "p3plcldhv003-04.prod.phx3.gdg", "disk_usage": "96%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-03.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-08.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-11.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "18%", "raid_punctures": "3" }, { "hv": "p3plcldhv003-16.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-09.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-18.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "7%", "raid_punctures": "5" }, { "hv": "p3plcldhv003-07.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-20.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "2" }, { "hv": "p3plcldhv003-22.prod.phx3.gdg", "disk_usage": "41%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-24.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-30.prod.phx3.gdg", "disk_usage": "93%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-19.prod.phx3.gdg", "disk_usage": "94%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-23.prod.phx3.gdg", "disk_usage": "92%", "ram_usage": "14%", "raid_punctures": "3" }, { "hv": "p3plcldhv003-29.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-32.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-25.prod.phx3.gdg", "disk_usage": "23%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-34.prod.phx3.gdg", "disk_usage": "95%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-35.prod.phx3.gdg", "disk_usage": "92%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-39.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-40.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-42.prod.phx3.gdg", "disk_usage": "43%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-28.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-14.prod.phx3.gdg", "disk_usage": "99%", "ram_usage": "6%", "raid_punctures": "5" }, { "hv": "p3plcldhv003-31.prod.phx3.gdg", "disk_usage": "85%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-26.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-15.prod.phx3.gdg", "disk_usage": "94%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-13.prod.phx3.gdg", "disk_usage": "98%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-37.prod.phx3.gdg", "disk_usage": "95%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-38.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "9%", "raid_punctures": "2" }, { "hv": "p3plcldhv003-41.prod.phx3.gdg", "disk_usage": "98%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-10.prod.phx3.gdg", "disk_usage": "100%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-17.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-21.prod.phx3.gdg", "disk_usage": "98%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-33.prod.phx3.gdg", "disk_usage": "98%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv003-36.prod.phx3.gdg", "disk_usage": "96%", "ram_usage": "5%", "raid_punctures": "3" }, { "hv": "p3plcldhv004-03.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-06.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "2" }, { "hv": "p3plcldhv004-10.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-12.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-02.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "3" }, { "hv": "p3plcldhv004-26.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "9%", "raid_punctures": "55" }, { "hv": "p3plcldhv004-17.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "7%", "raid_punctures": "2" }, { "hv": "p3plcldhv004-20.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "14%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-23.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-29.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-25.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-30.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "2" }, { "hv": "p3plcldhv004-33.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-01.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "22%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-04.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-07.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-11.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-14.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-13.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-05.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "2" }, { "hv": "p3plcldhv004-16.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "2" }, { "hv": "p3plcldhv004-15.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "22%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-19.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-18.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-21.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-22.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-28.prod.phx3.gdg", "disk_usage": "12%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-34.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-24.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv004-27.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-001.prod.phx3.gdg", "disk_usage": "21%", "ram_usage": "8%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-001.prod.phx3.gdg", "disk_usage": "33%", "ram_usage": "10%", "raid_punctures": "1" }, { "hv": "p3plcldhv01-002.prod.phx3.gdg", "disk_usage": "20%", "ram_usage": "6%", "raid_punctures": "1" }, { "hv": "p3plcldhv02-002.prod.phx3.gdg", "disk_usage": "10%", "ram_usage": "12%", "raid_punctures": "1" }, { "hv": "p3plcldhv010-24.prod.phx3.gdg", "disk_usage": "2%", "ram_usage": "7%", "raid_punctures": "709" }, { "hv": "p3plcldhv011-22.prod.phx3.gdg", "disk_usage": "8%", "ram_usage": "7%", "raid_punctures": "1" }, { "hv": "p3plcldhv010-08.prod.phx3.gdg", "disk_usage": "3%", "ram_usage": "5%", "raid_punctures": "1" }, { "hv": "p3plcldhv011-41.prod.phx3.gdg", "disk_usage": "11%", "ram_usage": "15%", "raid_punctures": "3" }, { "hv": "p3plcldhv012-09.prod.phx3.gdg", "disk_usage": "37%", "ram_usage": "70%", "raid_punctures": "1" }, { "hv": "p3plcldhv012-34.prod.phx3.gdg", "disk_usage": "41%", "ram_usage": "49%", "raid_punctures": "1" }, { "hv": "p3plcldhv012-20.prod.phx3.gdg", "disk_usage": "46%", "ram_usage": "96%", "raid_punctures": "0" }, { "hv": "p3plcldhv012-30.prod.phx3.gdg", "disk_usage": "32%", "ram_usage": "63%", "raid_punctures": "2" }, { "hv": "p3plcldhv012-04.prod.phx3.gdg", "disk_usage": "31%", "ram_usage": "53%", "raid_punctures": "12" }, { "hv": "p3plcldhv012-08.prod.phx3.gdg", "disk_usage": "38%", "ram_usage": "75%", "raid_punctures": "2" }, { "hv": "p3plcldhv012-19.prod.phx3.gdg", "disk_usage": "32%", "ram_usage": "39%", "raid_punctures": "2" }, { "hv": "p3plcldhv012-11.prod.phx3.gdg", "disk_usage": "31%", "ram_usage": "45%", "raid_punctures": "3" }, { "hv": "p3plcldhv012-37.prod.phx3.gdg", "disk_usage": "46%", "ram_usage": "70%", "raid_punctures": "11" }, { "hv": "p3plcldhv012-06.prod.phx3.gdg", "disk_usage": "38%", "ram_usage": "59%", "raid_punctures": "1" }, { "hv": "p3plcldhv013-14.prod.phx3.gdg", "disk_usage": "31%", "ram_usage": "65%", "raid_punctures": "1" }, { "hv": "p3plcldhv013-32.prod.phx3.gdg", "disk_usage": "28%", "ram_usage": "41%", "raid_punctures": "1" }, { "hv": "p3plcldhv014-29.prod.phx3.gdg", "disk_usage": "21%", "ram_usage": "58%", "raid_punctures": "1" }, { "hv": "p3plcldhv014-20.prod.phx3.gdg", "disk_usage": "22%", "ram_usage": "51%", "raid_punctures": "3" }, { "hv": "p3plcldhv014-35.prod.phx3.gdg", "disk_usage": "44%", "ram_usage": "77%", "raid_punctures": "1" }, { "hv": "p3plcldhv015-42.prod.phx3.gdg", "disk_usage": "10%", "ram_usage": "43%", "raid_punctures": "8" }, { "hv": "p3plcldhv015-14.prod.phx3.gdg", "disk_usage": "38%", "ram_usage": "43%", "raid_punctures": "5" }, { "hv": "p3plcldhv015-21.prod.phx3.gdg", "disk_usage": "39%", "ram_usage": "65%", "raid_punctures": "1" }, { "hv": "p3plcldhv015-39.prod.phx3.gdg", "disk_usage": "24%", "ram_usage": "57%", "raid_punctures": "1" }, { "hv": "p3plcldhv015-08.prod.phx3.gdg", "disk_usage": "34%", "ram_usage": "71%", "raid_punctures": "2" }, { "hv": "p3plcldhv018-10.prod.phx3.gdg", "disk_usage": "29%", "ram_usage": "95%", "raid_punctures": "0" }, { "hv": "p3plcldhv018-15.prod.phx3.gdg", "disk_usage": "23%", "ram_usage": "95%", "raid_punctures": "0" }, { "hv": "p3plcldhv018-33.prod.phx3.gdg", "disk_usage": "37%", "ram_usage": "84%", "raid_punctures": "1" }, { "hv": "p3plcldhv017-39.prod.phx3.gdg", "disk_usage": "19%", "ram_usage": "61%", "raid_punctures": "1" }, { "hv": "p3plcldhv019-03.prod.phx3.gdg", "disk_usage": "28%", "ram_usage": "33%", "raid_punctures": "1" }, { "hv": "p3plcldhv019-10.prod.phx3.gdg", "disk_usage": "32%", "ram_usage": "60%", "raid_punctures": "1" }, { "hv": "p3plcldhv019-22.prod.phx3.gdg", "disk_usage": "92%", "ram_usage": "51%", "raid_punctures": "0" }, { "hv": "p3plcldhv020-04.prod.phx3.gdg", "disk_usage": "31%", "ram_usage": "27%", "raid_punctures": "1" }, { "hv": "p3plcldhv021-36.prod.phx3.gdg", "disk_usage": "20%", "ram_usage": "20%", "raid_punctures": "1" }, { "hv": "p3plcldhv021-06.prod.phx3.gdg", "disk_usage": "17%", "ram_usage": "65%", "raid_punctures": "2" }, { "hv": "p3plcldhv021-17.prod.phx3.gdg", "disk_usage": "30%", "ram_usage": "62%", "raid_punctures": "1" }, { "hv": "p3plcldhv021-18.prod.phx3.gdg", "disk_usage": "36%", "ram_usage": "67%", "raid_punctures": "2" } ] }, { "sin_private": "No high risk hypervisors" } ] }
+,
+{
+	"2023-05-16": [
+		{
+			"ams_private": [
+				{
+					"hv": "n3plcldhv002-12.prod.ams3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "19%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv002-11.prod.ams3.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv003-01.prod.ams3.gdg",
+					"disk_usage": "36%",
+					"ram_usage": "20%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "n3plcldhv003-17.prod.ams3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv006-23.prod.ams3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv006-04.prod.ams3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv004-03.prod.ams3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "27%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "n3plcldhv004-06.prod.ams3.gdg",
+					"disk_usage": "39%",
+					"ram_usage": "18%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "n3plcldhv004-08.prod.ams3.gdg",
+					"disk_usage": "21%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				}
+			]
+		},
+		{
+			"iad_private": [
+				{
+					"hv": "a2plcldhv001-03.prod.iad2.gdg",
+					"disk_usage": "6%",
+					"ram_usage": "13%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv007-09.prod.iad2.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv007-22.prod.iad2.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv007-50.prod.iad2.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "7%",
+					"raid_punctures": "6"
+				},
+				{
+					"hv": "a2plcldhv006-10.prod.iad2.gdg",
+					"disk_usage": "24%",
+					"ram_usage": "20%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv008-03.prod.iad2.gdg",
+					"disk_usage": "7%",
+					"ram_usage": "11%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "a2plcldhv008-06.prod.iad2.gdg",
+					"disk_usage": "8%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv008-24.prod.iad2.gdg",
+					"disk_usage": "10%",
+					"ram_usage": "7%",
+					"raid_punctures": "11271"
+				},
+				{
+					"hv": "a2plcldhv008-88.prod.iad2.gdg",
+					"disk_usage": "29%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv005-02.prod.iad2.gdg",
+					"disk_usage": "7%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv009-15.prod.iad2.gdg",
+					"disk_usage": "4%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv009-21.prod.iad2.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv009-05.prod.iad2.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv009-19.prod.iad2.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv009-01.prod.iad2.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv013-31.prod.iad2.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv012-01.prod.iad2.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "a2plcldhv012-24.prod.iad2.gdg",
+					"disk_usage": "6%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				}
+			]
+		},
+		{
+			"phx_private": [
+				{
+					"hv": "p3plcldhv01-007.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv01-004.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-003.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-009.prod.phx3.gdg",
+					"disk_usage": "13%",
+					"ram_usage": "21%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-010.prod.phx3.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-008.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-011.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-012.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-014.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-017.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-005.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-018.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-020.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "6%",
+					"raid_punctures": "5"
+				},
+				{
+					"hv": "p3plcldhv01-021.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-016.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-022.prod.phx3.gdg",
+					"disk_usage": "10%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-023.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-024.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-019.prod.phx3.gdg",
+					"disk_usage": "10%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-013.prod.phx3.gdg",
+					"disk_usage": "16%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-015.prod.phx3.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-029.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-031.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-033.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-035.prod.phx3.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "14%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-025.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-030.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-034.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-036.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-042.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "15%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-044.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-006.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-037.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-039.prod.phx3.gdg",
+					"disk_usage": "13%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-038.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-041.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-032.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-040.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-027.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv01-028.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-003.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv01-043.prod.phx3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "6%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-004.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-005.prod.phx3.gdg",
+					"disk_usage": "6%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-006.prod.phx3.gdg",
+					"disk_usage": "4%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-007.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "7%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-008.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-009.prod.phx3.gdg",
+					"disk_usage": "8%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-016.prod.phx3.gdg",
+					"disk_usage": "4%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-011.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "9%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-012.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-013.prod.phx3.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "9%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-014.prod.phx3.gdg",
+					"disk_usage": "6%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv02-019.prod.phx3.gdg",
+					"disk_usage": "10%",
+					"ram_usage": "5%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv02-015.prod.phx3.gdg",
+					"disk_usage": "8%",
+					"ram_usage": "5%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv02-010.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-017.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-020.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-018.prod.phx3.gdg",
+					"disk_usage": "7%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-028.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-026.prod.phx3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-022.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-025.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "5"
+				},
+				{
+					"hv": "p3plcldhv02-021.prod.phx3.gdg",
+					"disk_usage": "7%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-023.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-027.prod.phx3.gdg",
+					"disk_usage": "13%",
+					"ram_usage": "22%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-024.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-029.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-030.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv02-031.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv02-032.prod.phx3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-041.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-033.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "6%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-036.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-043.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-042.prod.phx3.gdg",
+					"disk_usage": "18%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-035.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-038.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-039.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "5%",
+					"raid_punctures": "5"
+				},
+				{
+					"hv": "p3plcldhv02-037.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv02-044.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv005-07.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-040.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-01.prod.phx3.gdg",
+					"disk_usage": "55%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-05.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "26%",
+					"raid_punctures": "8"
+				},
+				{
+					"hv": "p3plcldhv003-02.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-06.prod.phx3.gdg",
+					"disk_usage": "99%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv003-08.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-03.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-16.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-18.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "5"
+				},
+				{
+					"hv": "p3plcldhv003-09.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-11.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "10%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv003-07.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-20.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv003-22.prod.phx3.gdg",
+					"disk_usage": "45%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-23.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "15%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv003-24.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-30.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-19.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-29.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-25.prod.phx3.gdg",
+					"disk_usage": "23%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-32.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-35.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-39.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-42.prod.phx3.gdg",
+					"disk_usage": "47%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-40.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-28.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "7%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-31.prod.phx3.gdg",
+					"disk_usage": "94%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-26.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-15.prod.phx3.gdg",
+					"disk_usage": "100%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv003-38.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "10%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv003-17.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-03.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-06.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv004-10.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-12.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-17.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv004-20.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-26.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "55"
+				},
+				{
+					"hv": "p3plcldhv004-02.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv004-23.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-29.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-25.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-30.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv004-33.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-01.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-04.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-07.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-11.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-13.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-14.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-05.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv004-16.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv004-15.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-19.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-18.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-21.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-22.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-28.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-34.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-24.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv004-27.prod.phx3.gdg",
+					"disk_usage": "11%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-001.prod.phx3.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "7%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv01-001.prod.phx3.gdg",
+					"disk_usage": "34%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv01-002.prod.phx3.gdg",
+					"disk_usage": "20%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv02-002.prod.phx3.gdg",
+					"disk_usage": "4%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv010-24.prod.phx3.gdg",
+					"disk_usage": "2%",
+					"ram_usage": "7%",
+					"raid_punctures": "709"
+				},
+				{
+					"hv": "p3plcldhv011-22.prod.phx3.gdg",
+					"disk_usage": "8%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv010-08.prod.phx3.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv011-41.prod.phx3.gdg",
+					"disk_usage": "6%",
+					"ram_usage": "5%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv012-09.prod.phx3.gdg",
+					"disk_usage": "37%",
+					"ram_usage": "46%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv012-34.prod.phx3.gdg",
+					"disk_usage": "39%",
+					"ram_usage": "37%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv012-30.prod.phx3.gdg",
+					"disk_usage": "32%",
+					"ram_usage": "17%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv012-04.prod.phx3.gdg",
+					"disk_usage": "23%",
+					"ram_usage": "16%",
+					"raid_punctures": "11"
+				},
+				{
+					"hv": "p3plcldhv012-08.prod.phx3.gdg",
+					"disk_usage": "27%",
+					"ram_usage": "5%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv012-19.prod.phx3.gdg",
+					"disk_usage": "30%",
+					"ram_usage": "13%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv012-11.prod.phx3.gdg",
+					"disk_usage": "24%",
+					"ram_usage": "20%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv012-37.prod.phx3.gdg",
+					"disk_usage": "48%",
+					"ram_usage": "60%",
+					"raid_punctures": "10"
+				},
+				{
+					"hv": "p3plcldhv013-14.prod.phx3.gdg",
+					"disk_usage": "32%",
+					"ram_usage": "30%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv013-32.prod.phx3.gdg",
+					"disk_usage": "30%",
+					"ram_usage": "25%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv014-29.prod.phx3.gdg",
+					"disk_usage": "21%",
+					"ram_usage": "33%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv014-08.prod.phx3.gdg",
+					"disk_usage": "42%",
+					"ram_usage": "36%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv014-20.prod.phx3.gdg",
+					"disk_usage": "13%",
+					"ram_usage": "23%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv014-35.prod.phx3.gdg",
+					"disk_usage": "41%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv015-31.prod.phx3.gdg",
+					"disk_usage": "32%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv015-42.prod.phx3.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "17%",
+					"raid_punctures": "8"
+				},
+				{
+					"hv": "p3plcldhv015-14.prod.phx3.gdg",
+					"disk_usage": "37%",
+					"ram_usage": "31%",
+					"raid_punctures": "5"
+				},
+				{
+					"hv": "p3plcldhv015-08.prod.phx3.gdg",
+					"disk_usage": "34%",
+					"ram_usage": "43%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv018-33.prod.phx3.gdg",
+					"disk_usage": "27%",
+					"ram_usage": "15%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv017-39.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "44%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv019-03.prod.phx3.gdg",
+					"disk_usage": "28%",
+					"ram_usage": "21%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv019-10.prod.phx3.gdg",
+					"disk_usage": "31%",
+					"ram_usage": "35%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv019-22.prod.phx3.gdg",
+					"disk_usage": "94%",
+					"ram_usage": "10%",
+					"raid_punctures": "0"
+				},
+				{
+					"hv": "p3plcldhv020-04.prod.phx3.gdg",
+					"disk_usage": "26%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv021-36.prod.phx3.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv021-06.prod.phx3.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "40%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv021-17.prod.phx3.gdg",
+					"disk_usage": "29%",
+					"ram_usage": "32%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv021-18.prod.phx3.gdg",
+					"disk_usage": "31%",
+					"ram_usage": "10%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv021-27.prod.phx3.gdg",
+					"disk_usage": "24%",
+					"ram_usage": "37%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv021-05.prod.phx3.gdg",
+					"disk_usage": "29%",
+					"ram_usage": "17%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv022-39.prod.phx3.gdg",
+					"disk_usage": "39%",
+					"ram_usage": "50%",
+					"raid_punctures": "3"
+				},
+				{
+					"hv": "p3plcldhv022-21.prod.phx3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "11%",
+					"raid_punctures": "1840"
+				},
+				{
+					"hv": "p3plcldhv023-04.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv023-10.prod.phx3.gdg",
+					"disk_usage": "14%",
+					"ram_usage": "17%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv023-13.prod.phx3.gdg",
+					"disk_usage": "24%",
+					"ram_usage": "12%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv023-16.prod.phx3.gdg",
+					"disk_usage": "37%",
+					"ram_usage": "43%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv023-23.prod.phx3.gdg",
+					"disk_usage": "25%",
+					"ram_usage": "29%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv023-38.prod.phx3.gdg",
+					"disk_usage": "23%",
+					"ram_usage": "28%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv023-43.prod.phx3.gdg",
+					"disk_usage": "25%",
+					"ram_usage": "14%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-46.prod.phx3.gdg",
+					"disk_usage": "49%",
+					"ram_usage": "25%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-16.prod.phx3.gdg",
+					"disk_usage": "13%",
+					"ram_usage": "14%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-62.prod.phx3.gdg",
+					"disk_usage": "25%",
+					"ram_usage": "19%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-18.prod.phx3.gdg",
+					"disk_usage": "33%",
+					"ram_usage": "56%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-34.prod.phx3.gdg",
+					"disk_usage": "39%",
+					"ram_usage": "24%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv025-36.prod.phx3.gdg",
+					"disk_usage": "12%",
+					"ram_usage": "32%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv026-26.prod.phx3.gdg",
+					"disk_usage": "41%",
+					"ram_usage": "23%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv026-06.prod.phx3.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "17%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv026-38.prod.phx3.gdg",
+					"disk_usage": "31%",
+					"ram_usage": "31%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv026-45.prod.phx3.gdg",
+					"disk_usage": "34%",
+					"ram_usage": "13%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "p3plcldhv026-48.prod.phx3.gdg",
+					"disk_usage": "39%",
+					"ram_usage": "25%",
+					"raid_punctures": "110"
+				},
+				{
+					"hv": "p3plcldhv026-55.prod.phx3.gdg",
+					"disk_usage": "26%",
+					"ram_usage": "37%",
+					"raid_punctures": "397"
+				},
+				{
+					"hv": "p3plcldhv026-46.prod.phx3.gdg",
+					"disk_usage": "29%",
+					"ram_usage": "40%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv024-15.prod.phx3.gdg",
+					"disk_usage": "32%",
+					"ram_usage": "35%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv024-47.prod.phx3.gdg",
+					"disk_usage": "37%",
+					"ram_usage": "9%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv024-69.prod.phx3.gdg",
+					"disk_usage": "35%",
+					"ram_usage": "34%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv027-16.prod.phx3.gdg",
+					"disk_usage": "29%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv027-52.prod.phx3.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "31%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv027-49.prod.phx3.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "17%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv027-04.prod.phx3.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv006-19.prod.phx3.gdg",
+					"disk_usage": "44%",
+					"ram_usage": "10%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv006-20.prod.phx3.gdg",
+					"disk_usage": "26%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv006-21.prod.phx3.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv006-22.prod.phx3.gdg",
+					"disk_usage": "32%",
+					"ram_usage": "10%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "p3plcldhv015-45.prod.phx3.gdg",
+					"disk_usage": "7%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv015-46.prod.phx3.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "8%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "p3plcldhv009-46.prod.phx3.gdg",
+					"disk_usage": "10%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				}
+			]
+		},
+		{
+			"sin_private": [
+				{
+					"hv": "sg2plcldhv001-19.prod.sin2.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-17.prod.sin2.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-05.prod.sin2.gdg",
+					"disk_usage": "17%",
+					"ram_usage": "11%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-22.prod.sin2.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-20.prod.sin2.gdg",
+					"disk_usage": "3%",
+					"ram_usage": "12%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-04.prod.sin2.gdg",
+					"disk_usage": "9%",
+					"ram_usage": "18%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv001-16.prod.sin2.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "8%",
+					"raid_punctures": "4"
+				},
+				{
+					"hv": "sg2plcldhv002-15.prod.sin2.gdg",
+					"disk_usage": "18%",
+					"ram_usage": "11%",
+					"raid_punctures": "2"
+				},
+				{
+					"hv": "sg2plcldhv006-20.prod.sin2.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv006-21.prod.sin2.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "18%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv006-22.prod.sin2.gdg",
+					"disk_usage": "18%",
+					"ram_usage": "18%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv006-23.prod.sin2.gdg",
+					"disk_usage": "5%",
+					"ram_usage": "31%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv005-24.prod.sin2.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv004-05.prod.sin2.gdg",
+					"disk_usage": "15%",
+					"ram_usage": "5%",
+					"raid_punctures": "1"
+				},
+				{
+					"hv": "sg2plcldhv003-06.prod.sin2.gdg",
+					"disk_usage": "1%",
+					"ram_usage": "6%",
+					"raid_punctures": "1"
+				}
+			]
+		}
+	]
+}
+
 ]
